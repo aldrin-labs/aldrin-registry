@@ -1,0 +1,1537 @@
+[
+  {
+    "name": "BTC",
+    "twitterLink": "https://twitter.com/bitcoin",
+    "marketCapLink": "https://coinmarketcap.com/en/currencies/bitcoin/"
+  },
+  {
+    "name": "ETH",
+    "twitterLink": "https://twitter.com/ethereum",
+    "marketCapLink": "https://coinmarketcap.com/en/currencies/ethereum/"
+  },
+  {
+    "name": "FTT",
+    "twitterLink": "https://twitter.com/FTX_Official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/ftx-token/"
+  },
+  {
+    "name": "YFI",
+    "twitterLink": "https://twitter.com/iearnfinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/yearn-finance/"
+  },
+  {
+    "name": "LINK",
+    "twitterLink": "https://twitter.com/chainlink",
+    "marketCapLink": "https://coinmarketcap.com/currencies/chainlink/"
+  },
+  {
+    "name": "XRP",
+    "twitterLink": "https://twitter.com/Ripple",
+    "marketCapLink": "https://coinmarketcap.com/currencies/xrp/"
+  },
+  {
+    "name": "USDT",
+    "twitterLink": "https://twitter.com/tether_to",
+    "marketCapLink": "https://coinmarketcap.com/currencies/tether/"
+  },
+  {
+    "name": "WUSDT",
+    "twitterLink": "https://twitter.com/tether_to",
+    "marketCapLink": "https://coinmarketcap.com/currencies/tether/"
+  },
+  {
+    "name": "WUSDC",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/usd-coin/"
+  },
+  {
+    "name": "USDC",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/usd-coin/"
+  },
+  {
+    "name": "MSRM",
+    "twitterLink": "https://twitter.com/projectserum",
+    "marketCapLink": "https://coinmarketcap.com/currencies/serum-msrm/"
+  },
+  {
+    "name": "SRM",
+    "twitterLink": "https://twitter.com/projectserum",
+    "marketCapLink": "https://coinmarketcap.com/currencies/serum/"
+  },
+  {
+    "name": "SUSHI",
+    "twitterLink": "https://twitter.com/sushiswap",
+    "marketCapLink": "https://coinmarketcap.com/currencies/sushiswap/"
+  },
+  {
+    "name": "SXP",
+    "twitterLink": "https://twitter.com/SwipeWallet",
+    "marketCapLink": "https://coinmarketcap.com/currencies/swipe/"
+  },
+  {
+    "name": "ALEPH",
+    "twitterLink": "https://twitter.com/aleph_im",
+    "marketCapLink": "https://coinmarketcap.com/currencies/aleph-im/"
+  },
+  {
+    "name": "HGET",
+    "twitterLink": "https://twitter.com/team_hedget",
+    "marketCapLink": "https://coinmarketcap.com/currencies/hedget/"
+  },
+  {
+    "name": "CREAM",
+    "twitterLink": "https://twitter.com/CreamdotFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/cream-finance/"
+  },
+  {
+    "name": "UBXT",
+    "twitterLink": "https://twitter.com/UpBotscom",
+    "marketCapLink": "https://coinmarketcap.com/currencies/upbots/"
+  },
+  {
+    "name": "HNT",
+    "twitterLink": "https://twitter.com/helium",
+    "marketCapLink": "https://coinmarketcap.com/currencies/helium/"
+  },
+  {
+    "name": "FRONT",
+    "twitterLink": "https://twitter.com/FrontierDotXYZ",
+    "marketCapLink": "https://coinmarketcap.com/currencies/frontier/"
+  },
+  {
+    "name": "AKRO",
+    "twitterLink": "https://twitter.com/akropolisio",
+    "marketCapLink": "https://coinmarketcap.com/currencies/akropolis/"
+  },
+  {
+    "name": "HXRO",
+    "twitterLink": "https://twitter.com/RealHxro",
+    "marketCapLink": "https://coinmarketcap.com/currencies/hxro/"
+  },
+  {
+    "name": "UNI",
+    "twitterLink": "https://twitter.com/Uniswap",
+    "marketCapLink": "https://coinmarketcap.com/currencies/uniswap/"
+  },
+  {
+    "name": "KEEP",
+    "twitterLink": "https://twitter.com/keep_project",
+    "marketCapLink": "https://coinmarketcap.com/currencies/keep-network/"
+  },
+  {
+    "name": "MATH",
+    "twitterLink": "https://twitter.com/Mathwallet",
+    "marketCapLink": "https://coinmarketcap.com/currencies/math/"
+  },
+  {
+    "name": "SOL",
+    "twitterLink": "https://twitter.com/solana",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solana/"
+  },
+  {
+    "name": "TOMO",
+    "twitterLink": "https://twitter.com/TomoChainANN",
+    "marketCapLink": "https://coinmarketcap.com/currencies/tomochain/"
+  },
+  {
+    "name": "LUA",
+    "twitterLink": "https://twitter.com/LuaSwap",
+    "marketCapLink": "https://coinmarketcap.com/currencies/lua-token/"
+  },
+  {
+    "name": "SWAG",
+    "twitterLink": "https://twitter.com/swag_finance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/swag-finance/"
+  },
+  {
+    "name": "FIDA",
+    "twitterLink": "https://twitter.com/bonfida",
+    "marketCapLink": "https://coinmarketcap.com/currencies/bonfida/"
+  },
+  {
+    "name": "KIN",
+    "twitterLink": "https://twitter.com/kin_ecosystem",
+    "marketCapLink": "https://coinmarketcap.com/currencies/kin/"
+  },
+  {
+    "name": "MAPS",
+    "twitterLink": "https://twitter.com/MAPS_ME",
+    "marketCapLink": "https://coinmarketcap.com/currencies/maps/"
+  },
+  {
+    "name": "OXY",
+    "twitterLink": "https://twitter.com/Oxygen_protocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/oxygen/"
+  },
+  {
+    "name": "RAY",
+    "twitterLink": "https://twitter.com/raydiumprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/raydium/"
+  },
+  {
+    "name": "xCOPE",
+    "twitterLink": "https://twitter.com/cyrii_MM",
+    "marketCapLink": "https://coinmarketcap.com/currencies/cope/"
+  },
+  {
+    "name": "AAVE",
+    "twitterLink": "https://twitter.com/AaveAave",
+    "marketCapLink": "https://coinmarketcap.com/currencies/aave/"
+  },
+  {
+    "name": "CEL",
+    "twitterLink": "https://twitter.com/celsiusnetwork",
+    "marketCapLink": "https://coinmarketcap.com/currencies/celsius/"
+  },
+  {
+    "name": "RSR",
+    "twitterLink": "https://twitter.com/reserveprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/reserve-rights/"
+  },
+  {
+    "name": "TRYB",
+    "twitterLink": "https://twitter.com/BiLira_Official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/bilira/"
+  },
+  {
+    "name": "COPE",
+    "twitterLink": "https://twitter.com/cyrii_MM",
+    "marketCapLink": "https://coinmarketcap.com/currencies/cope/"
+  },
+  {
+    "name": "MER",
+    "twitterLink": "https://twitter.com/MercurialFi",
+    "marketCapLink": "https://coinmarketcap.com/currencies/mercurial-finance/"
+  },
+  {
+    "name": "RIN",
+    "twitterLink": "https://twitter.com/Aldrin_Exchange",
+    "marketCapLink": "https://coinmarketcap.com/currencies/aldrin/"
+  },
+  {
+    "name": "EOSBEAR",
+    "twitterLink": "https://twitter.com/block_one_",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-eos-token/"
+  },
+  {
+    "name": "EOSBULL",
+    "twitterLink": "https://twitter.com/block_one_",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-eos-token/"
+  },
+  {
+    "name": "BNBBEAR",
+    "twitterLink": "https://twitter.com/binance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-bnb-token/"
+  },
+  {
+    "name": "BNBBULL",
+    "twitterLink": "https://twitter.com/binance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-bnb-token/"
+  },
+  {
+    "name": "BSVBULL",
+    "twitterLink": "https://twitter.com/BitcoinAssn",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-bitcoin-sv-token/"
+  },
+  {
+    "name": "BSVBEAR",
+    "twitterLink": "https://twitter.com/BitcoinAssn",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-bitcoin-sv-token/"
+  },
+  {
+    "name": "LTCBEAR",
+    "twitterLink": "https://twitter.com/LitecoinProject",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-litecoin-token/"
+  },
+  {
+    "name": "LTCBULL",
+    "twitterLink": "https://twitter.com/LitecoinProject",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-litecoin-token/"
+  },
+  {
+    "name": "BULL",
+    "twitterLink": "https://twitter.com/bitcoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-bitcoin-token/"
+  },
+  {
+    "name": "BEAR",
+    "twitterLink": "https://twitter.com/bitcoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-bitcoin-token/"
+  },
+  {
+    "name": "BCHBEAR",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-bitcoin-cash-token/"
+  },
+  {
+    "name": "BCHBULL",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-Long-bitcoin-cash-token/"
+  },
+  {
+    "name": "ETHBULL",
+    "twitterLink": "https://twitter.com/ethereum",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-ethereum-token/"
+  },
+  {
+    "name": "ETHBEAR",
+    "twitterLink": "https://twitter.com/ethereum",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-ethereum-token/"
+  },
+  {
+    "name": "ALTBULL",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-altcoin-index-token/"
+  },
+  {
+    "name": "ALTBEAR",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-altcoin-index-token/"
+  },
+  {
+    "name": "BULLSHIT",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-shitcoin-index-token/"
+  },
+  {
+    "name": "BEARSHIT",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-shitcoin-index-token/"
+  },
+  {
+    "name": "MIDBULL",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-midcap-index-token/"
+  },
+  {
+    "name": "MIDBEAR",
+    "twitterLink": "",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-midcap-index-token/"
+  },
+  {
+    "name": "LINKBEAR",
+    "twitterLink": "https://twitter.com/chainlink",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-Short-chainlink-token/"
+  },
+  {
+    "name": "LINKBULL",
+    "twitterLink": "https://twitter.com/chainlink",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-chainlink-token/"
+  },
+  {
+    "name": "XRPBULL",
+    "twitterLink": "https://twitter.com/Ripple",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-xrp-token/"
+  },
+  {
+    "name": "XRPBEAR",
+    "twitterLink": "https://twitter.com/Ripple",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-short-xrp-token/"
+  },
+  {
+    "name": "ODOP",
+    "twitterLink": "",
+    "marketCapLink": "https://www.coingecko.com/en/coins/odop"
+  },
+  {
+    "name": "BVOL",
+    "twitterLink": "https://twitter.com/bitcoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-bitcoin-implied-volatility-token/"
+  },
+  {
+    "name": "IBVOL",
+    "twitterLink": "https://twitter.com/bitcoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/inverse-bitcoin-volatility-token/"
+  },
+  {
+    "name": "AAVE",
+    "twitterLink": "https://twitter.com/AaveAave",
+    "marketCapLink": "https://coinmarketcap.com/currencies/aave/"
+  },
+  {
+    "name": "LQID",
+    "twitterLink": "https://twitter.com/liquid_global",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SECO",
+    "twitterLink": "https://twitter.com/projectserum",
+    "marketCapLink": "https://coinmarketcap.com/currencies/serum-ecosystem-token/"
+  },
+  {
+    "name": "HOLY",
+    "twitterLink": "https://twitter.com/FTX_official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/holy-trinity/"
+  },
+  {
+    "name": "CEL",
+    "twitterLink": "https://twitter.com/celsiusnetwork",
+    "marketCapLink": "https://coinmarketcap.com/currencies/celsius/"
+  },
+  {
+    "name": "RSR",
+    "twitterLink": "https://twitter.com/reserveprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/reserve-rights/"
+  },
+  {
+    "name": "1INCH",
+    "twitterLink": "https://twitter.com/1inch",
+    "marketCapLink": "https://coinmarketcap.com/currencies/1inch/"
+  },
+  {
+    "name": "GRT",
+    "twitterLink": "https://twitter.com/graphprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/the-graph/"
+  },
+  {
+    "name": "COMP",
+    "twitterLink": "https://twitter.com/compoundfinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/compound/"
+  },
+  {
+    "name": "PAXG",
+    "twitterLink": "https://twitter.com/paxosglobal",
+    "marketCapLink": "https://coinmarketcap.com/currencies/pax-gold/"
+  },
+  {
+    "name": "TRYB",
+    "twitterLink": "https://twitter.com/BiLira_Official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/bilira/"
+  },
+  {
+    "name": "DOGEBULL",
+    "twitterLink": "https://twitter.com/dogecoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/x-long-dogecoin-token/"
+  },
+  {
+    "name": "MAPSPOOL",
+    "twitterLink": "",
+    "marketCapLink": ""
+  },
+  {
+    "name": "MAPS",
+    "twitterLink": "https://twitter.com/MAPS_ME",
+    "marketCapLink": "https://coinmarketcap.com/currencies/maps/"
+  },
+  {
+    "name": "OXYPOOL",
+    "twitterLink": "",
+    "marketCapLink": ""
+  },
+  {
+    "name": "PERP",
+    "twitterLink": "https://twitter.com/perpprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/perpetual-protocol/"
+  },
+  {
+    "name": "RAYPOOL",
+    "twitterLink": "",
+    "marketCapLink": ""
+  },
+  {
+    "name": "RAY",
+    "twitterLink": "https://twitter.com/raydiumprotocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/raydium/"
+  },
+  {
+    "name": "OXY",
+    "twitterLink": "https://twitter.com/Oxygen_protocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/oxygen/"
+  },
+  {
+    "name": "LIEN",
+    "twitterLink": "https://twitter.com/LienFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/lien/"
+  },
+  {
+    "name": "ROPE",
+    "twitterLink": "https://twitter.com/rope_official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/rope-token/"
+  },
+  {
+    "name": "STEP",
+    "twitterLink": "https://twitter.com/stepfinance_",
+    "marketCapLink": "https://coinmarketcap.com/currencies/step-finance/"
+  },
+  {
+    "name": "SAMO",
+    "twitterLink": "https://twitter.com/samoyedcoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/somoyedcoin/"
+  },
+  {
+    "name": "MEDIA",
+    "twitterLink": "https://twitter.com/Media_FDN",
+    "marketCapLink": "https://coinmarketcap.com/currencies/media-network/"
+  },
+  {
+    "name": "TULIP",
+    "twitterLink": "https://twitter.com/Solfarmio",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solfarm/"
+  },
+  {
+    "name": "MER",
+    "twitterLink": "https://twitter.com/MercurialFi",
+    "marketCapLink": "https://coinmarketcap.com/currencies/mercurial-finance/"
+  },
+  {
+    "name": "MERPOOL",
+    "twitterLink": "",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SLIM",
+    "twitterLink": "https://twitter.com/solanium_io",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solanium/"
+  },
+  {
+    "name": "FTR",
+    "twitterLink": "https://www.twitter.com/ftr_finance",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SNY",
+    "twitterLink": "https://twitter.com/synthetify",
+    "marketCapLink": "https://coinmarketcap.com/currencies/synthetify/"
+  },
+  {
+    "name": "LIQ",
+    "twitterLink": "https://twitter.com/liqprotocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/liq-protocol"
+  },
+  {
+    "name": "BOP",
+    "twitterLink": "https://twitter.com/BoringProtocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/boring-protocol"
+  },
+  {
+    "name": "WOO",
+    "twitterLink": "https://twitter.com/wootraderS",
+    "marketCapLink": "https://coinmarketcap.com/currencies/wootrade/"
+  },
+  {
+    "name": "CATO",
+    "twitterLink": "https://twitter.com/SolanaCATO",
+    "marketCapLink": "https://www.coingecko.com/en/coins/cato"
+  },
+  {
+    "name": "FAB",
+    "twitterLink": "https://twitter.com/official_fabric",
+    "marketCapLink": "https://www.coingecko.com/en/coins/fabric"
+  },
+  {
+    "name": "DGX",
+    "twitterLink": "https://twitter.com/dgxsolana",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SAIL",
+    "twitterLink": "https://twitter.com/SolanaSail",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solanasail/"
+  },
+  {
+    "name": "BOLE",
+    "twitterLink": "https://twitter.com/newBoleToken",
+    "marketCapLink": "https://www.coingecko.com/en/coins/bole-token"
+  },
+  {
+    "name": "SOLAPE",
+    "twitterLink": "https://twitter.com/SolApeFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solapefinance/"
+  },
+  {
+    "name": "SLRS",
+    "twitterLink": "https://twitter.com/SolriseFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solrise-finance/"
+  },
+  {
+    "name": "SBR",
+    "twitterLink": "https://twitter.com/Saber_HQ",
+    "marketCapLink": "https://www.coingecko.com/en/coins/saber"
+  },
+  {
+    "name": "ETHV",
+    "twitterLink": "https://twitter.com/volmexfinance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/ethereum-volatility-index-token"
+  },
+  {
+    "name": "IETHV",
+    "twitterLink": "https://twitter.com/volmexfinance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token"
+  },
+  {
+    "name": "MNGO",
+    "twitterLink": "https://twitter.com/mangomarkets",
+    "marketCapLink": "https://coinmarketcap.com/en/currencies/mango-markets/"
+  },
+  {
+    "name": "ORCA",
+    "twitterLink": "https://twitter.com/orca_so",
+    "marketCapLink": "https://coinmarketcap.com/currencies/orca/"
+  },
+  {
+    "name": "PORT",
+    "twitterLink": "https://twitter.com/port_finance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/port-finance/"
+  },
+  {
+    "name": "DXL",
+    "twitterLink": "https://twitter.com/Dexlab_official",
+    "marketCapLink": "https://coinmarketcap.com/currencies/dexlab/"
+  },
+  {
+    "name": "APEX",
+    "twitterLink": "https://twitter.com/apeXit_finance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/apexit-finance"
+  },
+  {
+    "name": "CRP",
+    "twitterLink": "https://twitter.com/CropperFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/cropperfinance/"
+  },
+  {
+    "name": "SUNNY",
+    "twitterLink": "https://twitter.com/SunnyAggregator",
+    "marketCapLink": "https://coinmarketcap.com/currencies/sunny-aggregator/"
+  },
+  {
+    "name": "ATLAS",
+    "twitterLink": "https://twitter.com/staratlas",
+    "marketCapLink": "https://coinmarketcap.com/currencies/star-atlas/"
+  },
+  {
+    "name": "POLIS",
+    "twitterLink": "https://twitter.com/staratlas",
+    "marketCapLink": "https://coinmarketcap.com/currencies/star-atlas-polis/"
+  },
+  {
+    "name": "LIKE",
+    "twitterLink": "https://twitter.com/only1nft",
+    "marketCapLink": "https://coinmarketcap.com/currencies/only1/"
+  },
+  {
+    "name": "CYS",
+    "twitterLink": "https://twitter.com/cyclosfi",
+    "marketCapLink": "https://coinmarketcap.com/ru/currencies/cyclos/"
+  },
+  {
+    "name": "GRAPE",
+    "twitterLink": "https://twitter.com/grapeprotocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/grape"
+  },
+  {
+    "name": "PRT",
+    "twitterLink": "https://twitter.com/gopartyparrot",
+    "marketCapLink": ""
+  },
+  {
+    "name": "YARD",
+    "twitterLink": "https://twitter.com/SolyardFinance",
+    "marketCapLink": "https://coinmarketcap.com/ru/currencies/solyard-finance"
+  },
+  {
+    "name": "gSAIL",
+    "twitterLink": "https://twitter.com/SolanaSail",
+    "marketCapLink": "https://coinmarketcap.com/ru/currencies/solanasail-governance-token"
+  },
+  {
+    "name": "DATE",
+    "twitterLink": "https://twitter.com/SolDate_org",
+    "marketCapLink": ""
+  },
+  {
+    "name": "MOLA",
+    "twitterLink": "https://twitter.com/xmoonlana",
+    "marketCapLink": "https://coinmarketcap.com/ru/currencies/moonlana/"
+  },
+  {
+    "name": "LARIX",
+    "twitterLink": "https://twitter.com/ProjectLarix",
+    "marketCapLink": "https://coinmarketcap.com/currencies/larix/"
+  },
+  {
+    "name": "SYP",
+    "twitterLink": "https://twitter.com/SYP_Protocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/sypool/"
+  },
+  {
+    "name": "SWAN",
+    "twitterLink": "https://twitter.com/Swan_Solana",
+    "marketCapLink": "https://www.coingecko.com/en/coins/swanlana"
+  },
+  {
+    "name": "ACMN",
+    "twitterLink": "https://twitter.com/acumenofficial",
+    "marketCapLink": ""
+  },
+  {
+    "name": "TOX",
+    "twitterLink": "https://twitter.com/trollboxio",
+    "marketCapLink": "https://www.coingecko.com/en/coins/trollbox"
+  },
+  {
+    "name": "KEKW",
+    "twitterLink": "https://twitter.com/kekwcoin",
+    "marketCapLink": "https://www.coingecko.com/en/coins/kekwcoin"
+  },
+  {
+    "name": "SPWN",
+    "twitterLink": "https://twitter.com/BitspawnGG",
+    "marketCapLink": "https://coinmarketcap.com/currencies/bitspawn-protocol/"
+  },
+  {
+    "name": "CHEEMS",
+    "twitterLink": "https://twitter.com/theCheemsToken",
+    "marketCapLink": "https://www.coingecko.com/en/coins/cheems"
+  },
+  {
+    "name": "MIM",
+    "twitterLink": "https://twitter.com/mimswarm",
+    "marketCapLink": "https://nomics.com/assets/mim2-mim"
+  },
+  {
+    "name": "KURO",
+    "twitterLink": "https://twitter.com/kurobi_io",
+    "marketCapLink": ""
+  },
+  {
+    "name": "NINJA",
+    "twitterLink": "https://twitter.com/NINJASolProto",
+    "marketCapLink": ""
+  },
+  {
+    "name": "ABR",
+    "twitterLink": "https://twitter.com/Allbridge_io",
+    "marketCapLink": ""
+  },
+  {
+    "name": "COBAN",
+    "twitterLink": "https://twitter.com/de_coban",
+    "marketCapLink": ""
+  },
+  {
+    "name": "CRY",
+    "twitterLink": "https://twitter.com/Crystal80955369",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SFCN",
+    "twitterLink": "https://twitter.com/safecoin",
+    "marketCapLink": ""
+  },
+  {
+    "name": "CHIH",
+    "twitterLink": "https://twitter.com/ChihuahuaSol",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SOLA",
+    "twitterLink": "https://twitter.com/EcoSolana",
+    "marketCapLink": "https://coinmarketcap.com/currencies/sola/"
+  },
+  {
+    "name": "ALM",
+    "twitterLink": "https://twitter.com/almond_so",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SOB",
+    "twitterLink": "https://twitter.com/SolaLambo?s=09",
+    "marketCapLink": ""
+  },
+  {
+    "name": "FRIES",
+    "twitterLink": "https://twitter.com/Soltato_NFT",
+    "marketCapLink": ""
+  },
+  {
+    "name": "MNDE",
+    "twitterLink": "https://twitter.com/marinadeFinance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/marinade"
+  },
+  {
+    "name": "mSol",
+    "twitterLink": "https://twitter.com/marinadeFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/marinade/"
+  },
+  {
+    "name": "HAMS",
+    "twitterLink": "https://twitter.com/sol_hamster",
+    "marketCapLink": "https://coinmarketcap.com/currencies/space-hamster/"
+  },
+  {
+    "name": "BST",
+    "twitterLink": "https://twitter.com/balisaritrans",
+    "marketCapLink": "https://nomics.com/assets/bst4-balisari"
+  },
+  {
+    "name": "IVN",
+    "twitterLink": "https://twitter.com/investin_pro",
+    "marketCapLink": "https://coinmarketcap.com/currencies/investin/"
+  },
+  {
+    "name": "SLX",
+    "twitterLink": "https://twitter.com/SolexFinance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/solex-finance"
+  },
+  {
+    "name": "JET",
+    "twitterLink": "https://twitter.com/JetProtocol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/jet-protocol/"
+  },
+  {
+    "name": "PLEB",
+    "twitterLink": "https://twitter.com/rare_wojak"
+  },
+  {
+    "name": "WOOF",
+    "twitterLink": "https://twitter.com/WoofSolana",
+    "marketCapLink": "https://coinmarketcap.com/currencies/woof"
+  },
+  {
+    "name": "ASH",
+    "twitterLink": "https://twitter.com/SolAshera",
+    "marketCapLink": "https://coinmarketcap.com/currencies/ashera"
+  },
+  {
+    "name": "LIZARD",
+    "twitterLink": "https://twitter.com/Lizard_Token"
+  },
+  {
+    "name": "PGNT",
+    "twitterLink": "https://twitter.com/PigeonSol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/pigeonsol"
+  },
+  {
+    "name": "INU",
+    "twitterLink": "https://twitter.com/SolanaINU"
+  },
+  {
+    "name": "SHBL",
+    "twitterLink": "https://twitter.com/ShoebillCoin",
+    "marketCapLink": "https://www.coingecko.com/en/coins/shoebill-coin"
+  },
+  {
+    "name": "SOLJAV",
+    "twitterLink": "https://twitter.com/SOLJAV1",
+    "marketCapLink": "https://nomics.com/assets/soljav-soljav"
+  },
+  {
+    "name": "BORK",
+    "twitterLink": "https://twitter.com/BorkSolana"
+  },
+  {
+    "name": "DEGN",
+    "twitterLink": "https://twitter.com/DegenDex",
+    "marketCapLink": "https://coinmarketcap.com/currencies/degen-dex/"
+  },
+  {
+    "name": "PIZZLY",
+    "twitterLink": "http://twitter.com/pizzlybearsnft"
+  },
+  {
+    "name": "FLOOF",
+    "twitterLink": "https://twitter.com/FLOOF_SOLANA"
+  },
+  {
+    "name": "LEONIDAS",
+    "twitterLink": "https://twitter.com/leonidas_token"
+  },
+  {
+    "name": "SOLBERRY",
+    "twitterLink": "https://twitter.com/BerrySol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solberry/"
+  },
+  {
+    "name": "BIP",
+    "twitterLink": "https://mobile.twitter.com/TheStarshipDeFi"
+  },
+  {
+    "name": "OOGI",
+    "twitterLink": "https://twitter.com/oogicoin",
+    "marketCapLink": "https://www.coingecko.com/en/coins/oogi"
+  },
+  {
+    "name": "DINO",
+    "twitterLink": "https://twitter.com/SolanaDINO",
+    "marketCapLink": "https://coinmarketcap.com/currencies/dino/"
+  },
+  {
+    "name": "SDOGE",
+    "twitterLink": "https://twitter.com/SolanaDoge?s=20",
+    "marketCapLink": "https://www.coingecko.com/en/coins/soldoge"
+  },
+  {
+    "name": "BMBO",
+    "twitterLink": "https://twitter.com/BambooCoin",
+    "marketCapLink": "https://www.coingecko.com/en/coins/bamboo-coin"
+  },
+  {
+    "name": "SBULL",
+    "twitterLink": "https://twitter.com/GoPromotedCom",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SPKL",
+    "twitterLink": "https://twitter.com/SpookeletonsNFT",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SHIBL",
+    "twitterLink": "https://twitter.com/shibalana_inu",
+    "marketCapLink": ""
+  },
+  {
+    "name": "CAVE",
+    "twitterLink": "https://twitter.com/TheCavemenClub",
+    "marketCapLink": "https://www.coingecko.com/en/coins/crypto-cavemen"
+  },
+  {
+    "name": "BABY",
+    "twitterLink": "https://twitter.com/BabySamoCoin",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SLND",
+    "twitterLink": "https://twitter.com/solendprotocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/solend"
+  },
+  {
+    "name": "SPX",
+    "twitterLink": "https://twitter.com/sphinxelspx",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SAO",
+    "twitterLink": "https://twitter.com/SatorSAO",
+    "marketCapLink": "https://www.coingecko.com/en/coins/sator"
+  },
+  {
+    "name": "WIPE",
+    "twitterLink": "https://twitter.com/WipeMyAssNFT",
+    "marketCapLink": "https://coinmarketcap.com/currencies/wipe-my-ass/"
+  },
+  {
+    "name": "OTR",
+    "twitterLink": "https://twitter.com/otter_finance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/otter-finance/"
+  },
+  {
+    "name": "FUM",
+    "twitterLink": "https://twitter.com/FUMindset",
+    "marketCapLink": ""
+  },
+  {
+    "name": "GMCOIN",
+    "twitterLink": "https://twitter.com/gmcoinsol",
+    "marketCapLink": ""
+  },
+  {
+    "name": "ASTRA",
+    "twitterLink": "https://twitter.com/AstraPad",
+    "marketCapLink": "https://coinmarketcap.com/currencies/astrapad/"
+  },
+  {
+    "name": "LGBR",
+    "twitterLink": "https://twitter.com/LGBRCoin",
+    "marketCapLink": ""
+  },
+  {
+    "name": "BDE",
+    "twitterLink": "https://twitter.com/BigDefi",
+    "marketCapLink": "https://www.coingecko.com/en/coins/big-defi-energy"
+  },
+  {
+    "name": "IN",
+    "twitterLink": "https://twitter.com/InvictusDAO",
+    "marketCapLink": "https://www.coingecko.com/en/coins/invictus"
+  },
+  {
+    "name": "DICK",
+    "twitterLink": "https://twitter.com/dickcoinmoon",
+    "marketCapLink": "https://coinmarketcap.com/currencies/dickcoinmoon/"
+  },
+  {
+    "name": "KINGSHIB",
+    "twitterLink": "https://twitter.com/kingshiba_sol",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SAMU",
+    "twitterLink": "https://twitter.com/samuskyio",
+    "marketCapLink": "https://www.coingecko.com/tr/coins/samusky-token"
+  },
+  {
+    "name": "GMC",
+    "twitterLink": "https://twitter.com/GMCoiners",
+    "marketCapLink": ""
+  },
+  {
+    "name": "PART",
+    "twitterLink": "https://twitter.com/particle_techno",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SHIHT",
+    "twitterLink": "https://twitter.com/ShihTzuSolana",
+    "marketCapLink": ""
+  },
+  {
+    "name": "KITTY",
+    "twitterLink": "https://twitter.com/kitty_solana",
+    "marketCapLink": ""
+  },
+  {
+    "name": "ACE",
+    "twitterLink": "https://twitter.com/ACEproject__",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SPLN",
+    "twitterLink": "https://twitter.com/sheeplana_coin",
+    "marketCapLink": ""
+  },
+  {
+    "name": "TBK",
+    "twitterLink": "https://twitter.com/TokenBook_tbk",
+    "marketCapLink": ""
+  },
+  {
+    "name": "FLOKI",
+    "twitterLink": "https://twitter.com/FlokiVikingSOL",
+    "marketCapLink": ""
+  },
+  {
+    "name": "BSAMO",
+    "twitterLink": "https://twitter.com/BuffSamo",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SHILL",
+    "twitterLink": "https://twitter.com/ProjectSeedGame",
+    "marketCapLink": "https://coinmarketcap.com/currencies/project-seed/"
+  },
+  {
+    "name": "DEEZ",
+    "twitterLink": "https://twitter.com/DeezSolana",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SAMOL",
+    "twitterLink": "https://twitter.com/samolana3",
+    "marketCapLink": ""
+  },
+  {
+    "name": "GLUB",
+    "twitterLink": "https://twitter.com/BWhaleClub",
+    "marketCapLink": ""
+  },
+  {
+    "name": "WAGMI",
+    "twitterLink": "https://twitter.com/WAGMI_Sol",
+    "marketCapLink": ""
+  },
+  {
+    "name": "MEME",
+    "twitterLink": "https://twitter.com/MemeMarketNFT",
+    "marketCapLink": ""
+  },
+  {
+    "name": "APPLE",
+    "twitterLink": "https://twitter.com/superfruitnft",
+    "marketCapLink": "https://www.coingecko.com/en/coins/apple"
+  },
+  {
+    "name": "MILLI",
+    "twitterLink": "https://twitter.com/MILLIONSYio",
+    "marketCapLink": "https://coinmarketcap.com/currencies/millionsy"
+  },
+  {
+    "name": "HIMA",
+    "twitterLink": "https://twitter.com/himacoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/himalayan-cat-coin/"
+  },
+  {
+    "name": "SOLAB",
+    "twitterLink": "https://twitter.com/Solabrador",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SLT",
+    "twitterLink": "https://twitter.com/solitso",
+    "marketCapLink": "https://www.coingecko.com/en/coins/solit"
+  },
+  {
+    "name": "BOKU",
+    "twitterLink": "https://twitter.com/BoryokuDragonz",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SWERVE",
+    "twitterLink": "https://twitter.com/swervesolana",
+    "marketCapLink": ""
+  },
+  {
+    "name": "PANDA",
+    "twitterLink": "https://twitter.com/pandacoin_fi",
+    "marketCapLink": "https://coinmarketcap.com/currencies/panda-coin/"
+  },
+  {
+    "name": "SOLFI",
+    "twitterLink": "https://twitter.com/solfina_io",
+    "marketCapLink": ""
+  },
+  {
+    "name": "SONAR",
+    "twitterLink": "https://twitter.com/Sonarwatch",
+    "marketCapLink": "https://www.coingecko.com/en/coins/sonarwatch"
+  },
+  {
+    "name": "APT",
+    "twitterLink": "https://twitter.com/ApricotFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/apricot/"
+  },
+  {
+    "name": "FRKT",
+    "twitterLink": "https://twitter.com/FraktArt",
+    "marketCapLink": "https://coinmarketcap.com/currencies/frakt-token/"
+  },
+  {
+    "name": "DSOL",
+    "twitterLink": "https://twitter.com/decentsol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/decentsol"
+  },
+  {
+    "name": "PAWS",
+    "twitterLink": "https://twitter.com/Sol_Paws",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solana-paws/"
+  },
+  {
+    "name": "MOF",
+    "twitterLink": "https://twitter.com/MolarFinance",
+    "marketCapLink": ""
+  },
+  {
+    "name": "DSC",
+    "twitterLink": "https://twitter.com/dscoinsolana",
+    "marketCapLink": "https://coinmarketcap.com/currencies/doggystyle-coin/"
+  },
+  {
+    "name": "DAWG",
+    "twitterLink": "https://twitter.com/thedogecapital",
+    "marketCapLink": ""
+  },
+  {
+    "name": "APEC",
+    "twitterLink": "https://twitter.com/apeccoin",
+    "marketCapLink": ""
+  },
+  {
+    "name": "DFL",
+    "twitterLink": "https://twitter.com/DeFi_Land",
+    "marketCapLink": "https://www.coingecko.com/en/coins/defi-land"
+  },
+  {
+    "name": "UXP",
+    "twitterLink": "https://twitter.com/UXDProtocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/uxd-protocol-token"
+  },
+  {
+    "name": "MUTANT",
+    "twitterLink": "https://twitter.com/MutatedMonkes"
+  },
+  {
+    "name": "TRTLS",
+    "twitterLink": "https://twitter.com/TurtlesNFT"
+  },
+  {
+    "name": "POLE",
+    "twitterLink": "https://twitter.com/Pole_Finance"
+  },
+  {
+    "name": "RDPART",
+    "twitterLink": "https://twitter.com/rdinitiativ"
+  },
+  {
+    "name": "PIXL",
+    "twitterLink": "https://twitter.com/pixels_so"
+  },
+  {
+    "name": "FUM",
+    "twitterLink": "https://twitter.com/FUMindset",
+    "marketCapLink": "https://coinmarketcap.com/currencies/fumoney"
+  },
+  {
+    "name": "UPS",
+    "twitterLink": "https://twitter.com/upfi_network",
+    "marketCapLink": "https://coinmarketcap.com/currencies/upfi-network"
+  },
+  {
+    "name": "FLOW",
+    "twitterLink": "https://twitter.com/FlowerSolana"
+  },
+  {
+    "name": "Jungle",
+    "twitterLink": "https://twitter.com/JungleOnSol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/jungle"
+  },
+  {
+    "name": "TTT",
+    "twitterLink": "https://twitter.com/tabtraderpro",
+    "marketCapLink": "https://coinmarketcap.com/currencies/tabtrader-token"
+  },
+  {
+    "name": "VINU",
+    "twitterLink": "https://twitter.com/ViralInu",
+    "marketCapLink": "https://coinmarketcap.com/currencies/viral-inu/"
+  },
+  {
+    "name": "MONGOOSE",
+    "twitterLink": "https://twitter.com/mongoosescoin"
+  },
+  {
+    "name": "CRYY",
+    "twitterLink": "https://twitter.com/crycoinofficial"
+  },
+  {
+    "name": "NAXAR",
+    "twitterLink": "https://twitter.com/_Naxar",
+    "marketCapLink": "https://coinmarketcap.com/currencies/naxar/"
+  },
+  {
+    "name": "BASIS",
+    "twitterLink": "https://twitter.com/basismarkets",
+    "marketCapLink": "https://www.coingecko.com/en/coins/basis-markets"
+  },
+  {
+    "name": "CRWNY",
+    "twitterLink": "https://twitter.com/crownyio",
+    "marketCapLink": "https://coinmarketcap.com/ru/currencies/crowny/"
+  },
+  {
+    "name": "SAFU",
+    "twitterLink": "https://twitter.com/1safu_sol"
+  },
+  {
+    "name": "NOVA",
+    "twitterLink": "https://twitter.com/NovaFinance_"
+  },
+  {
+    "name": "ALTAR",
+    "twitterLink": "https://twitter.com/AltarFin"
+  },
+  {
+    "name": "PSK",
+    "twitterLink": "https://twitter.com/solventprotocol/"
+  },
+  {
+    "name": "RAC",
+    "twitterLink": "https://twitter.com/raincproject"
+  },
+  {
+    "name": "DAPE",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "SMBD",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "PRISM",
+    "twitterLink": "https://twitter.com/prism_ag",
+    "marketCapLink": "https://www.coingecko.com/en/coins/prism"
+  },
+  {
+    "name": "SOULO",
+    "twitterLink": "https://twitter.com/soulofoxNFT"
+  },
+  {
+    "name": "SHIBT",
+    "twitterLink": "https://twitter.com/Shibalight_SOL",
+    "marketCapLink": "https://coinmarketcap.com/de/currencies/shiba-light"
+  },
+  {
+    "name": "THECA",
+    "twitterLink": "https://twitter.com/theca_org",
+    "marketCapLink": "https://www.coingecko.com/en/coins/theca"
+  },
+  {
+    "name": "SPZ",
+    "twitterLink": "https://twitter.com/solprize"
+  },
+  {
+    "name": "SHDW",
+    "twitterLink": "https://twitter.com/GenesysGo"
+  },
+  {
+    "name": "TICKET",
+    "twitterLink": "https://twitter.com/TheTicketSol",
+    "marketCapLink": "https://coinmarketcap.com/currencies/ticket-finance"
+  },
+  {
+    "name": "MEAN",
+    "twitterLink": "https://twitter.com/meanfinance",
+    "marketCapLink": "https://www.coingecko.com/en/coins/meanfi"
+  },
+  {
+    "name": "HIPPO",
+    "twitterLink": "https://twitter.com/HipposCoin",
+    "marketCapLink": "https://coinmarketcap.com/currencies/hippo-coin"
+  },
+  {
+    "name": "GGSG",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "SHIBA",
+    "twitterLink": "https://twitter.com/shibalana",
+    "marketCapLink": "https://www.coingecko.com/en/coins/shibalana"
+  },
+  {
+    "name": "TRUESIGHT",
+    "twitterLink": "https://twitter.com/TrueSightMe"
+  },
+  {
+    "name": "SOLID",
+    "twitterLink": "https://twitter.com/ProtocolSolid",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solid-protocol"
+  },
+  {
+    "name": "stSOL",
+    "twitterLink": "https://twitter.com/lidofinance",
+    "marketCapLink": ""
+  },
+  {
+    "name": "CONDOMS",
+    "twitterLink": "https://twitter.com/solcondoms",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solcondoms"
+  },
+  {
+    "name": "SVT",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "BAPE",
+    "twitterLink": "https://twitter.com/BAPESocialClub"
+  },
+  {
+    "name": "CWM",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "NXDF",
+    "twitterLink": "https://twitter.com/NXDF16",
+    "marketCapLink": "https://www.coingecko.com/en/coins/next-defi-protocol"
+  },
+  {
+    "name": "VITAL",
+    "twitterLink": "https://twitter.com/vitallmarkets",
+    "marketCapLink": "https://www.coingecko.com/en/coins/vitall-markets"
+  },
+  {
+    "name": "Seagrass",
+    "twitterLink": "https://twitter.com/Scallop_io"
+  },
+  {
+    "name": "Fossil",
+    "twitterLink": "https://twitter.com/Scallop_io"
+  },
+  {
+    "name": "SWOLE",
+    "twitterLink": "https://twitter.com/swoledoge",
+    "marketCapLink": "https://coinmarketcap.com/currencies/swole-doge"
+  },
+  {
+    "name": "SIM",
+    "twitterLink": "https://twitter.com/solanaPSB"
+  },
+  {
+    "name": "ISS",
+    "twitterLink": "https://twitter.com/irishsettersol"
+  },
+  {
+    "name": "WVIP",
+    "twitterLink": "https://twitter.com/WAGMI_VIP_Club"
+  },
+  {
+    "name": "AART",
+    "twitterLink": "https://twitter.com/AllArtProtocol",
+    "marketCapLink": "https://www.coingecko.com/en/coins/all-art"
+  },
+  {
+    "name": "SOB2",
+    "twitterLink": "https://twitter.com/SolaLambo"
+  },
+  {
+    "name": "BITXBIT",
+    "twitterLink": ""
+  },
+  {
+    "name": "daoSOL",
+    "twitterLink": "https://twitter.com/DaoPool"
+  },
+  {
+    "name": "BUNNY",
+    "twitterLink": "https://twitter.com/SolanaBunny"
+  },
+  {
+    "name": "SLCAT",
+    "twitterLink": "https://twitter.com/saladcatcoin"
+  },
+  {
+    "name": "BMA",
+    "twitterLink": "https://twitter.com/boom_army_"
+  },
+  {
+    "name": "ULA",
+    "marketCapLink": "https://www.coingecko.com/en/tokens/ula"
+  },
+  {
+    "name": "CMFI",
+    "twitterLink": "https://twitter.com/CompendiumFi",
+    "marketCapLink": "https://coinmarketcap.com/currencies/compendium-finance"
+  },
+  {
+    "name": "GOON",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "FREN",
+    "twitterLink": "https://twitter.com/@SolanaFren",
+    "marketCapLink": "https://coinmarketcap.com/currencies/solana-fren"
+  },
+  {
+    "name": "DLN",
+    "twitterLink": "https://twitter.com/goekdln"
+  },
+  {
+    "name": "KITTY2",
+    "twitterLink": "https://twitter.com/KittyCoinSolana",
+    "marketCapLink": "https://www.coingecko.com/en/coins/kitty-coin-solana"
+  },
+  {
+    "name": "SOLACE",
+    "twitterLink": "https://twitter.com/SolaceToken",
+    "marketCapLink": "https://nomics.com/assets/solace3-solace-token"
+  },
+  {
+    "name": "EPOCH",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  {
+    "name": "KASHI",
+    "twitterLink": "https://twitter.com/kashidragons"
+  },
+  {
+    "name": "PRMD",
+    "twitterLink": "https://twitter.com/Primordialsgame"
+  },
+  {
+    "name": "LRA",
+    "twitterLink": "https://twitter.com/LumosExchange"
+  },
+  {
+    "name": "FRTN",
+    "twitterLink": "https://twitter.com/fortunefinance_",
+    "marketCapLink": "https://www.coingecko.com/en/coins/fortune-finance"
+  },
+  {
+    "name": "CRB",
+    "twitterLink": "https://twitter.com/CerebroFinance"
+  },
+  {
+    "name": "METAIN",
+    "twitterLink": "https://twitter.com/Metatenure"
+  },
+  {
+    "name": "ENC",
+    "twitterLink": "https://twitter.com/encrypt_solana"
+  },
+  {
+    "name": "MHC",
+    "twitterLink": "",
+    "marketCapLink": ""
+  },
+  {
+    "name": "BND",
+    "twitterLink": "https://twitter.com/bannerdesk"
+  },
+  {
+    "name": "NAGA",
+    "twitterLink": "https://twitter.com/nagakingdom",
+    "marketCapLink": "https://coinmarketcap.com/currencies/naga-kingdom"
+  },
+  {
+    "name": "ASDEX",
+    "twitterLink": "https://twitter.com/AstraDex_Solana"
+  },
+  {
+    "name": "GEAR",
+    "twitterLink": "https://twitter.com/GenerousRobots"
+  },
+  {
+    "name": "cMETA",
+    "twitterLink": "https://twitter.com/_metaCOLLECTIVE"
+  },
+  {
+    "name": "vMETA",
+    "twitterLink": "https://twitter.com/_metaCOLLECTIVE"
+  },
+  {
+    "name": "ALL",
+    "twitterLink": "https://twitter.com/StonedApeCrew"
+  },
+  {
+    "name": "RATIO",
+    "twitterLink": "https://twitter.com/RatioFinance",
+    "marketCapLink": "https://coinmarketcap.com/currencies/ratio-finance"
+  },
+  {
+    "name": "ARTE",
+    "twitterLink": "https://twitter.com/ArtPunksNFT",
+    "marketCapLink": "https://www.coingecko.com/en/coins/arte"
+  },
+  {
+    "name": "AUR",
+    "twitterLink": "https://twitter.com/solventprotocol"
+  },
+  { "name": "BV", "twitterLink": "https://twitter.com/solventprotocol" },
+  { "name": "DGOD", "twitterLink": "https://twitter.com/solventprotocol" },
+  { "name": "LIFL", "twitterLink": "https://twitter.com/solventprotocol" },
+  { "name": "PLWAV", "twitterLink": "https://twitter.com/solventprotocol" },
+  { "name": "THUGZ", "twitterLink": "https://twitter.com/solventprotocol" },
+  { "name": "ODYSSEUS", "twitterLink": "https://twitter.com/OdysseusCoin" },
+  {
+    "name": "MMA",
+    "twitterLink": "https://twitter.com/mmagaming_io",
+    "marketCapLink": "https://www.coingecko.com/en/coins/mma-gaming"
+  },
+  { "name": "CODE", "twitterLink": "https://twitter.com/codenjobs" },
+  { "name": "HONEY", "twitterLink": "https://twitter.com/honeydefi" },
+  {
+    "name": "TRPY",
+    "twitterLink": "https://twitter.com/Real_TrippyLeaf",
+    "marketCapLink": "https://nomics.com/assets/trpy-trippy-leaf"
+  },
+  {
+    "name": "NOCH",
+    "twitterLink": "https://twitter.com/NodeBunch",
+    "marketCapLink": "https://coinmarketcap.com/currencies/nodebunch"
+  },
+  {
+    "name": "FORGE",
+    "twitterLink": "https://twitter.com/BlocksmithLabs"
+  },
+  {
+    "name": "GST",
+    "twitterLink": "https://twitter.com/Stepnofficial"
+  },
+  {
+    "name": "ACA",
+    "twitterLink": "https://twitter.com/GiraffeDAO__"
+  },
+  {
+    "name": "$EGG",
+    "twitterLink": "https://twitter.com/DrakosUnchained"
+  }
+]
