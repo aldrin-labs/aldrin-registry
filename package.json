@@ -1,8 +1,8 @@
 {
-  "name": "aldrin-registry",
-  "version": "1.0.0",
+  "name": "@flosssolis/my-test-registry",
+  "version": "0.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/aldrin-exchange/aldrin-registry.git"
   },
-  "author": "",
+  "author": "@rindeveloper",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aldrin-exchange/aldrin-registry/issues"
   },
-  "homepage": "https://github.com/aldrin-exchange/aldrin-registry#readme"
+  "homepage": "https://github.com/aldrin-exchange/aldrin-registry#readme",
+  "files": [
+    "src"
+  ],
+  "exports": {
+    "markets": "./src/markets.json"
+  }
 }
