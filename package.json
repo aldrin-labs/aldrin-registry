@@ -1,6 +1,6 @@
 {
-  "name": "@aldrin-exchange/aldrin-registry",
-  "version": "0.0.1",
+  "name": "@flosssolis/my-test-registry",
+  "version": "0.0.13",
   "description": "",
   "main": "src/index.js",
   "scripts": {
