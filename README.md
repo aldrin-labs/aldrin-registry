@@ -3,7 +3,7 @@
 ## How to install 📟 
 1. Add new dependency in package.json 
 
-`"aldrin-registry": "git+https://github.com/aldrin-exchange/aldrin-registry.git"`
+    `"aldrin-registry": "git+https://github.com/aldrin-exchange/aldrin-registry.git"`
 
 3. Install it using `yarn`
 
