@@ -1566,6 +1566,12 @@
       "deprecated": false
     },
     {
+      "name": "ALM/USDC",
+      "address": "DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
       "name": "SOB/USDC",
       "address": "HfjS66SzVEqFxAa8nSQnqHA7SnfygWqGTVz6LFS7q4zu",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
