@@ -1572,12 +1572,6 @@
       "deprecated": false
     },
     {
-      "name": "SOB/USDT",
-      "address": "8FLVTaLCQiETW3pTA6c3dSZ2rF8UwpGUakjauvqJxgtb",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
       "name": "FRIES/USDC",
       "address": "8DKD5dKmmwparxCkpV2BQFTxt164rfadK8kX3at6hWUB",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
