@@ -15,16 +15,16 @@ We have only JSON files in this repo, so you can simply import it
     import { tokens } from  'aldrin-registry/src/tokens.json'
 
 ### Market format 🛒
-        {
-          "name": "ACA/USDC",
-          "address": "FigeTPjS352wNWoxdPyyDGmbGydCDf2igq4meLYP7mX",
-		  "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-	      "deprecated": false
-	    }
+    {
+        "name": "ACA/USDC",
+        "address": "FigeTPjS352wNWoxdPyyDGmbGydCDf2igq4meLYP7mX",
+        "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+        "deprecated": false
+      }
 ### Token format 🌞
-      {
-	    "symbol": "ACA",
-	    "address": "8BLiujyxu5gJajWBXoZQkwSsamdeHNKWQbu1ApAao8Ps",
-	    "name": "Acacia",
-	    "twitterLink": "https://twitter.com/GiraffeDAO__"
-      },
+    {
+        "symbol": "ACA",
+        "address": "8BLiujyxu5gJajWBXoZQkwSsamdeHNKWQbu1ApAao8Ps",
+        "name": "Acacia",
+        "twitterLink": "https://twitter.com/GiraffeDAO__"
+      }
