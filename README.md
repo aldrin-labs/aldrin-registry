@@ -18,9 +18,9 @@ We have only JSON files in this repo, so you can simply import it
         {
           "name": "ACA/USDC",
           "address": "FigeTPjS352wNWoxdPyyDGmbGydCDf2igq4meLYP7mX",
-		  "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-	      "deprecated": false
-	    }
+		      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+	        "deprecated": false
+	      }
 ### Token format 🌞
       {
 	    "symbol": "ACA",
