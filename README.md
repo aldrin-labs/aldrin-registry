@@ -28,3 +28,15 @@ We have only JSON files in this repo, so you can simply import it
         "name": "Acacia",
         "twitterLink": "https://twitter.com/GiraffeDAO__"
       }
+### How to add new market
+
+There are 2 files you need to update:
+
+1) Add new tokens or check the tokens exist (for example, for RIN/USDC tokens are RIN & USDC) on `src/tokens.json`
+
+2) Add twitter, coinmarketcap/coingecko/nomics link to `src/tokens.json`
+
+3) Add serum market to `src/markets.json`
+
+> **Note**
+Please double-check all links (twitter, cmc, etc.), IDs and names for token and market. Please also check that the market and/or token does not already exist.
