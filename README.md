@@ -39,4 +39,4 @@ There are 2 files you need to update:
 3) Add serum market to `src/markets.json`
 
 > **Note**
-Please double-check all links (twitter, cmc, etc.), IDs and names for token and market. Please also check that the market and/or token does not already exist.
+> Please double-check all links (twitter, cmc, etc.), IDs and names for token and market. Please also check that the market and/or token does not already exist.
