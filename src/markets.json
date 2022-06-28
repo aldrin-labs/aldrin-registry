@@ -2880,12 +2880,6 @@
       "deprecated": false
     },
     {
-      "name": "ARB/USDC",
-      "address": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
       "name": "FBZ/USDC",
       "address": "AeTCFsNppdq1d5kgu489tkamCzkbsXKTcS8hRQ8qhz7m",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
