@@ -21,6 +21,7 @@
   ],
   "exports": {
     "./src/markets.json": "./src/markets.json",
+    "./src/delisted_markets.json": "./src/delisted_markets.json",
     "./src/tokens.json": "./src/tokens.json",
     "./src/idls/vesting.json": "./src/idls/vesting.json",
     "./src/idls/staking.json": "./src/idls/staking.json",
