@@ -1,6 +1,6 @@
 {
   "name": "@aldrin-exchange/aldrin-registry",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -21,8 +21,8 @@
   ],
   "exports": {
     "./src/markets.json": "./src/markets.json",
-    "./src/delisted_markets.json": "./src/delisted_markets.json",
     "./src/tokens.json": "./src/tokens.json",
+    "./src/marketsByCategories.json": "./src/marketsByCategories.json",
     "./src/idls/vesting.json": "./src/idls/vesting.json",
     "./src/idls/staking.json": "./src/idls/staking.json",
     "./src/idls/poolsV2.json": "./src/idls/poolsV2.json",
