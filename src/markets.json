@@ -1314,12 +1314,6 @@
       "deprecated": false
     },
     {
-      "name": "FAB/USDC",
-      "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
       "name": "DGX/USDC",
       "address": "3B1diUDpBciWLQLjPv28h9XPFsymxK8PSeUCnQJBxiJs",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
