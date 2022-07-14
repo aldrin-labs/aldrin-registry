@@ -9,7 +9,6 @@
         "OXY",
         "RAY",
         "GRT",
-        "FAB",
         "SLRS",
         "FTR",
         "FRONT",
@@ -299,7 +298,14 @@
         "CODE",
         "NOCH",
         "$EGG",
-        "ACA"
+        "ACA",
+        "svtAURY",
+        "svtBV",
+        "svtDAPE",
+        "svtFFF",
+        "svtGGSG",
+        "svtGENE",
+        "SSURF"
       ]
     },
     "memeSocial": {
@@ -395,7 +401,6 @@
         "cMETA"
       ]
     },
-    // syntheticAsset: { name: 'Synthetic Asset', tokens: ['SNY', 'FAB'] },
     "tradeLiquidity": {
       "name": "Trade & Liquidity",
       "tokens": [

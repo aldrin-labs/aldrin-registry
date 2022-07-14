@@ -1314,12 +1314,6 @@
       "deprecated": false
     },
     {
-      "name": "FAB/USDC",
-      "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
       "name": "DGX/USDC",
       "address": "3B1diUDpBciWLQLjPv28h9XPFsymxK8PSeUCnQJBxiJs",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
@@ -2889,6 +2883,48 @@
     {
       "name": "FBZ/USDC",
       "address": "AeTCFsNppdq1d5kgu489tkamCzkbsXKTcS8hRQ8qhz7m",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "SSURF/SOL",
+      "address": "9EohzYYJ8bkWFu1xhTcbLA5gLHh7qaTH8KGDnT5phYnU",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtGENE/SOL",
+      "address": "ArFSjGZX5YxCQ1EnMWx3fDP2WH6gGHK21gPzFDtzF71e",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtGGSG/SOL",
+      "address": "FR8Z6nCCFr7ZV8b5uddBYftCVsPwgU2vabp7YWMkKXYY",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtFFF/SOL",
+      "address": "E3fxHCkCf2Jw4zu4HhaaWH2EfGQCov2gxWZjHPscwRMi",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtDAPE/SOL",
+      "address": "E8fRXrxSWotPbP7iQatXLmnDj4efp1q7cSZ4zkhYpVS6",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtBV/SOL",
+      "address": "LwF356ST2od3Bx4Xpwh8LBtZC4yeaKeCEQ8174XXhQy",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": false
+    },
+    {
+      "name": "svtAURY/SOL",
+      "address": "AEhy4nHsJvFJD4dbHT5oBfTnkNk1o9RH3nqfb6RgikNu",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
       "deprecated": false
     }

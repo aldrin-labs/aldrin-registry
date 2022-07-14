@@ -1,6 +1,6 @@
 {
   "name": "@aldrin-exchange/aldrin-registry",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -27,6 +27,8 @@
     "./src/idls/staking.json": "./src/idls/staking.json",
     "./src/idls/poolsV2.json": "./src/idls/poolsV2.json",
     "./src/idls/pools.json": "./src/idls/pools.json",
+    "./src/idls/amm.json": "./src/idls/amm.json",
+    "./src/idls/twamm.json": "./src/idls/twamm.json",
     "./src/idls/plutonians.json": "./src/idls/plutonians.json",
     "./src/idls/marketOrder.json": "./src/idls/marketOrder.json",
     "./src/idls/farming.json": "./src/idls/farming.json"
