@@ -2927,6 +2927,12 @@
       "address": "AEhy4nHsJvFJD4dbHT5oBfTnkNk1o9RH3nqfb6RgikNu",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
       "deprecated": false
+    },
+    {
+      "name": "FAB/USDC",
+      "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+      "deprecated": true
     }
   ]
   
