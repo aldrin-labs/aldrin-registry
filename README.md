@@ -11,16 +11,16 @@
 
 
 
-## How to integrate in project
+## How to integrate in project 🌞
 
-We have only JSON files in this repo, so you can simply import it
+We have only JSON files in this repo, so you can simply import it 
 
 `import { markets } from 'aldrin-registry/src/markets.json'`
 
 `import { tokens } from 'aldrin-registry/src/tokens.json'`
 
 
-### Market format 🛒
+### Market format 
 
     {
     
@@ -35,7 +35,7 @@ We have only JSON files in this repo, so you can simply import it
     }
 
 
-### Token format 🌞
+### Token format 
 
     {
     
