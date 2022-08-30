@@ -1,144 +1,387 @@
 {
-    "version": "0.6.1",
-    "name": "amm",
-    "instructions": [
-      {
-        "name": "createProgramToll",
-        "docs": [
-          "# Important",
-          "This endpoint requires different accounts based on whether the program",
-          "is compiled with the \"dev\" feature."
-        ],
-        "accounts": [
-          {
-            "name": "programTollAuthority",
-            "isMut": true,
-            "isSigner": true
-          },
-          {
-            "name": "programToll",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "systemProgram",
-            "isMut": false,
-            "isSigner": false
+  "version": "1.0.1",
+  "name": "amm",
+  "instructions": [
+    {
+      "name": "createProgramToll",
+      "accounts": [
+        {
+          "name": "programAuthority",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "amm",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "ammMetadata",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "programTollAuthority",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "programToll",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "createDiscountSettings",
+      "accounts": [
+        {
+          "name": "programAuthority",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "amm",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "ammMetadata",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "discountSettingsAuthority",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "discountSettings",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    },
+    {
+      "name": "createPool",
+      "accounts": [
+        {
+          "name": "admin",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "pool",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "poolSigner",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "programToll",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "programTollWallet",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "lpMint",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "amplifier",
+          "type": "u64"
+        }
+      ]
+    },
+    {
+      "name": "putDiscount",
+      "accounts": [
+        {
+          "name": "authority",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "discount",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "discountSettings",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "user",
+          "type": "publicKey"
+        },
+        {
+          "name": "discountAmount",
+          "type": {
+            "defined": "Permillion"
           }
-        ],
-        "args": []
-      },
-      {
-        "name": "createDiscountSettings",
-        "docs": [
-          "# Important",
-          "This endpoint requires different accounts based on whether the program",
-          "is compiled with the \"dev\" feature."
-        ],
-        "accounts": [
-          {
-            "name": "discountSettingsAuthority",
-            "isMut": true,
-            "isSigner": true
-          },
-          {
-            "name": "discountSettings",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "systemProgram",
-            "isMut": false,
-            "isSigner": false
+        },
+        {
+          "name": "validUntil",
+          "type": {
+            "defined": "Slot"
           }
-        ],
-        "args": []
-      },
-      {
-        "name": "createPool",
-        "accounts": [
-          {
-            "name": "admin",
-            "isMut": true,
-            "isSigner": true
-          },
-          {
-            "name": "pool",
-            "isMut": true,
-            "isSigner": true
-          },
-          {
-            "name": "poolSigner",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "programToll",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "programTollWallet",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "lpMint",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "tokenProgram",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "systemProgram",
-            "isMut": false,
-            "isSigner": false
+        }
+      ]
+    },
+    {
+      "name": "setPoolSwapFee",
+      "accounts": [
+        {
+          "name": "admin",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "pool",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "fee",
+          "type": {
+            "defined": "Permillion"
           }
-        ],
-        "args": [
-          {
-            "name": "amplifier",
-            "type": "u64"
+        }
+      ]
+    },
+    {
+      "name": "depositLiquidity",
+      "accounts": [
+        {
+          "name": "user",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "pool",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "poolSignerPda",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "lpMint",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "lpTokenWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "maxAmountTokens",
+          "type": {
+            "vec": {
+              "defined": "DepositMintTokens"
+            }
           }
-        ]
-      },
-      {
-        "name": "putDiscount",
-        "accounts": [
+        }
+      ]
+    },
+    {
+      "name": "redeemLiquidity",
+      "accounts": [
+        {
+          "name": "user",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "pool",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "poolSigner",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "lpMint",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "lpTokenWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "lpTokensToBurn",
+          "type": {
+            "defined": "TokenAmount"
+          }
+        },
+        {
+          "name": "minAmountTokens",
+          "type": {
+            "vec": {
+              "defined": "RedeemMintTokens"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "swap",
+      "accounts": [
+        {
+          "name": "user",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "discount",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "pool",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "poolSigner",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "sellWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "buyWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "sellVault",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "buyVault",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "lpMint",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "programTollWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "sell",
+          "type": {
+            "defined": "TokenAmount"
+          }
+        },
+        {
+          "name": "minBuy",
+          "type": {
+            "defined": "TokenAmount"
+          }
+        }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "name": "DiscountSettings",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
             "name": "authority",
-            "isMut": false,
-            "isSigner": true
-          },
-          {
-            "name": "discount",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "[`handle`] fn"
-            ]
-          },
-          {
-            "name": "discountSettings",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "systemProgram",
-            "isMut": false,
-            "isSigner": false
-          }
-        ],
-        "args": [
-          {
-            "name": "user",
             "type": "publicKey"
-          },
+          }
+        ]
+      }
+    },
+    {
+      "name": "Discount",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
-            "name": "discountAmount",
+            "name": "amount",
             "type": {
               "defined": "Permillion"
             }
@@ -150,583 +393,243 @@
             }
           }
         ]
-      },
-      {
-        "name": "setPoolSwapFee",
-        "accounts": [
+      }
+    },
+    {
+      "name": "Pool",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
             "name": "admin",
-            "isMut": false,
-            "isSigner": true
+            "type": "publicKey"
           },
           {
-            "name": "pool",
-            "isMut": true,
-            "isSigner": false
-          }
-        ],
-        "args": [
+            "name": "signer",
+            "type": "publicKey"
+          },
           {
-            "name": "fee",
+            "name": "mint",
+            "type": "publicKey"
+          },
+          {
+            "name": "programTollWallet",
+            "type": "publicKey"
+          },
+          {
+            "name": "dimension",
+            "type": "u64"
+          },
+          {
+            "name": "reserves",
+            "type": {
+              "array": [
+                {
+                  "defined": "Reserve"
+                },
+                4
+              ]
+            }
+          },
+          {
+            "name": "curve",
+            "type": {
+              "defined": "Curve"
+            }
+          },
+          {
+            "name": "swapFee",
             "type": {
               "defined": "Permillion"
             }
           }
         ]
-      },
-      {
-        "name": "depositLiquidity",
-        "accounts": [
+      }
+    },
+    {
+      "name": "ProgramToll",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
-            "name": "user",
-            "isMut": false,
-            "isSigner": true,
-            "docs": [
-              "User to deposit funds from"
-            ]
-          },
-          {
-            "name": "pool",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Pool to deposit funds"
-            ]
-          },
-          {
-            "name": "poolSignerPda",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "lpMint",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "lpTokenWallet",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "tokenProgram",
-            "isMut": false,
-            "isSigner": false
+            "name": "authority",
+            "type": "publicKey"
           }
-        ],
-        "args": [
+        ]
+      }
+    }
+  ],
+  "types": [
+    {
+      "name": "SDecimal",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
-            "name": "maxAmountTokens",
+            "name": "u192",
             "type": {
-              "vec": {
-                "defined": "DepositMintTokens"
-              }
+              "array": ["u64", 3]
             }
           }
         ]
-      },
-      {
-        "name": "redeemLiquidity",
-        "accounts": [
+      }
+    },
+    {
+      "name": "Reserve",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
-            "name": "user",
-            "isMut": false,
-            "isSigner": true,
-            "docs": [
-              "User to redeem funds"
-            ]
-          },
-          {
-            "name": "pool",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Pool to redeem funds from"
-            ]
-          },
-          {
-            "name": "poolSigner",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "lpMint",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "lpTokenWallet",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "tokenProgram",
-            "isMut": false,
-            "isSigner": false
-          }
-        ],
-        "args": [
-          {
-            "name": "lpTokensToBurn",
+            "name": "tokens",
             "type": {
               "defined": "TokenAmount"
             }
           },
           {
-            "name": "minAmountTokens",
-            "type": {
-              "vec": {
-                "defined": "RedeemMintTokens"
-              }
-            }
+            "name": "mint",
+            "type": "publicKey"
+          },
+          {
+            "name": "vault",
+            "type": "publicKey"
           }
         ]
-      },
-      {
-        "name": "swap",
-        "accounts": [
+      }
+    },
+    {
+      "name": "DepositMintTokens",
+      "type": {
+        "kind": "struct",
+        "fields": [
           {
-            "name": "user",
-            "isMut": false,
-            "isSigner": true,
-            "docs": [
-              "Authority over the sell wallet."
-            ]
+            "name": "mint",
+            "type": "publicKey"
           },
           {
-            "name": "discount",
-            "isMut": false,
-            "isSigner": false,
-            "docs": [
-              "we are conditionally parsing this account and only if it's valid",
-              "will we consider the discount."
-            ]
-          },
-          {
-            "name": "pool",
-            "isMut": true,
-            "isSigner": false
-          },
-          {
-            "name": "poolSigner",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
-            "name": "sellWallet",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Tokens to SELL flow FROM this account."
-            ]
-          },
-          {
-            "name": "buyWallet",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Tokens to BUY flow INTO this account."
-            ]
-          },
-          {
-            "name": "sellVault",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Tokens to SELL flow INTO this account."
-            ]
-          },
-          {
-            "name": "buyVault",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Tokens to BUY flow FROM this account."
-            ]
-          },
-          {
-            "name": "lpMint",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "We mint LPs into `program_toll_wallet`"
-            ]
-          },
-          {
-            "name": "programTollWallet",
-            "isMut": true,
-            "isSigner": false,
-            "docs": [
-              "Part of the fee is the program owner's cut, and is payed in LPs."
-            ]
-          },
-          {
-            "name": "tokenProgram",
-            "isMut": false,
-            "isSigner": false
-          }
-        ],
-        "args": [
-          {
-            "name": "sell",
-            "type": {
-              "defined": "TokenAmount"
-            }
-          },
-          {
-            "name": "minBuy",
+            "name": "tokens",
             "type": {
               "defined": "TokenAmount"
             }
           }
         ]
       }
-    ],
-    "accounts": [
-      {
-        "name": "DiscountSettings",
-        "docs": [
-          "A singleton discount settings model enables us to configure some parts of",
-          "the discounts feature."
-        ],
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "authority",
-              "docs": [
-                "This signer is can call the [`crate::endpoints::put_discount`]",
-                "endpoint."
-              ],
-              "type": "publicKey"
+    },
+    {
+      "name": "RedeemMintTokens",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "mint",
+            "type": "publicKey"
+          },
+          {
+            "name": "tokens",
+            "type": {
+              "defined": "TokenAmount"
             }
-          ]
-        }
-      },
-      {
-        "name": "Discount",
-        "docs": [
-          "A one-to-one account with relationship to a user. We don't store the user's",
-          "pubkey in the discount account because we don't actually need it, it's",
-          "sufficient to know the desired user's pubkey to generate a PDA address of an",
-          "account in which we store this structure."
-        ],
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "amount",
-              "docs": [
-                "What's the discount the user is eligible for. The discount applies to",
-                "the fee, ie. if the amount is `Permillion { permillion: 500_000 }`,",
-                "then the user pays only 50% of the fee they would normally.",
-                "",
-                "The maximum amount of discount is 100%, ie. 1,000,000 permillion."
-              ],
-              "type": {
-                "defined": "Permillion"
-              }
-            },
-            {
-              "name": "validUntil",
-              "docs": [
-                "After this slot, the discount no longer applies."
-              ],
-              "type": {
-                "defined": "Slot"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "name": "Pool",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "admin",
-              "type": "publicKey"
-            },
-            {
-              "name": "signer",
-              "type": "publicKey"
-            },
-            {
-              "name": "mint",
-              "type": "publicKey"
-            },
-            {
-              "name": "programTollWallet",
-              "docs": [
-                "The swap fee is divided into a part that goes to the program's owner",
-                "and part that goes to liquidity providers via increase in LP token",
-                "worth.",
-                "",
-                "The destination for the former is defined by this key."
-              ],
-              "type": "publicKey"
-            },
-            {
-              "name": "dimension",
-              "docs": [
-                "How many reserves in the `reserves` array are initialized (ie. not",
-                "having mint of [`Pubkey::default`])."
-              ],
-              "type": "u64"
-            },
-            {
-              "name": "reserves",
-              "docs": [
-                "The pool as a maximum reserve size of 4 and can have less reserves",
-                "than that. If the pool only has 2 token reserves then, then first two",
-                "elements of this array represent those reserves and the other two",
-                "elements should have the default value.",
-                "",
-                "Use [`Pool::reserves`] or [`Pool::reserves_mut`] to access this field,",
-                "as those methods filter out the uninitialized reserves."
-              ],
-              "type": {
-                "array": [
-                  {
-                    "defined": "Reserve"
-                  },
-                  4
-                ]
-              }
-            },
-            {
-              "name": "curve",
-              "type": {
-                "defined": "Curve"
-              }
-            },
-            {
-              "name": "swapFee",
-              "type": {
-                "defined": "Permillion"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "name": "ProgramToll",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "authority",
-              "type": "publicKey"
-            }
-          ]
-        }
+          }
+        ]
       }
-    ],
-    "types": [
-      {
-        "name": "SDecimal",
-        "docs": [
-          "We use storable decimal (hence [`SDecimal`]) when storing stuff into account",
-          "because at the moment Anchor's IDL TS library doesn't work with tuple",
-          "structs. That's why we cannot just use [`Decimal`].",
-          "",
-          "The number is encoded as three u64s in little-endian. To create a",
-          "[`BN`][web3-bn] from the inner value you can use following typescript",
-          "method:",
-          "",
-          "```typescript",
-          "type U64 = BN;",
-          "type U192 = [U64, U64, U64];",
-          "",
-          "function u192ToBN(u192: U192): BN {",
-          "return new BN(",
-          "[",
-          "...u192[0].toArray(\"le\", 8),",
-          "...u192[1].toArray(\"le\", 8),",
-          "...u192[2].toArray(\"le\", 8),",
-          "],",
-          "\"le\"",
-          ");",
-          "}",
-          "```",
-          "",
-          "[web3-bn]: https://web3js.readthedocs.io/en/v1.5.2/web3-utils.html#bn"
-        ],
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "u192",
-              "type": {
-                "array": [
-                  "u64",
-                  3
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "name": "Reserve",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "tokens",
-              "type": {
-                "defined": "TokenAmount"
-              }
-            },
-            {
-              "name": "mint",
-              "type": "publicKey"
-            },
-            {
-              "name": "vault",
-              "type": "publicKey"
-            }
-          ]
-        }
-      },
-      {
-        "name": "DepositMintTokens",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "mint",
-              "type": "publicKey"
-            },
-            {
-              "name": "tokens",
-              "type": {
-                "defined": "TokenAmount"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "name": "RedeemMintTokens",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "mint",
-              "type": "publicKey"
-            },
-            {
-              "name": "tokens",
-              "type": {
-                "defined": "TokenAmount"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "name": "TokenAmount",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "amount",
-              "type": "u64"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Slot",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "slot",
-              "type": "u64"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Permillion",
-        "type": {
-          "kind": "struct",
-          "fields": [
-            {
-              "name": "permillion",
-              "docs": [
-                "1% = 10_000"
-              ],
-              "type": "u64"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Curve",
-        "type": {
-          "kind": "enum",
-          "variants": [
-            {
-              "name": "ConstProd"
-            },
-            {
-              "name": "Stable",
-              "fields": [
-                {
-                  "name": "amplifier",
-                  "type": "u64"
-                },
-                {
-                  "name": "invariant",
-                  "type": {
-                    "defined": "SDecimal"
-                  }
+    },
+    {
+      "name": "TokenAmount",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "amount",
+            "type": "u64"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Slot",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "slot",
+            "type": "u64"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Permillion",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "permillion",
+            "type": "u64"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curve",
+      "type": {
+        "kind": "enum",
+        "variants": [
+          {
+            "name": "ConstProd"
+          },
+          {
+            "name": "Stable",
+            "fields": [
+              {
+                "name": "amplifier",
+                "type": "u64"
+              },
+              {
+                "name": "invariant",
+                "type": {
+                  "defined": "SDecimal"
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       }
-    ],
-    "errors": [
-      {
-        "code": 6000,
-        "name": "MathOverflow",
-        "msg": "Operation would result in an overflow"
-      },
-      {
-        "code": 6001,
-        "name": "InvalidAccountInput",
-        "msg": "Provided account breaks some constraints, see logs for more info"
-      },
-      {
-        "code": 6002,
-        "name": "InvalidArg",
-        "msg": "One of the provided input arguments is invalid"
-      },
-      {
-        "code": 6003,
-        "name": "SlippageExceeded",
-        "msg": "Given amount of tokens to swap would result in \\\n        less than minimum requested tokens to receive"
-      },
-      {
-        "code": 6004,
-        "name": "InvariantViolation",
-        "msg": "There's a bug in the program, see logs for more info"
-      },
-      {
-        "code": 6005,
-        "name": "InvalidTokenMints",
-        "msg": "Provided mints are not available on the pool"
-      },
-      {
-        "code": 6006,
-        "name": "InvalidLpTokenAmount",
-        "msg": "Invalid lp token amount to burn"
-      }
-    ]
-  }
+    }
+  ],
+  "errors": [
+    {
+      "code": 6000,
+      "name": "MathOverflow",
+      "msg": "Operation would result in an overflow"
+    },
+    {
+      "code": 6001,
+      "name": "InvalidAccountInput",
+      "msg": "Provided account breaks some constraints, see logs for more info"
+    },
+    {
+      "code": 6002,
+      "name": "InvalidArg",
+      "msg": "One of the provided input arguments is invalid"
+    },
+    {
+      "code": 6003,
+      "name": "SlippageExceeded",
+      "msg": "Given amount of tokens to swap would result in \\\n        less than minimum requested tokens to receive"
+    },
+    {
+      "code": 6004,
+      "name": "InvariantViolation",
+      "msg": "There's a bug in the program, see logs for more info"
+    },
+    {
+      "code": 6005,
+      "name": "InvalidTokenMints",
+      "msg": "Provided mints are not available on the pool"
+    },
+    {
+      "code": 6006,
+      "name": "InvalidLpTokenAmount",
+      "msg": "Invalid lp token amount to burn"
+    }
+  ]
+}

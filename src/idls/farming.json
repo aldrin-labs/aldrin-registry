@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "5.1.0",
   "name": "farming",
   "instructions": [
     {
@@ -249,9 +249,14 @@
       "name": "createFarmer",
       "accounts": [
         {
-          "name": "authority",
+          "name": "payer",
           "isMut": true,
           "isSigner": true
+        },
+        {
+          "name": "authority",
+          "isMut": false,
+          "isSigner": false
         },
         {
           "name": "farmer",
@@ -573,6 +578,44 @@
         }
       ],
       "args": []
+    },
+    {
+      "name": "airdrop",
+      "accounts": [
+        {
+          "name": "walletAuthority",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "farmer",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "harvestWallet",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "harvestVault",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "airdrop",
+          "type": {
+            "defined": "TokenAmount"
+          }
+        }
+      ]
     }
   ],
   "accounts": [
@@ -882,8 +925,5 @@
       "name": "HarvestPeriodMustBeAtLeastOneSlot",
       "msg": "Cannot have a period that lasts 0 slots"
     }
-  ],
-  "metadata": {
-    "address": "DFarMhaRkdYqhK5jZsexMftaJuWHrY7VzAfkXx5ZmxqZ"
-  }
+  ]
 }
