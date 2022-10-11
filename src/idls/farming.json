@@ -1,5 +1,5 @@
 {
-  "version": "5.1.0",
+  "version": "5.2.1",
   "name": "farming",
   "instructions": [
     {
@@ -398,6 +398,29 @@
         }
       ],
       "args": []
+    },
+    {
+      "name": "updateEligibleHarvestUntil",
+      "accounts": [
+        {
+          "name": "farm",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "farmer",
+          "isMut": true,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "until",
+          "type": {
+            "defined": "Slot"
+          }
+        }
+      ]
     },
     {
       "name": "claimEligibleHarvest",
