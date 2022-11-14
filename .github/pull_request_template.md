@@ -1,6 +1,6 @@
-### Please provide the following information for your token 🍀
+### Please provide the following information for your token:
 
-At minimum each entry should have
+At minimum each entry should have (in src/tokens.json)
 
 1. Token Address
 2. Token Name
@@ -8,9 +8,9 @@ At minimum each entry should have
 4. Link to the twitter page of token if available
 5. Link to Coingecko or CoinMarketCap or Nomics if available
 
-### Please provide the following information for your market 🍀
+### Please provide the following information for your market:
 
-At minimum each entry should have
+At minimum each entry should have (in src/markets.json)
 
 1. Market Name
 2. Market Address
