@@ -32,6 +32,8 @@
     "./src/idls/plutonians.json": "./src/idls/plutonians.json",
     "./src/idls/marketOrder.json": "./src/idls/marketOrder.json",
     "./src/idls/farming.json": "./src/idls/farming.json"
-
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }
