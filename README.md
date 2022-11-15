@@ -9,7 +9,6 @@
 2. Install it using `yarn`
 
 
-
 ## How to integrate in project 🌞
 
 We have only JSON files in this repo, so you can simply import it 
