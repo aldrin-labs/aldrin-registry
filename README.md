@@ -13,9 +13,9 @@
 
 We have only JSON files in this repo, so you can simply import it 
 
-`import { markets } from 'aldrin-registry/src/markets.json'`
+`import aldrinMarkets from 'aldrin-registry/src/markets.json'`
 
-`import { tokens } from 'aldrin-registry/src/tokens.json'`
+`import aldrinTokens from 'aldrin-registry/src/tokens.json'`
 
 
 ### Market format 
