@@ -9,7 +9,6 @@
 2. Install it using `yarn`
 
 
-
 ## How to integrate in project 🌞
 
 We have only JSON files in this repo, so you can simply import it 
@@ -49,19 +48,6 @@ We have only JSON files in this repo, so you can simply import it
     }
 
 
-### How to add new market 🛒
-There are 2 files you need to update:
-
-1. Add new tokens or check the tokens exist (for example, for RIN/USDC tokens are RIN & USDC) on `src/tokens.json`
-
-2. Add twitter, coinmarketcap/coingecko/nomics links to `src/tokens.json`
-
-3. Add Serum market to `src/markets.json`
-
->**Note**
-Please double-check all links (twitter, cmc, etc.), IDs and names for token and market. Please also check that the market and/or token does not already exist.
-
-
 ### Step by Step Guide to add new markets 🍀
 You can find a step-by-step guide below to add your market and token to the Aldrin registry:
 
@@ -70,6 +56,11 @@ You can find a step-by-step guide below to add your market and token to the Aldr
 2. Once forked, click on src then `markets.json` this will open up the file with all the markets. In the file view screen, click on the pencil icon to edit the file in the Github editor. Update the market file by adding your market using the same format as listed above.
 
 3. Repeat step 2 but this time update the `token.json` file and add your token using the same format as listed above.
+
+> **Note**
+> Only new tokens need to be added to this list.
+> You don't need to add information about tokens that already exist in this file.
+
 
 4. Make sure to only have additions, any changes that modify and delete content will not be approved.
 
