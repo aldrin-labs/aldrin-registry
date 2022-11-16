@@ -2885,6 +2885,12 @@
       "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
       "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
       "deprecated": true
+    },
+    {
+      "name": "SOL/USDC",
+      "address": "2MqtAoWiQMcdbeezxFN9vmZui2axdhqMAtjFPRBDq1tB",
+      "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+      "deprecated": false
     }
   ]
   
