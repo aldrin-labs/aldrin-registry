@@ -2887,6 +2887,12 @@
       "deprecated": true
     },
     {
+      "name": "RIN/USDC",
+      "address": "BB3YdFM34vvLZpUHSRK8defoJRwF3rtXoom7rtT8aUMk",
+      "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+      "deprecated": false
+    },
+    {
       "name": "SOL/USDC",
       "address": "2MqtAoWiQMcdbeezxFN9vmZui2axdhqMAtjFPRBDq1tB",
       "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
