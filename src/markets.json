@@ -1,5 +1,11 @@
 [
     {
+     "name": "SHDW/USDC",
+     "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
+     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+     "deprecated": false
+    },
+    {
       "name": "EOSBEAR/USDC",
       "address": "2nBXfHevA3tahft5mEe6bHtaKEhwhAHkWpnbiufXyo5W",
       "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
