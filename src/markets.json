@@ -1,11 +1,10 @@
 [
     {
-  "name": "MHCNF/MHC",
-  "address": "4Qgb1Z7By86NhfGaDrZsXrWnf8Y33DgyyZmsvWxhzutX",
-  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-  "deprecated": false
-}
-
+     "name": "5Kw6JUp9emPRHPnE1VWxvdGiHNpUkEJyuMCgy9Qo1fHQ/MHC",
+     "address": "4Qgb1Z7By86NhfGaDrZsXrWnf8Y33DgyyZmsvWxhzutX",
+     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+     "deprecated": false
+    },
     {
      "name": "SHDW/USDC",
      "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
