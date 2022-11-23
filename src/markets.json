@@ -1,5 +1,11 @@
 [
     {
+  "name": "ARB/USDC",
+  "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
+    },
+    {
      "name": "SHDW/USDC",
      "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
      "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
