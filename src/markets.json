@@ -1,2914 +1,2919 @@
 [
-    {
-  "name": "ARB/USDC",
-  "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
-  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-  "deprecated": false
-    },
-    {
-     "name": "SHDW/USDC",
-     "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
-     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-     "deprecated": false
-    },
-    {
-      "name": "EOSBEAR/USDC",
-      "address": "2nBXfHevA3tahft5mEe6bHtaKEhwhAHkWpnbiufXyo5W",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBULL/USDC",
-      "address": "8GyEm8ZMnwUNfZQeBZwse3uYGwG2XGymv6zES1thmsq3",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBEAR/USDC",
-      "address": "DENVnSBnQG84fNDVV5KQPqTYzvLJ2JoYM5VNyN8bzwgS",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBULL/USDC",
-      "address": "DKD7gmr1pBayDJteznDCvG4pEt2rJ38dSE8yf9F1Jb2z",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBULL/USDC",
-      "address": "CysdTcmgCFQADQ8BrUzkQB5rggXufeBwnmJccgvf5dwN",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBEAR/USDC",
-      "address": "28uRfBWMjkMCAKLYkXyWtKC3LT6H6YcrwQT3yFdw8gYp",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBEAR/USDC",
-      "address": "5Dct3fJBF1xp1sfbWuHR4xSnfTsakz3KMuDNC6Pqquft",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBULL/USDC",
-      "address": "4YVHx9qRVt4Ww86nbae82Z9HC5mChhh8HFJoNSM6bsZ1",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BULL/USDC",
-      "address": "B3uwMW6Gg2g5yqRkP4Es7hXYXF9ck78Q8tcCEq83RYXA",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BEAR/USDC",
-      "address": "Ajp4GqmWZc5XJHcwnZTFpKq8hmdc7hiU2D1btWkEbku7",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBEAR/USDC",
-      "address": "9114WG6KUBMYUXm8Nyn685sStQpeWMzFCdy4qvfWy7LZ",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBULL/USDC",
-      "address": "4m31HFEFnQCRKzjdSpYNwa9ymE2Q1KXuqNzT4Cx8ef6s",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBULL/USDC",
-      "address": "7kYV26yjwpJs7GPb6uJURZNYWX2RCAxRoGJT4SEWQYNB",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBEAR/USDC",
-      "address": "GXUnMUXr1f5B6j2Z62iqBYrRbSh1VdjEhT89bbGHhsts",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBULL/USDC",
-      "address": "BVsVW2TLpkDKUxUrBFALRbaMsGWpVxosQgxswVUnKC2d",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBEAR/USDC",
-      "address": "GXePFiWdDW1bGNTefrG3xtAN2AmdFgUbmoF8MNHBBzTE",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BULLSHIT/USDC",
-      "address": "2kXsgwGK6H83AsBSJAo4ccrhyfo5mraghZZNZi92UFDZ",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BEARSHIT/USDC",
-      "address": "7V98RzshYxGucHqqf8n6Z1WDMcKj9eKCNy5Fo666uuY4",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBULL/USDC",
-      "address": "C4baKEdLtfv6dv4PgNzPhgx8JMgvqTyXqyUVv8bUhGRV",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBEAR/USDC",
-      "address": "9gS6pRvrg3AJTEu96YKu19jmBemuutVxN1AwPhM3jzph",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBEAR/USDC",
-      "address": "AsBMcjuxorJrfyee3KmyKTFp3ZXHRcwYAZT8yh8ZEsL4",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBULL/USDC",
-      "address": "CtVv4Q3X1uMqjn7GjNEDaXRFprZUANUGXzyEZWrG67Ck",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBULL/USDC",
-      "address": "7XbgTAXyWigVAiXRG2sxsLrqKwBbunmYnoWCgpAXmrwR",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBEAR/USDC",
-      "address": "EHkmG2UVV4JQerrAxrQjM3CSwrPd37Xh9sYtxYt1ifPH",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BVOL/USDC",
-      "address": "BCq6ju9Pu4Pzef49ugjMbqHgycaWUY7Yr1QwVPr9fwYJ",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "IBVOL/USDC",
-      "address": "ChDJJR6nZgATz4mn6Yb7A7Gat5bXi93htvqfKtMtn529",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBEAR/USDT",
-      "address": "9ZYy2jTQc6ixMpF3gxB8XG9KnxTwYvGcBvjE78qxWQrf",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBULL/USDT",
-      "address": "9i4R6XXCFCzkU66C8HDVxPM3QiwZsX5YZsFWPLymoGqP",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBEAR/USDT",
-      "address": "Da8mfnFNwnSyftAX77jBSGhkdMMYuFz2MsDudgkTTQ8U",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBULL/USDT",
-      "address": "GqbSYBcFdseQEDza4MhnvEu6ugaSjjMTrRafrNCC6FR8",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBULL/USDT",
-      "address": "5VnQw9Tv9uKBXdBPwkiqFyKmcFtKtSRKRnrjbLMCFtb1",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBEAR/USDT",
-      "address": "G97sSWmojFe7N8gN97QDrFbY7Ho4eqAH4RpypdY7GTE6",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBEAR/USDT",
-      "address": "5bn3kRXWozDsQqZZo9UipDgX79m1iyx1w1mUB5qn3hZy",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBULL/USDT",
-      "address": "8G7KdckAw8XCDDEN8G2gZ3A2EFZ9Nvo4TDq9HuwbUg3W",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BULL/USDT",
-      "address": "HAQmVRVPbQ2z4yLNtRwFfhAvpM46ziQc8ZpQKfLZ66jW",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BEAR/USDT",
-      "address": "G9afU4vLzJx2YSH4vdQzi5Gcgdpuo4kKdxLbG6VB8nwG",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBEAR/USDT",
-      "address": "29XpXc23EZK8xS6s1yzkANpZyrhE8yown4HikzXwVmvt",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBULL/USDT",
-      "address": "FCMJa5g4t6EozzzMPGryxf7qgrggBrZ5vSjiqrSk5Brq",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBULL/USDT",
-      "address": "EWzgFbqGWJAicuTDMM432nrue9pqaYeaBWktqtmwPSvb",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBEAR/USDT",
-      "address": "D5WRvsFV6ZTvr8My2z1zNcWqiQBJqZaA3zbfU1LZHkdp",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBULL/USDT",
-      "address": "HjExRxBnj4yTMMrsH6CHASfYBn8u2dPcWPS7vkCukpUX",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBEAR/USDT",
-      "address": "EzNYAQercpxEdJeDm1jcwD8z2FtdieE2Yk2M4CRmwkk2",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BULLSHIT/USDT",
-      "address": "8qFKnbo8vzbG1KWUKf3U6r3bu9j7oCujGkoCiFPbdvpT",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BEARSHIT/USDT",
-      "address": "2jMUxrZBQZpFvVwvAySPvFP3b447JC2aGKfzDn1q5RXR",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBULL/USDT",
-      "address": "6yJH8gZ3U63xYqdkfE8tMxCs4T1RAVL3wN7nPYMDf8DF",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBEAR/USDT",
-      "address": "5fmfWiPbveY91Nnk3nHi2Yv9RcoJ74rjgD2ufd2GaQAs",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBEAR/USDT",
-      "address": "2JvJ9RfXxA7kDydSVCco2ZWRx6cdXZ6Z6V1LJnDJwgNg",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBULL/USDT",
-      "address": "C1UazpxypvSoWVCXnKtFdFk8zo3vwd4CvkpZWGBu4CUj",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBULL/USDT",
-      "address": "ETVeb1udwjXzHf2bHTNkMKzs4yTozhehiAvuFyhmri4s",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBEAR/USDT",
-      "address": "HPUR4supxqQvxn8qDbWzjAJHewrSiSMJsYJbqBHEsYL8",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BVOL/USDT",
-      "address": "8L5hqeAE1SD8sBdyLXeiQxiNjHB8yDa4SHxNrU8FuvT1",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "IBVOL/USDT",
-      "address": "DeDHC1ygavF7qkwcnSWpBhXAk5RWL8LYs62Z14Ezwrf",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "USDC/ODOP",
-      "address": "8e6Rc8xFPdAqWgyKaLqJRZNQy7QxRHf8msNkTKLqMhfi",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "AAVE/USDT",
-      "address": "BHaoJzF1vxYuc1zoPkWNNqxDFt5Q64G1B4Gwt76abKD4",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "AAVE/USDC",
-      "address": "HGMBPFB3UBK5AiUjiGyTbd8ekP1D2esjbMK3oeHfEdv3",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LQID/USDC",
-      "address": "3HZWXFCx74xapSPV4rqBv2V7jUshauGS37vqxxoGp6qJ",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "SECO/USDC",
-      "address": "AfQetd9YZZEYs8sTJ8pSHZxvzjox5sqqPaPHYjtxhi5g",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "HOLY/USDC",
-      "address": "9gXFn5ispR6nBVg353ZWM7aJbUB8ectxqoVjqsCQ4HJX",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RSR/USDC",
-      "address": "EFLhjMgEVa81W4NpsGt1ui1Ci9Kj1JhRXn44gHz43sFi",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RSR/USDT",
-      "address": "9zcUvraedRyNFk2fkp3QjoiwWaZvTqzA31Up1m8fPabV",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "CEL/USDT",
-      "address": "B7WaZfTGKSgZKKe9gtNak4eQp5xc7ifRNS5nkthqqvw2",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "CEL/USDC",
-      "address": "H5Bfyo4sK9qvty54udJMLGRQHDctqpfV6HZbfMPWD46P",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "1INCH/USDC",
-      "address": "9poTx4PkPaYi5TqL1N8jcFUEqhxLv55CSVTeFZ4vFqNa",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "GRT/USDC",
-      "address": "DXJ5SUbLj15Xza48KC6FBr3CviiFtMmCDredRfgBFo9Y",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "COMP/USDC",
-      "address": "HwvPti5q6kYKUS8JSJsRYz7qZVHtpFDEyvHbM6os2RD6",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "PAXG/USDC",
-      "address": "HwtcFVBr81Re6VPkhZqViZeADyj856w9rNhgBpNXu8Lf",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "TRYB/USDC",
-      "address": "2UWX7327btd1zvPHf2wMViKRNtE3SDEoTShBsXTGd4NX",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "BTC/TRYB",
-      "address": "6vx6EhsUHH3udyJeMbzQpE3iy4gVHXd64561CAyb5Dij",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "ETH/TRYB",
-      "address": "CWfPwnZeMvM14ZK2uvYrRj3Qmzq92tVfHgbrcgx2NgCH",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "DOGEBULL/USDT",
-      "address": "7h1rEszaKvigcEhQJPxsSQjtHfsitcvQVfVe77KLBV1N",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "MAPSPOOL/USDT",
-      "address": "8bCqYjBMzahaQFjMTt6pyfShsNvsd7dNaVXyYWYUeKYH",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "OXYPOOL/USDC",
-      "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "PERP/USDC",
-      "address": "G7LqXk9c7DSsezu2sZfrf5ftCbVkYkkCP6GyJsQcfjH5",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RAY/USDT",
-      "address": "HZyhLoyAnfQ72irTdqPdWo2oFL9zzXaBmAqN72iF3sdX",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RAY/USDC",
-      "address": "Bgz8EEMBjejAGSn6FdtKJkSGtvg4cuJUuRwaCBp28S3U",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RAY/SRM",
-      "address": "HSGuveQDXtvYR432xjpKPgHfzWQxnb3T8FNuAAvaBbsU",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "RAYPOOL/USDC",
-      "address": "7KRhEZSUcJUxVHNR3oVGmFt8eFMhL5ex6kk42KX6PFEp",
-      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBULL/USDC",
-      "address": "F48bsAxagGV4rijEgSAyTBrndNrncUTo5rrrx5uqCND6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBEAR/WUSDT",
-      "address": "3Sh1v1hsymn4hG2HDwptcnWsko7n4RPvcKs8RzZVqKvG",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEAR/USDC",
-      "address": "AzyKS5hfJ15m2XTiEC8Sea9GrcspuuRay8tdoaGTHpUh",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBULL/WUSDT",
-      "address": "48PELftZmhxFSSiT6s3RyuiTaXnsgTNes2WhBDMqqzSW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEARSHIT/WUSDT",
-      "address": "EQpVNmD5q3raRNVSWczC732zVGoBAfupJzNs2chXtR43",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBULL/USDC",
-      "address": "2SVt3uJ2Ze3CpkzEHpBRwTw4DTwM3LKTqUjAc9PPSZ1e",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBEAR/USDC",
-      "address": "Hw9pchAbZmPy7Dy393Vsa5n6rk8DAenSmXS8zNmusaVX",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBULL/USDC",
-      "address": "GREiyoFSEM7zMce3VugkCggdUYXVK5MijJgGwn7DkVPF",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "EOSBEAR/WUSDT",
-      "address": "Dd6EFb7sTzEZspnAQwhrb78AJ1z29GFFWpMkq68iWoc4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BULL/WUSDT",
-      "address": "38cMvJY7icq6nWKGwBBoMswe275MWk9NhFwY7rkkGkGA",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBEAR/USDC",
-      "address": "EG5NfHKeaG9sgESHM9nw91nmQ1JnZWooiHt8JEkcovZs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBULL/USDC",
-      "address": "GEJJd9dQtFXuMNjMrQ8DExUXSz5SF3Jwn2HMUUYefk7F",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "DOGEBULL/WUSDT",
-      "address": "DyDzn1jZQKiy2Hvcxr7y8SEjXcUSQEWUnnogngTLd23F",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "IBVOL/USDC",
-      "address": "J2eCTuKaABG91kCzJset2UfQRoggHcY2Cq7Stu7natXr",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "XRPBEAR/WUSDT",
-      "address": "mDpZbVezkWsReYfjYaghF8uDZXeLp3ATKLcYb1iAn9x",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEAR/WUSDT",
-      "address": "GJhBsu9Ge4dFiSrhi6THhW4DBECASpqTVGsGiXeAyVMd",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBULL/WUSDT",
-      "address": "DmvvfTdhJrE4QSr682FUiKvCW1EzkAyfndNpJ8iPJHs4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBEAR/USDC",
-      "address": "FecoUQTNeqDWLKg3PDBg4EjnEoYxXVcftynW3RfKbDE4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBEAR/WUSDT",
-      "address": "EjRnfAhgq7WWi4XWau35cczmyjT1Kms6Rw9VZKQkeZzV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBEAR/WUSDT",
-      "address": "BkWtd8FpDJS3unVhrXL1ePug7cZx5xt2UzQpYUNC4wvg",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBULL/USDC",
-      "address": "9TDuAzrz3kCHcYiw1t4aheAZyXHvsB3SsVA8BiixSmGj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBULL/USDC",
-      "address": "C5zFa5VRJftDRnQZjqxfVg6g5BLr1v7nYAvFV3BGZG9b",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBULL/USDC",
-      "address": "G5segjMzCWnu3zayK3bQAHc7DzthE2fjL1HFhU4hZ37R",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBULL/WUSDT",
-      "address": "7Vv2oiMzquUpVhbAGahZwQ22PVXVZZHgzBsDiSMVHfXm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBULL/WUSDT",
-      "address": "HNXPQGrpjaLuP9vzggFAnskrxFKqSzZiQyspSpUV9wbg",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBEAR/WUSDT",
-      "address": "GDVtcuFQnXfcVDUmsVVZVdtUBA3MoNRufmJEqt97z7fy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBEAR/WUSDT",
-      "address": "BNXPZUFuRhmJGaNkZXzuYcsMN2iekzxX6fYLnAwCmuJV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBEAR/USDC",
-      "address": "G2aPyW7r3gfW8GnRumiXXp1567XzMZsfwvbgxDiaNR4U",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BULLSHIT/WUSDT",
-      "address": "HCKZBPL1L6YMuwNM1mhgNiNTbGaeDCNBEc7WE6gTcZqn",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBEAR/USDC",
-      "address": "BNMaMjcaN2Jp68BpgeTwMDcfVjzeSudZGbpjsYac9pKp",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEARSHIT/USDC",
-      "address": "4vuvakEDjBhqpWnDrj3FqmTHtrFg3teb62bS2Jnsz66K",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBEAR/WUSDT",
-      "address": "67m87VJ96atN6sBFjzcpYGfU2Sx8iSkD2HY5JcRo3qRf",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBULL/WUSDT",
-      "address": "Ckjo4MyyzytXmvq5deqafkdD95y9bgvpgCt1sq4mLNV3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBEAR/USDC",
-      "address": "7bfmpdvJg8ZZULu7Yk5356yF1XXs5hL5EYR29XbZsqKm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "EOSBULL/WUSDT",
-      "address": "8PKYyEuj5X5eFEpqDwm1523aJqBu23ZGp99WuQNPJ1ni",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBULL/WUSDT",
-      "address": "5Vo4nyuRe9sKrLkUDUCb62r1XnwcMaQLgNQUAng7RP5X",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBULL/WUSDT",
-      "address": "3KmkbQVViwcZPkVrsS7brSxR8PxtetUXEQADFTCcdggL",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBULL/WUSDT",
-      "address": "4B7aUnF2mjDbXY9yisfoTYeZcTrNFYLUbCEMByLmTcJ1",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBEAR/USDC",
-      "address": "FqWYxpwHqz6DcdwitmsY7jZEDd4kcvEDetA7SsF5At3D",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBULL/WUSDT",
-      "address": "GMKisUYVmuxWemfFzM6ZRK6MTEbnXyAyVPSnJbE6UP42",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BVOL/USDC",
-      "address": "F8tpSFb6PGFkND1gCfN6oMdiLuPocYbtiDyQdGP7VRfX",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BVOL/WUSDT",
-      "address": "5zcusFdBD1ZbZKYBnNJsY1dJ1u9sB7pFjzPGQPH8BYpz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBULL/USDC",
-      "address": "8BBtLkoaEyavREriwGUudzAcihTH9SJLAPBbgb7QZe9y",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BCHBULL/USDC",
-      "address": "EnDY66AMMan9FFntp2nNrLW8E8qsXK9Cxi6GZ5QCgRXz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BULLSHIT/USDC",
-      "address": "6dnv5vwBDLuveTAT4uJfvkiCPaLZ1te7LNxovtEj6C7K",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BULL/USDC",
-      "address": "9YXVzyXDkPt2aby5itYuuyd8A91424sdjQyDX666X2C4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MIDBEAR/USDC",
-      "address": "9rG1pswVAJYZWGQnBmxQwDP3sk5esGu3C54T1jQEFDKs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBULL/USDC",
-      "address": "7pCSob1Eu4xc9DzEYCxdtNYyHySBB7HssKm6edcMys3j",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "IBVOL/WUSDT",
-      "address": "Ei6o3P6m6Wrm3hNPmkuZywHBYGLzSG3hsrNj9DNFQiDN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBEAR/WUSDT",
-      "address": "89NwQ9jek8imhBu7rLLZro73xWZA48jKn9uE7ymoGUXJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBEAR/USDC",
-      "address": "DWzf253mjUj2c5d4fhYtS7mQG3oARKgk4bukQ6KgXwqN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBEAR/USDC",
-      "address": "2BQrJP599QVKRyHhyJ6oRrTPNUmPBgXxiBo2duvYdacy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ETHBEAR/WUSDT",
-      "address": "2yojBJvbGPgtHsbfsuPHd4SovLJP6rovNizdMTaLCG41",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MAPSPOOL/USDC",
-      "address": "7ygqNwjA94Qu8YKxB8j2ePXYEFyWLcYGUUCVzV9puAhJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OXYPOOL/USDC",
-      "address": "G1uoNqQzdasMUvXV66Eki5dwjWv5N9YU8oHKJrE4mfka",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAYPOOL/USDC",
-      "address": "3V2sfA9rCnBwjfqGca2UDxD4fVvPXW9GNAQCqAepKC9Q",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ETH/TRYB",
-      "address": "HGJqccU7numZ9mNn3r3z2h2wvW89NPxVpBgX5tBBUMDG",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SECO/USDC",
-      "address": "CjsuF2gB28KqgniogCbbpp7FDMBwAkTawEN3gYKsgfS8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CEL/USDC",
-      "address": "9MFFsTVgw6gKPZ1rpc6CSJSLaiNAonChcS7zCCMrAwEP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TRYB/WUSDT",
-      "address": "HeTeNKPCbYHukbGsasev163eeF64BjsQcCXz2xAYTA6S",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "CEL/WUSDT",
-      "address": "DjNH5Uedey2bh7yHrqAXzdd48dNZkk1rqnfoZLCpaZkP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "PAXG/USDC",
-      "address": "GJWnwZJ599xjf7cRPP93aaVKqD5xUG5PBLNypHgPxitF",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GRT/USDC",
-      "address": "E6umfgnsastaGANjpvzb15jaXdZH1wsg4ENHARgbjqUz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "AAVE/WUSDT",
-      "address": "3JwQFRuYZ3AeVWVRQRByJHT46da3AaGriysZfHU5Exoz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "HOLY/USDC",
-      "address": "QzB9DfWbNAUpfkwLNMLGfkK1AM2zttkMYGSwx5iCnGe",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MAPS/WUSDT",
-      "address": "Ho9gQFFTYNYHHvcK4RKWdhHEYnXGbjobVtmNTNZrr6Cf",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "1INCH/USDC",
-      "address": "HCyhGnC77f7DaxQEvzj59g9ve7eJJXjsMYFWo4t7shcj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TRYB/USDC",
-      "address": "2axQYyzJDaMDA1TF3sfBmg5vkGTiRayrAkHJQA3JsC2v",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RSR/USDC",
-      "address": "3h5QsiZKLkmApBTsMvJBZ8fPivo9HSrmR1LaJABN9zx6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LQID/USDC",
-      "address": "4FPFh1iAiitKYMCPDBmEQrZVgA1DVMKHZBU2R7wjQWuu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BTC/TRYB",
-      "address": "5D38vzPSfmAnYvgQgAjCeDAa2U4N9mCFdAoHaLvNk2nN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PERP/USDC",
-      "address": "7AHAKkL94Mx2VAkQb2kk74oNsxDnQ6aab4XwKwisfFdB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RSR/WUSDT",
-      "address": "97oKse21E4iSgaqqdHdWE1jY4tjTpBCMu4pAQap9gUMC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "AAVE/USDC",
-      "address": "CAww1itfT8rFeTCJCLZqTq9anZ7FpC8NzULNLcJMG4Qa",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "COMP/USDC",
-      "address": "Dbyf1PPrAXfMe1LdEq57QW9GY1D4nNEt2fKVGEo6S3MU",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAY/WUSDT",
-      "address": "C4z32zw9WKaGPhNuU54ohzrV4CE1Uau3cFx6T8RLjxYC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "RAY/USDC",
-      "address": "2xiv8A5xrJ7RnGdxXB42uFEkYHJjszEhaJyKKt4WaLep",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAY/ETH",
-      "address": "6jx6aoNFbmorwyncVP5V5ESKfuFc9oUYebob1iF6tgN4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAY/SOL",
-      "address": "C6tp2RVZnxBPFbnAsfTjis8BN9tycESAT4SgDQgbbrsA",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OXY/USDC",
-      "address": "GZ3WBFsqntmERPwumFEYgrX2B7J7G11MzNZAy7Hje27X",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OXY/WUSDT",
-      "address": "HdBhZrnrxpje39ggXnTb6WuTWVvj5YKcSHwYGQCRsVj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BTC/ODOP",
-      "address": "9Wq1gzEN8FtRWxwwoRqzhup2LsuG2xGiwue7hpDVtEQE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBEAR/USDT",
-      "address": "4ipQTCFdzjSmAamyJB9VEZX4oayP9dGzL8FFZo8JEACd",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBULL/USDT",
-      "address": "FDRYz6vytJusbbCwkwEaEzKodRfMJ5cBysGDEYhKpPS6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEARSHIT/USDT",
-      "address": "8V2hMGSF7TQGL2ua7VVmJ2VFYdK2rtM36xdE44KksYJs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBEAR/USDT",
-      "address": "EGQ4u9aS8y8E6tXf4S3BaofvEvUb22iyR8yM56BRBJCU",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BULL/USDT",
-      "address": "EDYBn6k4HvcoRxyRM8f1AHN4cKSu62f4tG2CZoLmkD37",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "DOGEBULL/USDT",
-      "address": "BEk2LunaJJu3eXA68s2ABLQgLPbLW7Z3XsLbqsY3mryr",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBEAR/USDT",
-      "address": "GGkC3bEPjLEYrqeJ78LEJaVE8qZop3vJJnVVDAAdFdt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BEAR/USDT",
-      "address": "H2TTsF4bfw9uuXyPwoLtsFnP7s5hwZ5EyXTX2YAjCryS",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MIDBULL/USDT",
-      "address": "6daXtRnEzKoaMPzdauiAdPz8rDRGoEwE7yVxYeadExy3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBEAR/USDT",
-      "address": "5tN6BJspP9nBCdFEepStK2gaJrMU7SGsT8BnUjRWoqms",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBEAR/USDT",
-      "address": "F28F9u7kVrQPqraD9EeV2qABmxdkUU92B4HVSFGfoDJc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BSVBULL/USDT",
-      "address": "F5NVzWhvFrR9kkUtyeTUrL6n79wgqc4767HM4SxTQ2o2",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBULL/USDT",
-      "address": "XZczVo5XmL4QU5JDMgqkNtZ9kysC7XadL5JE849fHbJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BCHBEAR/USDT",
-      "address": "5pxWuy615nvZJWK6RZM4W9C7H6LnE8tbjavR9xBy3rzm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBEAR/USDT",
-      "address": "5qrhU6WtZtrKYc1TcbfmvMf4fQD2XERWCKNMt33uLkp3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BULLSHIT/USDT",
-      "address": "45Qfbfe1wBD1jCQLQb2PugcbwYJEuzHZ4S9UHJoLDBqw",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ALTBEAR/USDT",
-      "address": "5hwrLvNi4yTBZs5MJ8aUwYT3tGfLpEvYDyQvQhyG8AfZ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "BNBBULL/USDT",
-      "address": "3mMivSGHzkLrgwpZKdsTba83T8RFQdH4B9djtKYFe3bw",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "EOSBULL/USDT",
-      "address": "BrGdJMuGa5qyhyVKkYJjbUTR9ZVdPcgTY47uACDgDYtZ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "XRPBULL/USDT",
-      "address": "8poTUzDscEmEY57guLtHAwmsc5YHT9n5QcU8ppiqCWK8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LTCBULL/USDT",
-      "address": "2DtJfYpFJUa9Xstvs4zDFVhbkicoEutxtwkWYTefmYar",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "LINKBULL/USDT",
-      "address": "CmnwqNE4BY612vReEM2ogWTHQ9fzu26VD5Mtk4Cb18bH",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBULL/USDT",
-      "address": "FuhKVt5YYCv7vXnADXtb7vqzYn82PJoap86q5wm8LX8Q",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BVOL/USDT",
-      "address": "3sugXsa7kNeYFPHgLfSARAhxNpowZuwabGx2dqh6YUfx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "IBVOL/USDT",
-      "address": "3BqiaptVkdDCJWz3gea31z1tC3qYfBktUffrSjXjYHWy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MIDBEAR/USDT",
-      "address": "5gKMkgHztYjEZChgJ4U5bBKQkXaSEGz4FfCt2tPXpBN2",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "ETHBEAR/USDT",
-      "address": "3eze1uf2cqwCxainY8xMje1jf41JoDBswBGGrvbvzNYH",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "FIDA/RAY",
-      "address": "9wH4Krv8Vim3op3JAu5NGZQdGxU8HLGAHZh3K77CemxC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KIN/RAY",
-      "address": "Fcxy8qYgs8MZqiLx2pijjay6LHsSUqXW47pwMGysa3i9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OXY/RAY",
-      "address": "HcVjkXmvA1815Es3pSiibsRaFw8r9Gy7BhyzZX83Zhjx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MAPS/RAY",
-      "address": "7Q4hee42y8ZGguqKmwLhpFNqVTjeVNNBqhx8nt32VF85",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIEN/USDC",
-      "address": "E6qm2xxhYa8H2YcPoydo6rFd8zgaX7cNYBoAQcw1QZ4b",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ROPE/USDC",
-      "address": "4Sg1g8U2ZuGnGYxAhc6MmX9MX7yZbrrraPkCQ9MdCPtF",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "STEP/USDC",
-      "address": "97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAY/SRM",
-      "address": "Cm4MmknScg7qbKqytb1mM92xgDxv3TNXos4tKbBqTDy7",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "YFI/SRM",
-      "address": "6xC1ia74NbGZdBkySTw93wdxN4Sh2VfULtXh1utPaJDJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FTT/SRM",
-      "address": "CDvQqnMrt9rmjAxGGE6GTPUdzLpEhgNuNZ1tWAvPsF3W",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BTC/SRM",
-      "address": "HfsedaWauvDaLPm6rwgMc6D5QRmhr8siqGtS6tf2wthU",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SUSHI/SRM",
-      "address": "FGYAizUhNEC9GBmj3UyxdiRWmGjR3TfzMq2dznwYnjtH",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TOMO/SRM",
-      "address": "7jBrpiq3w2ywzzb54K9SoosZKy7nhuSQK9XrsgSMogFH",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LINK/SRM",
-      "address": "FafaYTnhDbLAFsr5qkD2ZwapRxaPrEn99z59UG4zqRmZ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ETH/SRM",
-      "address": "3Dpu2kXk87mF9Ls9caWCHqyBiv9gK3PwQkSvnrHZDrmi",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAMO/USDC",
-      "address": "FR3SPJmgfRSKKQ2ysUZBu7vJLpzTixXnjzb84bY3Diif",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MEDIA/USDC",
-      "address": "FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TULIP/USDC",
-      "address": "8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MERPOOL/USDC",
-      "address": "GqQLxU1Dc6a7NYWRWdgbcGSTHirjy4quFivxXJGDzDCz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOL/ODOP",
-      "address": "CRW23rK5LksqowrfpQTEUVEFUDNDLF34STyW7gXV18Xt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SLIM/SOL",
-      "address": "GekRdc4eD9qnfPTjUMK5NdQDho8D9ByGrtnqhMNCTm36",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FTR/USDC",
-      "address": "4JP75nztBEo5rYhW1LTQyc4qfjPB33jMWEUvp2DGrQQR",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIQ/USDC",
-      "address": "D7p7PebNjpkH6VNHJhmiDFNmpz9XE7UaTv9RouxJMrwb",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIQ/SOL",
-      "address": "F7SrwFTQ8uWBs9zhN9fctLKLJdEAz8fu7XmNyi9Sebht",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BOP/USDC",
-      "address": "7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BOP/RAY",
-      "address": "6Fcw8aEs7oP7YeuMrM2JgAQUotYxa4WHKHWdLLXssA3R",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WOO/USDC",
-      "address": "2Ux1EYeWsxywPKouRCNiALCZ1y3m563Tc4hq1kQganiq",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CATO/USDC",
-      "address": "9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DGX/USDC",
-      "address": "3B1diUDpBciWLQLjPv28h9XPFsymxK8PSeUCnQJBxiJs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAIL/USDC",
-      "address": "6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BOLE/USDC",
-      "address": "9yGqsboBtvztDgGbGFEaBBT2G8dUMhxewXDQpy6T3eDm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLAPE/USDC",
-      "address": "4zffJaPyeXZ2wr4whHgP39QyTfurqZ2BEd4M5W6SEuon",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLAPE/SOL",
-      "address": "6RSZYm1jPB5BdBgBvDhmRB1TYNsLTkTvAMH6yQr128ac",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MNGO/USDC",
-      "address": "3d4rzwpy9iGdCZvgxcu7B1YocYffVLsQXPXkBZKt2zLc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ORCA/USDC",
-      "address": "8N1KkhaCYDpj3awD58d85n973EwkpeYnRp84y1kdZpMX",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PORT/USDC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false,
-      "address": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko"
-    },
-    {
-      "name": "DXL/USDC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false,
-      "address": "DYfigimKWc5VhavR4moPBibx9sMcWYVSjVdWvPztBPTa"
-    },
-    {
-      "name": "SLIM/USDC",
-      "address": "HSfEpP3ciPBC5bBdtjBDa8BxsUW32zUzRGLPpPuDyVY4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "APEX/USDC",
-      "address": "GX26tyJyDxiFj5oaKvNB9npAHNgdoV9ZYHs5ijs5yG2U",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CRP/USDC",
-      "address": "8nXjHLfiR6wB22J7VBGeKjsRiSa54Eu7cgL17GE4kJUw",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SUNNY/USDC",
-      "address": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIQ/RAY",
-      "address": "FL8yPAyVTepV5YfzDfJvNu6fGL7Rcv5v653LdZ6h4Bsu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ATLAS/USDC",
-      "address": "Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "POLIS/USDC",
-      "address": "HxFLKUAmAMLz1jtT3hbvCMELwH5H9tpM2QugP8sKyfhW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIKE/USDC",
-      "address": "3WptgZZu34aiDrLMUiPntTYZGNZ72yT1yxHYxSdbTArX",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CYS/USDC",
-      "address": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GRAPE/USDC",
-      "address": "72aW3Sgp1hMTXUiCq8aJ39DX2Jr7sZgumAvdLrLuCMLe",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PRT/SOL",
-      "address": "H7ZmXKqEx1T8CTM4EMyqR5zyz4e4vUpWTTbCmYmzxmeW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "YARD/USDC",
-      "address": "43qZTbWaaygZGU468gPSJsWQqSttUAXnxdrV1tDWFZUG",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "gSAIL/USDC",
-      "address": "2zkPyHgQkKG6qJED6MTbjfCfUbZeT9VFwLm1Ld9nKxRp",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DATE/USDC",
-      "address": "3jszawPiXjuqg5MwAAHS8wehWy1k7de5u5pWmmPZf6dM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MOLA/USDC",
-      "address": "HSpeWWRqBJ4HH2FPyfDhoN1AUq3gYoDenQGZASSqzYW1",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LARIX/USDT",
-      "address": "BeF2PKq2jmTJraWEhP28H8BQHUVtuzTyFogtKkxi6D6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SYP/USDC",
-      "address": "9cuBrXXSH9Uw51JB9odLqEyeF5RQSeRpcfXbEW2L8X6X",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SWAN/USDC",
-      "address": "8zPVSrun5AnePjXWjC4EgMdBaLdHtkSUtYbFNobzQHRN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PRT/USDC",
-      "address": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ACMN/USDC",
-      "address": "E3U6GzZwQMDXtd7ABdsfxYx6oeLyaeh6dc6Ez91ZXQrG",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TOX/USDC",
-      "address": "5DgXgvgTnXzg12xJCRQnRmqWV4nNaRGabPM7ALcCaZby",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KEKW/USDC",
-      "address": "N99ngemA29qSKqdDW7kRiZHS7h2wEFpdgRvgE3N2jy6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SPWN/USDC",
-      "address": "41UQxR6MBKfkXEpeiXvouagiAZWZsEbcrGyNHHDa4LnK",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CHEEMS/USDC",
-      "address": "5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MIM/SOL",
-      "address": "8GaWdgZ5yPxQpxGii2HCWKQj1JgabH9SGCHx2fFwZK6t",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KURO/USDC",
-      "address": "9oXkdAWFyjDH8BbYrDVJ77r6GWPmUWo9ZYYpE25SZ2td",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NINJA/USDC",
-      "address": "J4oPt5Q3FYxrznkXLkbosAWrJ4rZLqJpGqz7vZUL4eMM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ABR/USDC",
-      "address": "FrR9FBmiBjm2GjLZbfnCcgkbueUJ78NbBx1qcQKPUQe8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "COBAN/USDC",
-      "address": "4VCnuHoo6A3XhQ9YrD6YZWQKVvLxVGzHTB2opNyQi7bz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CRY/USDC",
-      "address": "H3e7YziokpHJfFAMAy2PK6sNph72f38P1ELd5TUQaocv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SFCN/USDC",
-      "address": "2ceEgK8EVErJWLx6B1KtiDYmD3YZmXgpvsXdzqXVdrZN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLA/USDC",
-      "address": "4RZ27tjRnSwrtRqsJxDEgsERnDKFs7yx6Ra3HsJvkboy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ALM/USDC",
-      "address": "DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FRIES/USDC",
-      "address": "8DKD5dKmmwparxCkpV2BQFTxt164rfadK8kX3at6hWUB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MNDE/mSOL",
-      "address": "AVxdeGgihchiKrhWne5xyUJj7bV2ohACkQFXMAtpMetx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "mSOL/USDC",
-      "address": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "mSOL/SOL",
-      "address": "5cLrMai1DsLRYc1Nio9qMTicsWtvzjzZfJPXyAoF4t1Z",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BTC/mSOL",
-      "address": "HvanEnuruBXBPJymSLr9EmsFUnZcbY97B7RBwZAmfcax",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ETH/mSOL",
-      "address": "3KLNtqA8H4Em36tifoTHNqTZM6wiwbprYkTDyVJbrBuu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "mSOL/USDT",
-      "address": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "mSOL/RAY",
-      "address": "HVFpsSP4QsC8gFfsFWwYcdmvt3FepDRB6xdFK2pSQtMr",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "HAMS/USDC",
-      "address": "5j6hdwx4eW3QBYZtRjKiUj7aDA1dxDpveSHBznwq7kUv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BST/USDC",
-      "address": "Hq2tZzrdNrMtDsdXeCf9CrN3aS3geJTEqtLRPyiYRZc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "IVN/USDC",
-      "address": "4JDhmLVobWpUaV8tr3ZGAXmSp3vMf24a2D2dVfoH1E5T",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SLX/USDC",
-      "address": "7xy4r55rLu2QYeSGwTGDCBKEYERDX98f6kQLn9Zre6S3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "JET/USDC",
-      "address": "6pQMoHDC2o8eeFxyTKtfnsr8d48hKFWsRpLHAqVHH2ZP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PLEB/USDC",
-      "address": "3y19brFAFeP6fJo2qTihcSj191kAX2JPrB4xS3pSSZXk",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WOOF/USDC",
-      "address": "CwK9brJ43MR4BJz2dwnDM7EXCNyHhGqCJDrAdsEts8n5",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ASH/USDC",
-      "address": "56ZFVzqMqtDmyry9bK7vi1szUV2nuQ4kT6CzFAB649wE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIZARD/USDC",
-      "address": "9HXwwjYkemjH8Yx14ezUikFcScskZncZciKv4juLD8Y7",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PGNT/USDC",
-      "address": "BTUSB3yTsXB6VZrMUcFWQMacPVCpRpzVGLuzsz5TGqAB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "INU/USDC",
-      "address": "G3Bss3a2tif6eHNzWCh14g5k2H4rwBAmE42tbckUWG5T",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHBL/USDC",
-      "address": "9G2bAA5Uv8JyPZteuP73GJLUGg5CMbhMLCRSBUBLoXyt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLJAV/USDC",
-      "address": "9e63hJZ1HUNDeBwmzJy9VsRT4kzqJ92Xk24htAwjTCeQ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BORK/USDC",
-      "address": "7qYXpNp5YQ75u8hfTmNtGRazf7krXD8w8bmHBLwh14Yt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DEGN/USDC",
-      "address": "1VFShHoNGtMxgSqQwgPi7BmytRvy74Mi616WMMKAVAe",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PIZZLY/SOL",
-      "address": "BGcMVJzt78RpFjpw9E5T7BrFF9H88BVXw4Jf9npL2BER",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FLOOF/USDC",
-      "address": "BxcuT1p8FK9cFak4Uuf5nmoAZ7nQGu7FerCMESGqxF7b",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LEONIDAS/USDC",
-      "address": "DTEmm1nC7n8vb3KmVabT6dEEnSNeDXNu1jWN4u2DfD7Z",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLBERRY/USDC",
-      "address": "HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BIP/USDC",
-      "address": "9tr5uMYHgtJ5yG4SeqHA6kJUdzXrK6QCNGYgewQevuuS",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OOGI/USDC",
-      "address": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DINO/USDC",
-      "address": "AC11orBo1k5PFPyhjTj9o4KjcwD9b95hauSRtExy8eKv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SDOGE/USDC",
-      "address": "9aruV2p8cRWxybx6wMsJwPFqeN7eQVPR74RrxdM3DNdu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BMBO/USDC",
-      "address": "8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SBULL/USDC",
-      "address": "762pF5rK7oN7EGHCZs6jb3iKUsKsf586NYFRL1K2xnVx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SPKL/USDC",
-      "address": "6b51zj1C78Tn7R3nd9j4GvyShbMNxxufbU3mqPmbDRcz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHIBL/USDC",
-      "address": "Fc5co91LY2tiZAVuvCmVxDFZWA9SVBVLuxpBcYRQbH1T",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CAVE/USDC",
-      "address": "KrGK6ZHyE7Nt35D7GqAKJYAYUPUysGtVBgTXsJuAxMT",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BABY/USDC",
-      "address": "D5fJAK85W8ve1eNDAaK2FWRQFYnrWzx23KHTe6SdNomD",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SLND/USDC",
-      "address": "F9y9NM83kBMzBmMvNT18mkcFuNAPhNRhx7pnz9EDWwfv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SPX/USDT",
-      "address": "AYBvYyww6EVXdBn24MLh2KQUQRV464pXGkv5Fnr39ywv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAO/USDC",
-      "address": "3DZ96FB2rujUDhmuqkwRLfCh7ABEfnLH4AfyfVCM74Vu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WIPE/USDC",
-      "address": "3kuUc5eTZyi7qajuFfDMMUUkqreEkUKtxQbVCjdriKVz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "OTR/USDC",
-      "address": "4k4WXdmrWjCG71E4pxMs6SQRRB5cypGNYatKb2iMnqN4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FUM/USDC",
-      "address": "4M1uP9mYnbraCvw4JuiqFas63K1o74LeoJwpVDW3AAmG",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GMCOIN/USDC",
-      "address": "HhJ9fsNGUWUXNx7yXh8awfY19E5TVuvE7ZexuKBEcgVQ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ASTRA/USDC",
-      "address": "2VDiUJATXD5i7YX3hwWwmC2Y4ozAj7JEEWvXvr34NV8v",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LGBR/USDC",
-      "address": "GfRgW3GSJgo8DVTjfcbTNyAdyNG92XJVPVeqUKNQoanb",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BDE/USDC",
-      "address": "41ZnP6U4catotV7rFuv7JR9n53jcCGrBTBkowoBaQx5q",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "IN/USDC",
-      "address": "49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DICK/USDC",
-      "address": "BmT8C9BYodHEPX8YC9ceXDugtYU2uqQiSp29786kFfd3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KINGSHIB/USDC",
-      "address": "6zH7zwXKyTCUFEGGSjzr4ndegLLPGRAhT2mfcWc6wP1w",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAMU/USDC",
-      "address": "7PX2k66ecaUJHJweNbdCocR4kvPotvDn2FPu69svCsnu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GMC/USDC",
-      "address": "diB1G66nRhvnu41evoXM76TrmBfJTBw9NfFyTK3VuDr",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PART/USDC",
-      "address": "HY9J1nsJxrem6w4uBRaWi2A7iNruNFEooMFopfM584Mv",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHIHT/USDC",
-      "address": "DyR9UCbbWSSCWuvrBLN9heduofsisP6zWyxBP3rMxS2d",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KITTY/USDC",
-      "address": "8bjQ8XvzrDxKxHhTccpLkqGLbBrCAAPuv6KHrgN95nDW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ACE/USDC",
-      "address": "5rc3qjJTh8y5ZsES3eMyTDpxtzk1ncvS6rrfp7Vg3w1x",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SPLN/USDC",
-      "address": "GGR6xsPq11np3WbihDu7BkpGdCVnMT2hqj4Tg2gmbGfW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TBK/USDC",
-      "address": "DoL5SXaax9LwQM9JfqFBymiUfSxH9A9cwPugPuHvNTDM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FLOKI/USDC",
-      "address": "6Z5hwBDGGfKKcEM8n5N3VtJsLjYTH8roX5v5CaGnExyQ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BSAMO/USDC",
-      "address": "AohqcP9t8y9ttheks7PWWf41ny3Zahy3WLF7mNLBuUHJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHILL/USDC",
-      "address": "3KNXNjf1Vp3V5gYPjwnpALYCPhWpRXsPPC8CWBXqmnnN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DEEZ/USDC",
-      "address": "DcKJGNX3rAiEgEFKQiaYx9qydhy2z5vHdHTFjLa4KvGq",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAMOL/USDC",
-      "address": "2SBJ9CC61cwvVpaBBuY9M8zXvtwozrirKzw89tKy32i3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GLUB/USDC",
-      "address": "4V4R9dL7KxvPSVkLa2HCGW93eheGHFYEvThqvCxrPhdx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WAGMI/USDC",
-      "address": "eju5JDyaf29jYNfq7VrVAocVxGayDEHVHHiM7MYc331",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "MEME/USDC",
-      "address": "GB3C6u9Bstk3JwAFwkjRm8N6b3HaTKLhdD91W9ScMTmM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "APPLE/USDC",
-      "address": "EfNw2rVeteCFEjRPaBumGEygTRo8sS1wrVeWyP6W5HTp",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MILLI/USDT",
-      "address": "8aEV8E4ZH7CU24N7tULbw1NFNEgW1EsopEv4dD2Bxr9C",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "HIMA/USDC",
-      "address": "HCE4wQXApNyFBTK7gYa98QCYbshCz7EkH8axNz3ahvKc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLAB/USDC",
-      "address": "5m7CdEhV6Tq5KnSCy5Cg4w6ug5DFCcHrUJ8JMzKVDdav",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SLT/USDC",
-      "address": "DhmedYCzs57hspLjP3SKd3NRcsvDbuPSQdooSQof4vek",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BOKU/USDC",
-      "address": "Dvm8jjdAy8uyXn9WXjS2p1mcPeFTuYS6yW2eUL9SJE8p",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SWERVE/USDC",
-      "address": "5PqLnysygwZt6i6Quf1aNC2J4676DSbDroff94W7oYod",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PANDA/USDC",
-      "address": "GdmQtZpXZiasZi6TVsDHVLeNvPZY1dmuQ82KXDcKEJPy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLFI/USDC",
-      "address": "EqimahPtpP3q9XNyJMWeqQLyXXdiGXU42X7KJr4WGaqm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SONAR/USDC",
-      "address": "9YdVSNrDsKDaGyhKL2nqEFKvxe3MSqMjmAvcjndVg1kj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "APT/USDC",
-      "address": "ATjWoJDChATL7E5WVeSk9EsoJAhZrHjzCZABNx3Miu8B",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FRKT/SOL",
-      "address": "FE5nRChviHFXnUDPRpPwHcPoQSxXwjAB5gdPFJLweEYK",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DSOL/USDC",
-      "address": "5TL64aPK46am9PtwcRcNsXjNF9d2pUHPU8N44qh8BDJh",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PAWS/USDC",
-      "address": "FDvJeLH6tT1sFJWVtP9y8ygu5CqbiLGQgcRWbVTMpzs3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MOF/USDC",
-      "address": "6HKDynRqoLrt2rbFNKPt1arVtFZJqTQZT8odYnGwoeYD",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DSC/USDC",
-      "address": "36wb7iVPv5Rn5Q1ppqVmtJaxLdwgUYkr6U3SGa9iL3W1",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DAWG/USDC",
-      "address": "GEHUWno1Kh3Wu8VKCy2dLR2Kxo5YTZUJkA33NG1bCR1j",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "APEC/USDC",
-      "address": "EpY7L87BquhH8fYdYVVQJdNrrs3RYPsETbtLsPR37oeM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DFL/USDC",
-      "address": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "UXP/USDC",
-      "address": "7KQpsp914VYnh62yV6AGfoG9hprfA14SgzEyqr6u9NY1",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FLUFFY/USDC",
-      "address": "GEWVZSLpdMNM7X3U7pRLG6qWNjkr64heXSoTycCADxFc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RLB/USDC",
-      "address": "DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MORN/USDC",
-      "address": "4pGhmFUSaRm9sVTRA9H9vAJJFBs81jQkieM9D8juAjhR",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NEKI/USDC",
-      "address": "13SiVjqfxqfWZ3i2AbDZpiDmL7oxuf1wWfbqNcWBJ52S",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NPC/USDC",
-      "address": "9YLPp9myNyurQiegpaxj8eYNvdGkfDCNcuaZMxhccZfx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FRKT/USDC",
-      "address": "8inqBe7D12XJ6tMAzpLCGYpjazWFXG1Ue5q3UZ6X1FM3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MUTANT/USDC",
-      "address": "D7bt1R14wc3BTXybrnFGyrwvucM5AVEzoteR4gqfk2YH",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TRTLS/USDC",
-      "address": "2dKHkfJGKNxmtwdLcsqXFGcb8Xppw5RP6YVWEWjSfAHm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "POLE/USDC",
-      "address": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RDPART/USDC",
-      "address": "DNiHvtcR7VBAFGZtW2QjMYbSMqKGzbv1ej6ykVQj8u7u",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RDPART/USDT",
-      "address": "58kK4JTBQMoxDnTpXUWCiPMLGk1VuTK5ajxsCsibyzHW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PIXL/USDC",
-      "address": "ESd3PskTov69tkW5MmfdV8K7hXR35EXRYorWMNn61dD3",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FUM/USDT",
-      "address": "2HPLwshKLtj32rhhKpYhsmfBkSomipV1j9dBnQ4Aexv9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "UPS/USDC",
-      "address": "DByPstQRx18RU2A8DH6S9mT7bpT6xuLgD2TTFiZJTKZP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FLOW/USDC",
-      "address": "FX3cdTXUqcsxbTEEahZLtCzbxvy9WQViCrDWH6Wsq7eP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "Jungle/USDC",
-      "address": "3tc776fxiBNuEzr2JwrimMdUdayJx2qZ6BhEpJUB2Vf8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TTT/USDC",
-      "address": "2sdQQDyBsHwQBRJFsYAGpLZcxzGscMUd5uxr8jowyYHs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "VINU/RAY",
-      "address": "7W9pEftZmMvq9wm9tf5fLfMGMAY3bSa362ve1LzGDZq9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MONGOOSE/USDC",
-      "address": "9d2NsCGUidYc4b4JD8vc9hbhm1HdTfGpCByUAUakGHCB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CRYY/USDC",
-      "address": "GN7GEoxeg9yKMWt5KbvQXbjEtcCPjyPicd9AW16NjK6a",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NAXAR/USDC",
-      "address": "AAQR6j1ftW2g6ubAkTjrYvkg3H5aPud7i1GXViHLvRVU",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BASIS/USDC",
-      "address": "HCWgghHfDefcGZsPsLAdMP3NigJwBrptZnXemeQchZ69",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CRWNY/USDC",
-      "address": "H8GSFzSZmPNs4ANW9dPd5XTgrzWkta3CaT57TgWYs7SV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SAFU/USDC",
-      "address": "H8sjxDJWVxC3kP5uZ3p9eZncc4Czn9pTWEA6bH2XX7rM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PUFF/USDC",
-      "address": "FjkwTi1nxCa1S2LtgDwCU8QjrbGuiqpJvYWu3SWUHdrV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NOVA/USDT",
-      "address": "2JYtpRB51ShaB7i4eaQyx6QYqWFmm38CAakFSMP8xush",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ALTAR/USDC",
-      "address": "3cN1aMUUCyDC8VVcSyoC9ejAaYFkBKp65deCKJfbH7pL",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RAC/USDC",
-      "address": "21eq7jsx59jPFo2gt4npreKu1voURzcjyPniBdgupuQC",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PSK/USDC",
-      "address": "3XRsg7YRVcvZme9rHpATL55WPHrnGXvVL8E7ycNNFu4f",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DAPE/USDC",
-      "address": "CQQAHgfsu5uFTPzwewZ7QrLLSPk1K9MmqnuxiwmPDBzN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SMBD/USDC",
-      "address": "6KtErANtAw4oXGhF1LJhKk2f8xomCwo4bwLcntZYJBVt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PRISM/USDC",
-      "address": "2MvXnxngd1gKp6gE8Q63wiPHSpveWcx8x4wf43VpyiA6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOULO/USDC",
-      "address": "EmKW38yeXHetYYGVnfnuHJB7WEv11dcrofD4sdqZ2SSV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHIBT/USDC",
-      "address": "3muYjVPCnunGhXAq87oYBWWdAPWJvEKbbg1fqKZLLkni",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "THECA/USDC",
-      "address": "6uH2rvVUySwnVFw7CMNV4HTzuxHTUNC7pK22pXcqgSey",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SPZ/USDC",
-      "address": "DYGLKjaY2hknHJkGWPvNCWMNhaHjKYWxDPiNwyeNwVXE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHDW/USDC",
-      "address": "CVJVpXU9xksCt2uSduVDrrqVw6fLZCAtNusuqLKc5DhW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHDW/SOL",
-      "address": "CiDPLzvb5Ua8XwuRJJPjj2cPWsUeAicKVP4a6vCJsBib",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TICKET/USDC",
-      "address": "HBfdGEMeQQpGogC3Li4uhRqZxGZAVLM9zimt31vdtSdA",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MEAN/USDC",
-      "address": "3WXrxhrj4PXYUwW4ozBjxdSxwEp9ELKf3vETxXTqdiQJ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MEAN/mSOL",
-      "address": "EpdV4kLk8szmnqkuGCzFJzbMDjMswNxYQ2mhS2GixnW8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MEAN/RAY",
-      "address": "2zJKJgDb8M57J8K5JHZqJyU5ZWZHsxyFtCPi6GdRCi91",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "HIPPO/USDC",
-      "address": "HnLKrfMN64ccSbYCj4DxjgPYveSkFujYrnMr4cvPfL8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GGSG/USDC",
-      "address": "2x6dmFevT3MGCZYPE2eagautjyQFVq4YwHsKow5bCVCs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "stSOL/USDT",
-      "address": "EiTq4pPY33MBGiV6kdgGCeyJv6NVACVE9MSdB9rUDX2Q",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "stSOL/USDC",
-      "address": "8sSrcqpFqASrMfRpjkq6qfG3AR4xCZp7L2RirjUBxX9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "stSOL/SOL",
-      "address": "ExfPnrhpoB4BjK7KjhcKPaK8GWwVssTNDx19ctnmsjmT",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLID/USDC",
-      "address": "Bd2kNuq1tCiRNCMFRRcWt5EdeUK4Lvf8ufjSdzjyqegq",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SYX/USDC",
-      "address": "FKbD1GvqXWf8PRfgZo1S6U2gvpjmzF9drNFRzBusBdeA",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MILLI/USDC",
-      "address": "6Ncr1AW66ttss8fM8uHCt9vdqVgD1sGz83MrEBbhKeZM",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TRUESIGHT/USDT",
-      "address": "DFa5HoR8poD6VqXVeUjQHRF8qjv3VHQ8KDeGswFUfo6N",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHIBA/USDC",
-      "address": "3M8uZhLZMxFUedsEgPzywZr9qbGTv3kKNMCEfAmg8iyK",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CONDOMS/USDC",
-      "address": "FitnUARvYB9LRXJtECe2YjLzPgLD88fDRGQgqKwLDqtV",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SVT/USDC",
-      "address": "HuFKVQNyB177c9DiocQksYzBCtHMRUP5bBXZJzuLvYQm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BAPE/USDC",
-      "address": "5ygcSjBuorC12JEzf5mvDzcWpdSLPDGgbDU4LompEFA",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CWM/USDC",
-      "address": "E8CLGjBzJD7TPgjfcWm8dvpXhz5pvdjcPxhG7qi7Y5un",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "USDC/NXDF",
-      "address": "AjPZqEtshUpjFRuSUEzWa9JNX8rrkn5v5ZGHJWVCK1gY",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "VITAL/USDC",
-      "address": "ESqvPXG6QYQxjk391WiFf2DVZCC6o9H5yiBiZWQpvN6S",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "Seagrass/USDC",
-      "address": "HY8f1hFK1EvhDymSNhtogVxHy5oMyxy5d5CGwpuYuV5S",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "Fossil/USDC",
-      "address": "NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SWOLE/USDC",
-      "address": "3SGeuz8EXsyFo4HHWXQsoo8r4r5RdZkt7TuuTZiVbKc8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SIM/USDC",
-      "address": "F8E2ap49XFoQU82hFmeMWNSpaYkq7ea8wMWxHjV4ewp8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ISS/USDC",
-      "address": "VEwPVH2AzoqQb35DP8gvY3B6hj5mwRzGhfee977b27Z",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WVIP/USDC",
-      "address": "8Kw7mLsaaMHqz19AKcANov3SismfrvmduZfGQeRj1XjB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "AART/USDC",
-      "address": "HubRne1PhTa8ufcGRmS6sMJpbB5yY3BEykUuw8xXoAyy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOB2/USDC",
-      "address": "AP6rUgcv8k2kkLrbyAUnY8z1q4hUvjnrcmewuQbMX7Wo",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BITXBIT/USDC",
-      "address": "ABydcz3WA6JH4mMkuTLQwdqrRFuvrNrQd3J83uFM5oB",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "daoSOL/USDC",
-      "address": "8mGtAoxqxJGZQGFgUWZrzxvRrB6rQU6J6NQLjCBiiVmg",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BUNNY/USDC",
-      "address": "AvVJcsk26dYHXS9Uya2tkDdSD3i59ubvo1qYKB2w2j5C",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SLCAT/USDC",
-      "address": "7tBTNaUM38y1mn1oozbL4TzNeb33ySg8W5eBer9HBPZ5",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BMA/USDC",
-      "address": "6Yxgcfs3oyZcGSxAemHscLJSZ9YWHymH7MummtiTQadc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "USDC/ODOP",
-      "address": "3fgxs2LcqmHTvPCpuzkfrMgXMHhq7aBSX61gSQCXf75n",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ULA/USDC",
-      "address": "3fxSHmDZx9zFdRucnAtTLAdFtqx2cvo4VaTix2iTgF7k",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CMFI/USDC",
-      "address": "3Mf3bxVS2zLW3bbr9BNbqdiizaUwCGwoi3xhrAXfbFnW",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GOON/USDC",
-      "address": "B8L7mjHL3xm6iYo8n7r7SigvFYqg6pwQdJdeGSuPQTfD",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FREN/USDC",
-      "address": "GmaUDJpPgmLq67VqQbwqhdFo6qFZ28YWJZZDumb2gtFD",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DLN/SOL",
-      "address": "1DeDcStP8yLorneK4wnaLokRCmGxFiSUSgUwT9V2tgj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KITTY2/USDT",
-      "address": "H8VLs7VYaBg3rg1NvVNJKb1QWMf3kzieTPkgPmVffXTx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SOLACE/USDC",
-      "address": "jipGB24Hmkr1iHWL1gt5xcDCzNd3WcCHopt9wcmeiQE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "EPOCH/USDC",
-      "address": "D8T1HHdfDYLtNThBQigPy52YPDjR1mCFp6yUxyCqprSh",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "KASHI/SOL",
-      "address": "Gu8Uuy5un8THFCGKJ9eXroXDGr6nxyYbAUF2JQBCzf5x",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NARWHAL/USDT",
-      "address": "3qXkLj4vAT4B2dMJQgtKSrNxLfrSQawMZtAzKVEsMyYT",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PRMD/USDC",
-      "address": "9wmsybKvBWKatj7FxkYhauna6z4mcMDXQrjNvdy2kdgE",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LRA/USDC",
-      "address": "6gajxtdWsm46yy8Btedr8DHmrr78cg554eQWp4WHBbgo",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NXDF/USDC",
-      "address": "4RnYHByMqmrmwu5M4aArX16nAKDg9RWh9Qo3yoRfd3Py",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FRTN/USDC",
-      "address": "Fp3v2yBS216zbucTrSVACeEWVVMo1V7GdSLePKcKBzSj",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CRB/SOL",
-      "address": "AbwkCDCzME92xa8bJu9fGbJkDS7awyDqUa7HGtBreScQ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "METAIN/USDC",
-      "address": "4Mv2Bc8o32i6pPdWQNuU7Ciw9FSqqtd4pDi52PmMgZJ4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ENC/USDC",
-      "address": "AiKDoMjEjhso6hmwKkSm9D4LD98PUcS5TpPknidd4hoy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MHC/USDC",
-      "address": "D8hdjnx7KGKWDuJ3mmasWMbg1dVyf1sBR8zPnejqqz2s",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BND/USDC",
-      "address": "83HNSujfkWKdXrBaFUeG28eqykksyQNaCAMYXoWJpZN7",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NAGA/USDC",
-      "address": "huVJXwRntbeSi6cZpEkane7wvCZo4gcmN3WNxr6gw89",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ASDEX/USDC",
-      "address": "D59KvDWY6JYZ8bc9sACMPyGQh4MFT2zStTZqV1LMxYZd",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GEAR/USDC",
-      "address": "HzFs14Ua3opDJAg1nmonwJWGuLspnqafdv8wxWxQXrNa",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "cMETA/USDC",
-      "address": "4jk9cxxGKNuBGv8ENdgDCWFHy9SzH3hf6e29TVWtFAyc",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "vMETA/USDC",
-      "address": "HCYfrJr82havVjQ4jj7WGRCSYVwGbqh8Fjc1opZpUihL",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ZBC/USDC",
-      "address": "C3c2NZurMhwrgMAaUXewjDGTy5f93MvYbhYCYfXXmnZN",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DUST/USDC",
-      "address": "6uCCYVogMFvTjnSk3itNEAsVUmpJxj9F6kyTJwRTJy63",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DUST/SOL",
-      "address": "8WCzJpSNcLUYXPYeUDAXpH4hgqxFJpkYkVT6GJDSpcGx",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ALL/SOL",
-      "address": "C58DcdQAkqKwk9ZrnE5Mocgp1Fz6yJVTrttCgHKYGK8T",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RATIO/USDC",
-      "address": "HtcFhAWSJnuvbJvGLoRFr36zC5y1M1RPtBCgGQfdLFw5",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ARTE/USDC",
-      "address": "4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "AUR/USDC",
-      "address": "Hd5uEsj4fnEYsdPdY8ReptKoXGkUZYM9ZC5GHZcHkCBY",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "BV/USDC",
-      "address": "5tVUY9id5G6tPBu5C6hFZ9f6As3A4eopf7QTApt5owAy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "DGOD/USDC",
-      "address": "FFmE1patBuqcjRZ1TMrokrefnpMqzmLZMecLGhvnWb3b",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "LIFL/USDC",
-      "address": "AYbybZJN533vgPdZrJga6Zw7WtZCnUofNLiMjneWUP6V",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PLWAV/USDC",
-      "address": "Ccgq4UV9sFtXp9yMGXwJRcJz9UsgQFEjF3Fmui2Z6Xhm",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "THUGZ/USDC",
-      "address": "5Rcqv6qXRFFnK3dzYu96sKqf6wtC8hEA1ivRdMwFHEH2",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ODYSSEUS/SOL",
-      "address": "EVMYGduB23RgbnCEx7i7xKMvGCXM8P3BKS4iF67gQwc1",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "MMA/USDC",
-      "address": "CbWz5gn5gUyUhjjYpCNZq78dA7zjx6q3eCnQfURcmCUD",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "CODE/USDC",
-      "address": "E6VQHawoPZXNWJsyZNM4BYCycpgBE75jBafy81DmNd4r",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "HONEY/USDC",
-      "address": "4bhcTWnsVV6LSUJMQu4FqGL13DQmgkvj21MrFAhhSdPq",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "TRPY/USDC",
-      "address": "3N4UgbUHUkwMU5DKFYRvz3HASbFjs3q9JLAYVRdEQvbp",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "NOCH/USDT",
-      "address": "9GgM6YwhdzmoY4VtVsrS3jcCx2NSRraCX1EPGvezukAz",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PLD/USDC",
-      "address": "5ocAKeiikP1y9wZhgNQDKu3UXxrYusxmDVnp44z4jner",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "RPC/USDC",
-      "address": "vfARqzk9ZtFpK7etvUq23QzWidopgwBzJx29je7JER8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "PU238/RPC",
-      "address": "Be5wEZRFq1ps5TntHviRsZLYuS3yeYtyXbm5BjhgR5wP",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FORGE/SOL",
-      "address": "BNtNYTU19s8N8f7trL81MezZ5RiZFp7YqKLC3TAzdibR",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FORGE/USDC",
-      "address": "2ReqwRRdKoXszAMhrWatSf648SV7gtoYw79yY2bz7pw4",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GST/USDC",
-      "address": "2JiQd14xAjmcNEJicyU1m3TVbzQDktTvY285gkozD46J",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ACA/USDC",
-      "address": "FigeTPjS352wNWoxdPyyDGmbGydCDf2igq4meLYP7mX",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "$EGG/USDC",
-      "address": "5AxX3Geo6YKvAt5FyVJJhjX8zBK7b11886ZCL3su8QXF",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "GMT/USDC",
-      "address": "9KLmeRBpT4chsxkJatfDdzrtTBvBastYp9wMe712ASCg",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FINE/USDC",
-      "address": "4zexVxEB795qpRJVFVAqWV9UnF5gjEcxK4RTDHxeEprQ",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SCP/USDC",
-      "address": "Ayar4iapfn6LUvo5rWq4ndZ7rwT9HGRge94H9wYZymk5",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SHOIT/SOL",
-      "address": "EcVUMb4u2sggUFJGbzCX7pPdKKhg8UG6cjLdRCheT83d", 
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FERO/USDT",
-      "address": "7Z9mCdS7gsSUAeikMb2LHQXzeukhurXmgjJU8xNy9gU8",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FUEL/USDC",
-      "address": "Fcy2padmruFoaQzwC6hMLSXWJ4Loq46Y4EuD5wnPH2fe",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "WNDO/USDC",
-      "address": "FZF1gAKqZJgMAuWSsvxxQCHUeiyMfTxtpgnza4t1Ze3R",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "ARB/USDC",
-      "address": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false,
-      "delisted": true
-    },
-    {
-      "name": "FBZ/USDC",
-      "address": "AeTCFsNppdq1d5kgu489tkamCzkbsXKTcS8hRQ8qhz7m",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "SSURF/SOL",
-      "address": "9EohzYYJ8bkWFu1xhTcbLA5gLHh7qaTH8KGDnT5phYnU",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtGENE/SOL",
-      "address": "ArFSjGZX5YxCQ1EnMWx3fDP2WH6gGHK21gPzFDtzF71e",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtGGSG/SOL",
-      "address": "FR8Z6nCCFr7ZV8b5uddBYftCVsPwgU2vabp7YWMkKXYY",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtFFF/SOL",
-      "address": "E3fxHCkCf2Jw4zu4HhaaWH2EfGQCov2gxWZjHPscwRMi",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtDAPE/SOL",
-      "address": "E8fRXrxSWotPbP7iQatXLmnDj4efp1q7cSZ4zkhYpVS6",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtBV/SOL",
-      "address": "LwF356ST2od3Bx4Xpwh8LBtZC4yeaKeCEQ8174XXhQy",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "svtAURY/SOL",
-      "address": "AEhy4nHsJvFJD4dbHT5oBfTnkNk1o9RH3nqfb6RgikNu",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": false
-    },
-    {
-      "name": "FAB/USDC",
-      "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
-      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-      "deprecated": true
-    },
-    {
-      "name": "RIN/USDC",
-      "address": "BB3YdFM34vvLZpUHSRK8defoJRwF3rtXoom7rtT8aUMk",
-      "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-      "deprecated": false
-    },
-    {
-      "name": "SOL/USDC",
-      "address": "HHcNLmBc9ngB34r376AnS7XTCYfgd9Anu4qvhy7mv3Qy",
-      "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-      "deprecated": false
-    }
-  ]
-  
+  {
+    "name": "ARB/USDC",
+    "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  },
+  {
+    "name": "MHCNF/MHC",
+    "address": "4Qgb1Z7By86NhfGaDrZsXrWnf8Y33DgyyZmsvWxhzutX",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+   },
+  {
+    "name": "SHDW/USDC",
+    "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  },
+  {
+    "name": "EOSBEAR/USDC",
+    "address": "2nBXfHevA3tahft5mEe6bHtaKEhwhAHkWpnbiufXyo5W",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBULL/USDC",
+    "address": "8GyEm8ZMnwUNfZQeBZwse3uYGwG2XGymv6zES1thmsq3",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBEAR/USDC",
+    "address": "DENVnSBnQG84fNDVV5KQPqTYzvLJ2JoYM5VNyN8bzwgS",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBULL/USDC",
+    "address": "DKD7gmr1pBayDJteznDCvG4pEt2rJ38dSE8yf9F1Jb2z",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBULL/USDC",
+    "address": "CysdTcmgCFQADQ8BrUzkQB5rggXufeBwnmJccgvf5dwN",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBEAR/USDC",
+    "address": "28uRfBWMjkMCAKLYkXyWtKC3LT6H6YcrwQT3yFdw8gYp",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBEAR/USDC",
+    "address": "5Dct3fJBF1xp1sfbWuHR4xSnfTsakz3KMuDNC6Pqquft",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBULL/USDC",
+    "address": "4YVHx9qRVt4Ww86nbae82Z9HC5mChhh8HFJoNSM6bsZ1",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BULL/USDC",
+    "address": "B3uwMW6Gg2g5yqRkP4Es7hXYXF9ck78Q8tcCEq83RYXA",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BEAR/USDC",
+    "address": "Ajp4GqmWZc5XJHcwnZTFpKq8hmdc7hiU2D1btWkEbku7",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBEAR/USDC",
+    "address": "9114WG6KUBMYUXm8Nyn685sStQpeWMzFCdy4qvfWy7LZ",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBULL/USDC",
+    "address": "4m31HFEFnQCRKzjdSpYNwa9ymE2Q1KXuqNzT4Cx8ef6s",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBULL/USDC",
+    "address": "7kYV26yjwpJs7GPb6uJURZNYWX2RCAxRoGJT4SEWQYNB",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBEAR/USDC",
+    "address": "GXUnMUXr1f5B6j2Z62iqBYrRbSh1VdjEhT89bbGHhsts",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBULL/USDC",
+    "address": "BVsVW2TLpkDKUxUrBFALRbaMsGWpVxosQgxswVUnKC2d",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBEAR/USDC",
+    "address": "GXePFiWdDW1bGNTefrG3xtAN2AmdFgUbmoF8MNHBBzTE",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BULLSHIT/USDC",
+    "address": "2kXsgwGK6H83AsBSJAo4ccrhyfo5mraghZZNZi92UFDZ",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BEARSHIT/USDC",
+    "address": "7V98RzshYxGucHqqf8n6Z1WDMcKj9eKCNy5Fo666uuY4",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBULL/USDC",
+    "address": "C4baKEdLtfv6dv4PgNzPhgx8JMgvqTyXqyUVv8bUhGRV",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBEAR/USDC",
+    "address": "9gS6pRvrg3AJTEu96YKu19jmBemuutVxN1AwPhM3jzph",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBEAR/USDC",
+    "address": "AsBMcjuxorJrfyee3KmyKTFp3ZXHRcwYAZT8yh8ZEsL4",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBULL/USDC",
+    "address": "CtVv4Q3X1uMqjn7GjNEDaXRFprZUANUGXzyEZWrG67Ck",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBULL/USDC",
+    "address": "7XbgTAXyWigVAiXRG2sxsLrqKwBbunmYnoWCgpAXmrwR",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBEAR/USDC",
+    "address": "EHkmG2UVV4JQerrAxrQjM3CSwrPd37Xh9sYtxYt1ifPH",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BVOL/USDC",
+    "address": "BCq6ju9Pu4Pzef49ugjMbqHgycaWUY7Yr1QwVPr9fwYJ",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "IBVOL/USDC",
+    "address": "ChDJJR6nZgATz4mn6Yb7A7Gat5bXi93htvqfKtMtn529",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBEAR/USDT",
+    "address": "9ZYy2jTQc6ixMpF3gxB8XG9KnxTwYvGcBvjE78qxWQrf",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBULL/USDT",
+    "address": "9i4R6XXCFCzkU66C8HDVxPM3QiwZsX5YZsFWPLymoGqP",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBEAR/USDT",
+    "address": "Da8mfnFNwnSyftAX77jBSGhkdMMYuFz2MsDudgkTTQ8U",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBULL/USDT",
+    "address": "GqbSYBcFdseQEDza4MhnvEu6ugaSjjMTrRafrNCC6FR8",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBULL/USDT",
+    "address": "5VnQw9Tv9uKBXdBPwkiqFyKmcFtKtSRKRnrjbLMCFtb1",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBEAR/USDT",
+    "address": "G97sSWmojFe7N8gN97QDrFbY7Ho4eqAH4RpypdY7GTE6",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBEAR/USDT",
+    "address": "5bn3kRXWozDsQqZZo9UipDgX79m1iyx1w1mUB5qn3hZy",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBULL/USDT",
+    "address": "8G7KdckAw8XCDDEN8G2gZ3A2EFZ9Nvo4TDq9HuwbUg3W",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BULL/USDT",
+    "address": "HAQmVRVPbQ2z4yLNtRwFfhAvpM46ziQc8ZpQKfLZ66jW",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BEAR/USDT",
+    "address": "G9afU4vLzJx2YSH4vdQzi5Gcgdpuo4kKdxLbG6VB8nwG",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBEAR/USDT",
+    "address": "29XpXc23EZK8xS6s1yzkANpZyrhE8yown4HikzXwVmvt",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBULL/USDT",
+    "address": "FCMJa5g4t6EozzzMPGryxf7qgrggBrZ5vSjiqrSk5Brq",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBULL/USDT",
+    "address": "EWzgFbqGWJAicuTDMM432nrue9pqaYeaBWktqtmwPSvb",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBEAR/USDT",
+    "address": "D5WRvsFV6ZTvr8My2z1zNcWqiQBJqZaA3zbfU1LZHkdp",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBULL/USDT",
+    "address": "HjExRxBnj4yTMMrsH6CHASfYBn8u2dPcWPS7vkCukpUX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBEAR/USDT",
+    "address": "EzNYAQercpxEdJeDm1jcwD8z2FtdieE2Yk2M4CRmwkk2",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BULLSHIT/USDT",
+    "address": "8qFKnbo8vzbG1KWUKf3U6r3bu9j7oCujGkoCiFPbdvpT",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BEARSHIT/USDT",
+    "address": "2jMUxrZBQZpFvVwvAySPvFP3b447JC2aGKfzDn1q5RXR",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBULL/USDT",
+    "address": "6yJH8gZ3U63xYqdkfE8tMxCs4T1RAVL3wN7nPYMDf8DF",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBEAR/USDT",
+    "address": "5fmfWiPbveY91Nnk3nHi2Yv9RcoJ74rjgD2ufd2GaQAs",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBEAR/USDT",
+    "address": "2JvJ9RfXxA7kDydSVCco2ZWRx6cdXZ6Z6V1LJnDJwgNg",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBULL/USDT",
+    "address": "C1UazpxypvSoWVCXnKtFdFk8zo3vwd4CvkpZWGBu4CUj",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBULL/USDT",
+    "address": "ETVeb1udwjXzHf2bHTNkMKzs4yTozhehiAvuFyhmri4s",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBEAR/USDT",
+    "address": "HPUR4supxqQvxn8qDbWzjAJHewrSiSMJsYJbqBHEsYL8",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BVOL/USDT",
+    "address": "8L5hqeAE1SD8sBdyLXeiQxiNjHB8yDa4SHxNrU8FuvT1",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "IBVOL/USDT",
+    "address": "DeDHC1ygavF7qkwcnSWpBhXAk5RWL8LYs62Z14Ezwrf",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "USDC/ODOP",
+    "address": "8e6Rc8xFPdAqWgyKaLqJRZNQy7QxRHf8msNkTKLqMhfi",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "AAVE/USDT",
+    "address": "BHaoJzF1vxYuc1zoPkWNNqxDFt5Q64G1B4Gwt76abKD4",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "AAVE/USDC",
+    "address": "HGMBPFB3UBK5AiUjiGyTbd8ekP1D2esjbMK3oeHfEdv3",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LQID/USDC",
+    "address": "3HZWXFCx74xapSPV4rqBv2V7jUshauGS37vqxxoGp6qJ",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "SECO/USDC",
+    "address": "AfQetd9YZZEYs8sTJ8pSHZxvzjox5sqqPaPHYjtxhi5g",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "HOLY/USDC",
+    "address": "9gXFn5ispR6nBVg353ZWM7aJbUB8ectxqoVjqsCQ4HJX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RSR/USDC",
+    "address": "EFLhjMgEVa81W4NpsGt1ui1Ci9Kj1JhRXn44gHz43sFi",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RSR/USDT",
+    "address": "9zcUvraedRyNFk2fkp3QjoiwWaZvTqzA31Up1m8fPabV",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "CEL/USDT",
+    "address": "B7WaZfTGKSgZKKe9gtNak4eQp5xc7ifRNS5nkthqqvw2",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "CEL/USDC",
+    "address": "H5Bfyo4sK9qvty54udJMLGRQHDctqpfV6HZbfMPWD46P",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "1INCH/USDC",
+    "address": "9poTx4PkPaYi5TqL1N8jcFUEqhxLv55CSVTeFZ4vFqNa",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "GRT/USDC",
+    "address": "DXJ5SUbLj15Xza48KC6FBr3CviiFtMmCDredRfgBFo9Y",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "COMP/USDC",
+    "address": "HwvPti5q6kYKUS8JSJsRYz7qZVHtpFDEyvHbM6os2RD6",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "PAXG/USDC",
+    "address": "HwtcFVBr81Re6VPkhZqViZeADyj856w9rNhgBpNXu8Lf",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "TRYB/USDC",
+    "address": "2UWX7327btd1zvPHf2wMViKRNtE3SDEoTShBsXTGd4NX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "BTC/TRYB",
+    "address": "6vx6EhsUHH3udyJeMbzQpE3iy4gVHXd64561CAyb5Dij",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "ETH/TRYB",
+    "address": "CWfPwnZeMvM14ZK2uvYrRj3Qmzq92tVfHgbrcgx2NgCH",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "DOGEBULL/USDT",
+    "address": "7h1rEszaKvigcEhQJPxsSQjtHfsitcvQVfVe77KLBV1N",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "MAPSPOOL/USDT",
+    "address": "8bCqYjBMzahaQFjMTt6pyfShsNvsd7dNaVXyYWYUeKYH",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "OXYPOOL/USDC",
+    "address": "CQf4CbkC9aU5X8zjmvq9uqEY5QUfUWGLpntzzv1T8b9b",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "PERP/USDC",
+    "address": "G7LqXk9c7DSsezu2sZfrf5ftCbVkYkkCP6GyJsQcfjH5",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RAY/USDT",
+    "address": "HZyhLoyAnfQ72irTdqPdWo2oFL9zzXaBmAqN72iF3sdX",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RAY/USDC",
+    "address": "Bgz8EEMBjejAGSn6FdtKJkSGtvg4cuJUuRwaCBp28S3U",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RAY/SRM",
+    "address": "HSGuveQDXtvYR432xjpKPgHfzWQxnb3T8FNuAAvaBbsU",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "RAYPOOL/USDC",
+    "address": "7KRhEZSUcJUxVHNR3oVGmFt8eFMhL5ex6kk42KX6PFEp",
+    "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBULL/USDC",
+    "address": "F48bsAxagGV4rijEgSAyTBrndNrncUTo5rrrx5uqCND6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBEAR/WUSDT",
+    "address": "3Sh1v1hsymn4hG2HDwptcnWsko7n4RPvcKs8RzZVqKvG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEAR/USDC",
+    "address": "AzyKS5hfJ15m2XTiEC8Sea9GrcspuuRay8tdoaGTHpUh",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBULL/WUSDT",
+    "address": "48PELftZmhxFSSiT6s3RyuiTaXnsgTNes2WhBDMqqzSW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEARSHIT/WUSDT",
+    "address": "EQpVNmD5q3raRNVSWczC732zVGoBAfupJzNs2chXtR43",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBULL/USDC",
+    "address": "2SVt3uJ2Ze3CpkzEHpBRwTw4DTwM3LKTqUjAc9PPSZ1e",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBEAR/USDC",
+    "address": "Hw9pchAbZmPy7Dy393Vsa5n6rk8DAenSmXS8zNmusaVX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBULL/USDC",
+    "address": "GREiyoFSEM7zMce3VugkCggdUYXVK5MijJgGwn7DkVPF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "EOSBEAR/WUSDT",
+    "address": "Dd6EFb7sTzEZspnAQwhrb78AJ1z29GFFWpMkq68iWoc4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BULL/WUSDT",
+    "address": "38cMvJY7icq6nWKGwBBoMswe275MWk9NhFwY7rkkGkGA",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBEAR/USDC",
+    "address": "EG5NfHKeaG9sgESHM9nw91nmQ1JnZWooiHt8JEkcovZs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBULL/USDC",
+    "address": "GEJJd9dQtFXuMNjMrQ8DExUXSz5SF3Jwn2HMUUYefk7F",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "DOGEBULL/WUSDT",
+    "address": "DyDzn1jZQKiy2Hvcxr7y8SEjXcUSQEWUnnogngTLd23F",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "IBVOL/USDC",
+    "address": "J2eCTuKaABG91kCzJset2UfQRoggHcY2Cq7Stu7natXr",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "XRPBEAR/WUSDT",
+    "address": "mDpZbVezkWsReYfjYaghF8uDZXeLp3ATKLcYb1iAn9x",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEAR/WUSDT",
+    "address": "GJhBsu9Ge4dFiSrhi6THhW4DBECASpqTVGsGiXeAyVMd",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBULL/WUSDT",
+    "address": "DmvvfTdhJrE4QSr682FUiKvCW1EzkAyfndNpJ8iPJHs4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBEAR/USDC",
+    "address": "FecoUQTNeqDWLKg3PDBg4EjnEoYxXVcftynW3RfKbDE4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBEAR/WUSDT",
+    "address": "EjRnfAhgq7WWi4XWau35cczmyjT1Kms6Rw9VZKQkeZzV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBEAR/WUSDT",
+    "address": "BkWtd8FpDJS3unVhrXL1ePug7cZx5xt2UzQpYUNC4wvg",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBULL/USDC",
+    "address": "9TDuAzrz3kCHcYiw1t4aheAZyXHvsB3SsVA8BiixSmGj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBULL/USDC",
+    "address": "C5zFa5VRJftDRnQZjqxfVg6g5BLr1v7nYAvFV3BGZG9b",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBULL/USDC",
+    "address": "G5segjMzCWnu3zayK3bQAHc7DzthE2fjL1HFhU4hZ37R",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBULL/WUSDT",
+    "address": "7Vv2oiMzquUpVhbAGahZwQ22PVXVZZHgzBsDiSMVHfXm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBULL/WUSDT",
+    "address": "HNXPQGrpjaLuP9vzggFAnskrxFKqSzZiQyspSpUV9wbg",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBEAR/WUSDT",
+    "address": "GDVtcuFQnXfcVDUmsVVZVdtUBA3MoNRufmJEqt97z7fy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBEAR/WUSDT",
+    "address": "BNXPZUFuRhmJGaNkZXzuYcsMN2iekzxX6fYLnAwCmuJV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBEAR/USDC",
+    "address": "G2aPyW7r3gfW8GnRumiXXp1567XzMZsfwvbgxDiaNR4U",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BULLSHIT/WUSDT",
+    "address": "HCKZBPL1L6YMuwNM1mhgNiNTbGaeDCNBEc7WE6gTcZqn",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBEAR/USDC",
+    "address": "BNMaMjcaN2Jp68BpgeTwMDcfVjzeSudZGbpjsYac9pKp",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEARSHIT/USDC",
+    "address": "4vuvakEDjBhqpWnDrj3FqmTHtrFg3teb62bS2Jnsz66K",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBEAR/WUSDT",
+    "address": "67m87VJ96atN6sBFjzcpYGfU2Sx8iSkD2HY5JcRo3qRf",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBULL/WUSDT",
+    "address": "Ckjo4MyyzytXmvq5deqafkdD95y9bgvpgCt1sq4mLNV3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBEAR/USDC",
+    "address": "7bfmpdvJg8ZZULu7Yk5356yF1XXs5hL5EYR29XbZsqKm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "EOSBULL/WUSDT",
+    "address": "8PKYyEuj5X5eFEpqDwm1523aJqBu23ZGp99WuQNPJ1ni",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBULL/WUSDT",
+    "address": "5Vo4nyuRe9sKrLkUDUCb62r1XnwcMaQLgNQUAng7RP5X",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBULL/WUSDT",
+    "address": "3KmkbQVViwcZPkVrsS7brSxR8PxtetUXEQADFTCcdggL",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBULL/WUSDT",
+    "address": "4B7aUnF2mjDbXY9yisfoTYeZcTrNFYLUbCEMByLmTcJ1",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBEAR/USDC",
+    "address": "FqWYxpwHqz6DcdwitmsY7jZEDd4kcvEDetA7SsF5At3D",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBULL/WUSDT",
+    "address": "GMKisUYVmuxWemfFzM6ZRK6MTEbnXyAyVPSnJbE6UP42",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BVOL/USDC",
+    "address": "F8tpSFb6PGFkND1gCfN6oMdiLuPocYbtiDyQdGP7VRfX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BVOL/WUSDT",
+    "address": "5zcusFdBD1ZbZKYBnNJsY1dJ1u9sB7pFjzPGQPH8BYpz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBULL/USDC",
+    "address": "8BBtLkoaEyavREriwGUudzAcihTH9SJLAPBbgb7QZe9y",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BCHBULL/USDC",
+    "address": "EnDY66AMMan9FFntp2nNrLW8E8qsXK9Cxi6GZ5QCgRXz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BULLSHIT/USDC",
+    "address": "6dnv5vwBDLuveTAT4uJfvkiCPaLZ1te7LNxovtEj6C7K",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BULL/USDC",
+    "address": "9YXVzyXDkPt2aby5itYuuyd8A91424sdjQyDX666X2C4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MIDBEAR/USDC",
+    "address": "9rG1pswVAJYZWGQnBmxQwDP3sk5esGu3C54T1jQEFDKs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBULL/USDC",
+    "address": "7pCSob1Eu4xc9DzEYCxdtNYyHySBB7HssKm6edcMys3j",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "IBVOL/WUSDT",
+    "address": "Ei6o3P6m6Wrm3hNPmkuZywHBYGLzSG3hsrNj9DNFQiDN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBEAR/WUSDT",
+    "address": "89NwQ9jek8imhBu7rLLZro73xWZA48jKn9uE7ymoGUXJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBEAR/USDC",
+    "address": "DWzf253mjUj2c5d4fhYtS7mQG3oARKgk4bukQ6KgXwqN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBEAR/USDC",
+    "address": "2BQrJP599QVKRyHhyJ6oRrTPNUmPBgXxiBo2duvYdacy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ETHBEAR/WUSDT",
+    "address": "2yojBJvbGPgtHsbfsuPHd4SovLJP6rovNizdMTaLCG41",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MAPSPOOL/USDC",
+    "address": "7ygqNwjA94Qu8YKxB8j2ePXYEFyWLcYGUUCVzV9puAhJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OXYPOOL/USDC",
+    "address": "G1uoNqQzdasMUvXV66Eki5dwjWv5N9YU8oHKJrE4mfka",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAYPOOL/USDC",
+    "address": "3V2sfA9rCnBwjfqGca2UDxD4fVvPXW9GNAQCqAepKC9Q",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ETH/TRYB",
+    "address": "HGJqccU7numZ9mNn3r3z2h2wvW89NPxVpBgX5tBBUMDG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SECO/USDC",
+    "address": "CjsuF2gB28KqgniogCbbpp7FDMBwAkTawEN3gYKsgfS8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CEL/USDC",
+    "address": "9MFFsTVgw6gKPZ1rpc6CSJSLaiNAonChcS7zCCMrAwEP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TRYB/WUSDT",
+    "address": "HeTeNKPCbYHukbGsasev163eeF64BjsQcCXz2xAYTA6S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "CEL/WUSDT",
+    "address": "DjNH5Uedey2bh7yHrqAXzdd48dNZkk1rqnfoZLCpaZkP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "PAXG/USDC",
+    "address": "GJWnwZJ599xjf7cRPP93aaVKqD5xUG5PBLNypHgPxitF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GRT/USDC",
+    "address": "E6umfgnsastaGANjpvzb15jaXdZH1wsg4ENHARgbjqUz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "AAVE/WUSDT",
+    "address": "3JwQFRuYZ3AeVWVRQRByJHT46da3AaGriysZfHU5Exoz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "HOLY/USDC",
+    "address": "QzB9DfWbNAUpfkwLNMLGfkK1AM2zttkMYGSwx5iCnGe",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MAPS/WUSDT",
+    "address": "Ho9gQFFTYNYHHvcK4RKWdhHEYnXGbjobVtmNTNZrr6Cf",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "1INCH/USDC",
+    "address": "HCyhGnC77f7DaxQEvzj59g9ve7eJJXjsMYFWo4t7shcj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TRYB/USDC",
+    "address": "2axQYyzJDaMDA1TF3sfBmg5vkGTiRayrAkHJQA3JsC2v",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RSR/USDC",
+    "address": "3h5QsiZKLkmApBTsMvJBZ8fPivo9HSrmR1LaJABN9zx6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LQID/USDC",
+    "address": "4FPFh1iAiitKYMCPDBmEQrZVgA1DVMKHZBU2R7wjQWuu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BTC/TRYB",
+    "address": "5D38vzPSfmAnYvgQgAjCeDAa2U4N9mCFdAoHaLvNk2nN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PERP/USDC",
+    "address": "7AHAKkL94Mx2VAkQb2kk74oNsxDnQ6aab4XwKwisfFdB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RSR/WUSDT",
+    "address": "97oKse21E4iSgaqqdHdWE1jY4tjTpBCMu4pAQap9gUMC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "AAVE/USDC",
+    "address": "CAww1itfT8rFeTCJCLZqTq9anZ7FpC8NzULNLcJMG4Qa",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "COMP/USDC",
+    "address": "Dbyf1PPrAXfMe1LdEq57QW9GY1D4nNEt2fKVGEo6S3MU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAY/WUSDT",
+    "address": "C4z32zw9WKaGPhNuU54ohzrV4CE1Uau3cFx6T8RLjxYC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "RAY/USDC",
+    "address": "2xiv8A5xrJ7RnGdxXB42uFEkYHJjszEhaJyKKt4WaLep",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAY/ETH",
+    "address": "6jx6aoNFbmorwyncVP5V5ESKfuFc9oUYebob1iF6tgN4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAY/SOL",
+    "address": "C6tp2RVZnxBPFbnAsfTjis8BN9tycESAT4SgDQgbbrsA",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OXY/USDC",
+    "address": "GZ3WBFsqntmERPwumFEYgrX2B7J7G11MzNZAy7Hje27X",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OXY/WUSDT",
+    "address": "HdBhZrnrxpje39ggXnTb6WuTWVvj5YKcSHwYGQCRsVj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BTC/ODOP",
+    "address": "9Wq1gzEN8FtRWxwwoRqzhup2LsuG2xGiwue7hpDVtEQE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBEAR/USDT",
+    "address": "4ipQTCFdzjSmAamyJB9VEZX4oayP9dGzL8FFZo8JEACd",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBULL/USDT",
+    "address": "FDRYz6vytJusbbCwkwEaEzKodRfMJ5cBysGDEYhKpPS6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEARSHIT/USDT",
+    "address": "8V2hMGSF7TQGL2ua7VVmJ2VFYdK2rtM36xdE44KksYJs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBEAR/USDT",
+    "address": "EGQ4u9aS8y8E6tXf4S3BaofvEvUb22iyR8yM56BRBJCU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BULL/USDT",
+    "address": "EDYBn6k4HvcoRxyRM8f1AHN4cKSu62f4tG2CZoLmkD37",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "DOGEBULL/USDT",
+    "address": "BEk2LunaJJu3eXA68s2ABLQgLPbLW7Z3XsLbqsY3mryr",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBEAR/USDT",
+    "address": "GGkC3bEPjLEYrqeJ78LEJaVE8qZop3vJJnVVDAAdFdt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BEAR/USDT",
+    "address": "H2TTsF4bfw9uuXyPwoLtsFnP7s5hwZ5EyXTX2YAjCryS",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MIDBULL/USDT",
+    "address": "6daXtRnEzKoaMPzdauiAdPz8rDRGoEwE7yVxYeadExy3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBEAR/USDT",
+    "address": "5tN6BJspP9nBCdFEepStK2gaJrMU7SGsT8BnUjRWoqms",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBEAR/USDT",
+    "address": "F28F9u7kVrQPqraD9EeV2qABmxdkUU92B4HVSFGfoDJc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BSVBULL/USDT",
+    "address": "F5NVzWhvFrR9kkUtyeTUrL6n79wgqc4767HM4SxTQ2o2",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBULL/USDT",
+    "address": "XZczVo5XmL4QU5JDMgqkNtZ9kysC7XadL5JE849fHbJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BCHBEAR/USDT",
+    "address": "5pxWuy615nvZJWK6RZM4W9C7H6LnE8tbjavR9xBy3rzm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBEAR/USDT",
+    "address": "5qrhU6WtZtrKYc1TcbfmvMf4fQD2XERWCKNMt33uLkp3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BULLSHIT/USDT",
+    "address": "45Qfbfe1wBD1jCQLQb2PugcbwYJEuzHZ4S9UHJoLDBqw",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ALTBEAR/USDT",
+    "address": "5hwrLvNi4yTBZs5MJ8aUwYT3tGfLpEvYDyQvQhyG8AfZ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "BNBBULL/USDT",
+    "address": "3mMivSGHzkLrgwpZKdsTba83T8RFQdH4B9djtKYFe3bw",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "EOSBULL/USDT",
+    "address": "BrGdJMuGa5qyhyVKkYJjbUTR9ZVdPcgTY47uACDgDYtZ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "XRPBULL/USDT",
+    "address": "8poTUzDscEmEY57guLtHAwmsc5YHT9n5QcU8ppiqCWK8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LTCBULL/USDT",
+    "address": "2DtJfYpFJUa9Xstvs4zDFVhbkicoEutxtwkWYTefmYar",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "LINKBULL/USDT",
+    "address": "CmnwqNE4BY612vReEM2ogWTHQ9fzu26VD5Mtk4Cb18bH",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBULL/USDT",
+    "address": "FuhKVt5YYCv7vXnADXtb7vqzYn82PJoap86q5wm8LX8Q",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BVOL/USDT",
+    "address": "3sugXsa7kNeYFPHgLfSARAhxNpowZuwabGx2dqh6YUfx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "IBVOL/USDT",
+    "address": "3BqiaptVkdDCJWz3gea31z1tC3qYfBktUffrSjXjYHWy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MIDBEAR/USDT",
+    "address": "5gKMkgHztYjEZChgJ4U5bBKQkXaSEGz4FfCt2tPXpBN2",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "ETHBEAR/USDT",
+    "address": "3eze1uf2cqwCxainY8xMje1jf41JoDBswBGGrvbvzNYH",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "FIDA/RAY",
+    "address": "9wH4Krv8Vim3op3JAu5NGZQdGxU8HLGAHZh3K77CemxC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KIN/RAY",
+    "address": "Fcxy8qYgs8MZqiLx2pijjay6LHsSUqXW47pwMGysa3i9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OXY/RAY",
+    "address": "HcVjkXmvA1815Es3pSiibsRaFw8r9Gy7BhyzZX83Zhjx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MAPS/RAY",
+    "address": "7Q4hee42y8ZGguqKmwLhpFNqVTjeVNNBqhx8nt32VF85",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIEN/USDC",
+    "address": "E6qm2xxhYa8H2YcPoydo6rFd8zgaX7cNYBoAQcw1QZ4b",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ROPE/USDC",
+    "address": "4Sg1g8U2ZuGnGYxAhc6MmX9MX7yZbrrraPkCQ9MdCPtF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "STEP/USDC",
+    "address": "97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAY/SRM",
+    "address": "Cm4MmknScg7qbKqytb1mM92xgDxv3TNXos4tKbBqTDy7",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "YFI/SRM",
+    "address": "6xC1ia74NbGZdBkySTw93wdxN4Sh2VfULtXh1utPaJDJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FTT/SRM",
+    "address": "CDvQqnMrt9rmjAxGGE6GTPUdzLpEhgNuNZ1tWAvPsF3W",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BTC/SRM",
+    "address": "HfsedaWauvDaLPm6rwgMc6D5QRmhr8siqGtS6tf2wthU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SUSHI/SRM",
+    "address": "FGYAizUhNEC9GBmj3UyxdiRWmGjR3TfzMq2dznwYnjtH",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TOMO/SRM",
+    "address": "7jBrpiq3w2ywzzb54K9SoosZKy7nhuSQK9XrsgSMogFH",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LINK/SRM",
+    "address": "FafaYTnhDbLAFsr5qkD2ZwapRxaPrEn99z59UG4zqRmZ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ETH/SRM",
+    "address": "3Dpu2kXk87mF9Ls9caWCHqyBiv9gK3PwQkSvnrHZDrmi",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAMO/USDC",
+    "address": "FR3SPJmgfRSKKQ2ysUZBu7vJLpzTixXnjzb84bY3Diif",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MEDIA/USDC",
+    "address": "FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TULIP/USDC",
+    "address": "8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MERPOOL/USDC",
+    "address": "GqQLxU1Dc6a7NYWRWdgbcGSTHirjy4quFivxXJGDzDCz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOL/ODOP",
+    "address": "CRW23rK5LksqowrfpQTEUVEFUDNDLF34STyW7gXV18Xt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SLIM/SOL",
+    "address": "GekRdc4eD9qnfPTjUMK5NdQDho8D9ByGrtnqhMNCTm36",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FTR/USDC",
+    "address": "4JP75nztBEo5rYhW1LTQyc4qfjPB33jMWEUvp2DGrQQR",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIQ/USDC",
+    "address": "D7p7PebNjpkH6VNHJhmiDFNmpz9XE7UaTv9RouxJMrwb",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIQ/SOL",
+    "address": "F7SrwFTQ8uWBs9zhN9fctLKLJdEAz8fu7XmNyi9Sebht",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BOP/USDC",
+    "address": "7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BOP/RAY",
+    "address": "6Fcw8aEs7oP7YeuMrM2JgAQUotYxa4WHKHWdLLXssA3R",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WOO/USDC",
+    "address": "2Ux1EYeWsxywPKouRCNiALCZ1y3m563Tc4hq1kQganiq",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CATO/USDC",
+    "address": "9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DGX/USDC",
+    "address": "3B1diUDpBciWLQLjPv28h9XPFsymxK8PSeUCnQJBxiJs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAIL/USDC",
+    "address": "6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BOLE/USDC",
+    "address": "9yGqsboBtvztDgGbGFEaBBT2G8dUMhxewXDQpy6T3eDm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLAPE/USDC",
+    "address": "4zffJaPyeXZ2wr4whHgP39QyTfurqZ2BEd4M5W6SEuon",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLAPE/SOL",
+    "address": "6RSZYm1jPB5BdBgBvDhmRB1TYNsLTkTvAMH6yQr128ac",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MNGO/USDC",
+    "address": "3d4rzwpy9iGdCZvgxcu7B1YocYffVLsQXPXkBZKt2zLc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ORCA/USDC",
+    "address": "8N1KkhaCYDpj3awD58d85n973EwkpeYnRp84y1kdZpMX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PORT/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false,
+    "address": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko"
+  },
+  {
+    "name": "DXL/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false,
+    "address": "DYfigimKWc5VhavR4moPBibx9sMcWYVSjVdWvPztBPTa"
+  },
+  {
+    "name": "SLIM/USDC",
+    "address": "HSfEpP3ciPBC5bBdtjBDa8BxsUW32zUzRGLPpPuDyVY4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "APEX/USDC",
+    "address": "GX26tyJyDxiFj5oaKvNB9npAHNgdoV9ZYHs5ijs5yG2U",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CRP/USDC",
+    "address": "8nXjHLfiR6wB22J7VBGeKjsRiSa54Eu7cgL17GE4kJUw",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SUNNY/USDC",
+    "address": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIQ/RAY",
+    "address": "FL8yPAyVTepV5YfzDfJvNu6fGL7Rcv5v653LdZ6h4Bsu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ATLAS/USDC",
+    "address": "Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "POLIS/USDC",
+    "address": "HxFLKUAmAMLz1jtT3hbvCMELwH5H9tpM2QugP8sKyfhW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIKE/USDC",
+    "address": "3WptgZZu34aiDrLMUiPntTYZGNZ72yT1yxHYxSdbTArX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CYS/USDC",
+    "address": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GRAPE/USDC",
+    "address": "72aW3Sgp1hMTXUiCq8aJ39DX2Jr7sZgumAvdLrLuCMLe",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PRT/SOL",
+    "address": "H7ZmXKqEx1T8CTM4EMyqR5zyz4e4vUpWTTbCmYmzxmeW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "YARD/USDC",
+    "address": "43qZTbWaaygZGU468gPSJsWQqSttUAXnxdrV1tDWFZUG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "gSAIL/USDC",
+    "address": "2zkPyHgQkKG6qJED6MTbjfCfUbZeT9VFwLm1Ld9nKxRp",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DATE/USDC",
+    "address": "3jszawPiXjuqg5MwAAHS8wehWy1k7de5u5pWmmPZf6dM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MOLA/USDC",
+    "address": "HSpeWWRqBJ4HH2FPyfDhoN1AUq3gYoDenQGZASSqzYW1",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LARIX/USDT",
+    "address": "BeF2PKq2jmTJraWEhP28H8BQHUVtuzTyFogtKkxi6D6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SYP/USDC",
+    "address": "9cuBrXXSH9Uw51JB9odLqEyeF5RQSeRpcfXbEW2L8X6X",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SWAN/USDC",
+    "address": "8zPVSrun5AnePjXWjC4EgMdBaLdHtkSUtYbFNobzQHRN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PRT/USDC",
+    "address": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ACMN/USDC",
+    "address": "E3U6GzZwQMDXtd7ABdsfxYx6oeLyaeh6dc6Ez91ZXQrG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TOX/USDC",
+    "address": "5DgXgvgTnXzg12xJCRQnRmqWV4nNaRGabPM7ALcCaZby",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KEKW/USDC",
+    "address": "N99ngemA29qSKqdDW7kRiZHS7h2wEFpdgRvgE3N2jy6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SPWN/USDC",
+    "address": "41UQxR6MBKfkXEpeiXvouagiAZWZsEbcrGyNHHDa4LnK",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CHEEMS/USDC",
+    "address": "5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MIM/SOL",
+    "address": "8GaWdgZ5yPxQpxGii2HCWKQj1JgabH9SGCHx2fFwZK6t",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KURO/USDC",
+    "address": "9oXkdAWFyjDH8BbYrDVJ77r6GWPmUWo9ZYYpE25SZ2td",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NINJA/USDC",
+    "address": "J4oPt5Q3FYxrznkXLkbosAWrJ4rZLqJpGqz7vZUL4eMM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ABR/USDC",
+    "address": "FrR9FBmiBjm2GjLZbfnCcgkbueUJ78NbBx1qcQKPUQe8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "COBAN/USDC",
+    "address": "4VCnuHoo6A3XhQ9YrD6YZWQKVvLxVGzHTB2opNyQi7bz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CRY/USDC",
+    "address": "H3e7YziokpHJfFAMAy2PK6sNph72f38P1ELd5TUQaocv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SFCN/USDC",
+    "address": "2ceEgK8EVErJWLx6B1KtiDYmD3YZmXgpvsXdzqXVdrZN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLA/USDC",
+    "address": "4RZ27tjRnSwrtRqsJxDEgsERnDKFs7yx6Ra3HsJvkboy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ALM/USDC",
+    "address": "DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FRIES/USDC",
+    "address": "8DKD5dKmmwparxCkpV2BQFTxt164rfadK8kX3at6hWUB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MNDE/mSOL",
+    "address": "AVxdeGgihchiKrhWne5xyUJj7bV2ohACkQFXMAtpMetx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "mSOL/USDC",
+    "address": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "mSOL/SOL",
+    "address": "5cLrMai1DsLRYc1Nio9qMTicsWtvzjzZfJPXyAoF4t1Z",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BTC/mSOL",
+    "address": "HvanEnuruBXBPJymSLr9EmsFUnZcbY97B7RBwZAmfcax",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ETH/mSOL",
+    "address": "3KLNtqA8H4Em36tifoTHNqTZM6wiwbprYkTDyVJbrBuu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "mSOL/USDT",
+    "address": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "mSOL/RAY",
+    "address": "HVFpsSP4QsC8gFfsFWwYcdmvt3FepDRB6xdFK2pSQtMr",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "HAMS/USDC",
+    "address": "5j6hdwx4eW3QBYZtRjKiUj7aDA1dxDpveSHBznwq7kUv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BST/USDC",
+    "address": "Hq2tZzrdNrMtDsdXeCf9CrN3aS3geJTEqtLRPyiYRZc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "IVN/USDC",
+    "address": "4JDhmLVobWpUaV8tr3ZGAXmSp3vMf24a2D2dVfoH1E5T",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SLX/USDC",
+    "address": "7xy4r55rLu2QYeSGwTGDCBKEYERDX98f6kQLn9Zre6S3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "JET/USDC",
+    "address": "6pQMoHDC2o8eeFxyTKtfnsr8d48hKFWsRpLHAqVHH2ZP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PLEB/USDC",
+    "address": "3y19brFAFeP6fJo2qTihcSj191kAX2JPrB4xS3pSSZXk",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WOOF/USDC",
+    "address": "CwK9brJ43MR4BJz2dwnDM7EXCNyHhGqCJDrAdsEts8n5",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ASH/USDC",
+    "address": "56ZFVzqMqtDmyry9bK7vi1szUV2nuQ4kT6CzFAB649wE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIZARD/USDC",
+    "address": "9HXwwjYkemjH8Yx14ezUikFcScskZncZciKv4juLD8Y7",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PGNT/USDC",
+    "address": "BTUSB3yTsXB6VZrMUcFWQMacPVCpRpzVGLuzsz5TGqAB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "INU/USDC",
+    "address": "G3Bss3a2tif6eHNzWCh14g5k2H4rwBAmE42tbckUWG5T",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHBL/USDC",
+    "address": "9G2bAA5Uv8JyPZteuP73GJLUGg5CMbhMLCRSBUBLoXyt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLJAV/USDC",
+    "address": "9e63hJZ1HUNDeBwmzJy9VsRT4kzqJ92Xk24htAwjTCeQ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BORK/USDC",
+    "address": "7qYXpNp5YQ75u8hfTmNtGRazf7krXD8w8bmHBLwh14Yt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DEGN/USDC",
+    "address": "1VFShHoNGtMxgSqQwgPi7BmytRvy74Mi616WMMKAVAe",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PIZZLY/SOL",
+    "address": "BGcMVJzt78RpFjpw9E5T7BrFF9H88BVXw4Jf9npL2BER",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FLOOF/USDC",
+    "address": "BxcuT1p8FK9cFak4Uuf5nmoAZ7nQGu7FerCMESGqxF7b",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LEONIDAS/USDC",
+    "address": "DTEmm1nC7n8vb3KmVabT6dEEnSNeDXNu1jWN4u2DfD7Z",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLBERRY/USDC",
+    "address": "HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BIP/USDC",
+    "address": "9tr5uMYHgtJ5yG4SeqHA6kJUdzXrK6QCNGYgewQevuuS",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OOGI/USDC",
+    "address": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DINO/USDC",
+    "address": "AC11orBo1k5PFPyhjTj9o4KjcwD9b95hauSRtExy8eKv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SDOGE/USDC",
+    "address": "9aruV2p8cRWxybx6wMsJwPFqeN7eQVPR74RrxdM3DNdu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BMBO/USDC",
+    "address": "8dpaLWWPv6vFong1D8gHFDmYzHQreXuKcui3XCKBACCj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SBULL/USDC",
+    "address": "762pF5rK7oN7EGHCZs6jb3iKUsKsf586NYFRL1K2xnVx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SPKL/USDC",
+    "address": "6b51zj1C78Tn7R3nd9j4GvyShbMNxxufbU3mqPmbDRcz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHIBL/USDC",
+    "address": "Fc5co91LY2tiZAVuvCmVxDFZWA9SVBVLuxpBcYRQbH1T",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CAVE/USDC",
+    "address": "KrGK6ZHyE7Nt35D7GqAKJYAYUPUysGtVBgTXsJuAxMT",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BABY/USDC",
+    "address": "D5fJAK85W8ve1eNDAaK2FWRQFYnrWzx23KHTe6SdNomD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SLND/USDC",
+    "address": "F9y9NM83kBMzBmMvNT18mkcFuNAPhNRhx7pnz9EDWwfv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SPX/USDT",
+    "address": "AYBvYyww6EVXdBn24MLh2KQUQRV464pXGkv5Fnr39ywv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAO/USDC",
+    "address": "3DZ96FB2rujUDhmuqkwRLfCh7ABEfnLH4AfyfVCM74Vu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WIPE/USDC",
+    "address": "3kuUc5eTZyi7qajuFfDMMUUkqreEkUKtxQbVCjdriKVz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "OTR/USDC",
+    "address": "4k4WXdmrWjCG71E4pxMs6SQRRB5cypGNYatKb2iMnqN4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FUM/USDC",
+    "address": "4M1uP9mYnbraCvw4JuiqFas63K1o74LeoJwpVDW3AAmG",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GMCOIN/USDC",
+    "address": "HhJ9fsNGUWUXNx7yXh8awfY19E5TVuvE7ZexuKBEcgVQ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ASTRA/USDC",
+    "address": "2VDiUJATXD5i7YX3hwWwmC2Y4ozAj7JEEWvXvr34NV8v",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LGBR/USDC",
+    "address": "GfRgW3GSJgo8DVTjfcbTNyAdyNG92XJVPVeqUKNQoanb",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BDE/USDC",
+    "address": "41ZnP6U4catotV7rFuv7JR9n53jcCGrBTBkowoBaQx5q",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "IN/USDC",
+    "address": "49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DICK/USDC",
+    "address": "BmT8C9BYodHEPX8YC9ceXDugtYU2uqQiSp29786kFfd3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KINGSHIB/USDC",
+    "address": "6zH7zwXKyTCUFEGGSjzr4ndegLLPGRAhT2mfcWc6wP1w",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAMU/USDC",
+    "address": "7PX2k66ecaUJHJweNbdCocR4kvPotvDn2FPu69svCsnu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GMC/USDC",
+    "address": "diB1G66nRhvnu41evoXM76TrmBfJTBw9NfFyTK3VuDr",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PART/USDC",
+    "address": "HY9J1nsJxrem6w4uBRaWi2A7iNruNFEooMFopfM584Mv",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHIHT/USDC",
+    "address": "DyR9UCbbWSSCWuvrBLN9heduofsisP6zWyxBP3rMxS2d",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KITTY/USDC",
+    "address": "8bjQ8XvzrDxKxHhTccpLkqGLbBrCAAPuv6KHrgN95nDW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ACE/USDC",
+    "address": "5rc3qjJTh8y5ZsES3eMyTDpxtzk1ncvS6rrfp7Vg3w1x",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SPLN/USDC",
+    "address": "GGR6xsPq11np3WbihDu7BkpGdCVnMT2hqj4Tg2gmbGfW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TBK/USDC",
+    "address": "DoL5SXaax9LwQM9JfqFBymiUfSxH9A9cwPugPuHvNTDM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FLOKI/USDC",
+    "address": "6Z5hwBDGGfKKcEM8n5N3VtJsLjYTH8roX5v5CaGnExyQ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BSAMO/USDC",
+    "address": "AohqcP9t8y9ttheks7PWWf41ny3Zahy3WLF7mNLBuUHJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHILL/USDC",
+    "address": "3KNXNjf1Vp3V5gYPjwnpALYCPhWpRXsPPC8CWBXqmnnN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DEEZ/USDC",
+    "address": "DcKJGNX3rAiEgEFKQiaYx9qydhy2z5vHdHTFjLa4KvGq",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAMOL/USDC",
+    "address": "2SBJ9CC61cwvVpaBBuY9M8zXvtwozrirKzw89tKy32i3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GLUB/USDC",
+    "address": "4V4R9dL7KxvPSVkLa2HCGW93eheGHFYEvThqvCxrPhdx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WAGMI/USDC",
+    "address": "eju5JDyaf29jYNfq7VrVAocVxGayDEHVHHiM7MYc331",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "MEME/USDC",
+    "address": "GB3C6u9Bstk3JwAFwkjRm8N6b3HaTKLhdD91W9ScMTmM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "APPLE/USDC",
+    "address": "EfNw2rVeteCFEjRPaBumGEygTRo8sS1wrVeWyP6W5HTp",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MILLI/USDT",
+    "address": "8aEV8E4ZH7CU24N7tULbw1NFNEgW1EsopEv4dD2Bxr9C",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "HIMA/USDC",
+    "address": "HCE4wQXApNyFBTK7gYa98QCYbshCz7EkH8axNz3ahvKc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLAB/USDC",
+    "address": "5m7CdEhV6Tq5KnSCy5Cg4w6ug5DFCcHrUJ8JMzKVDdav",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SLT/USDC",
+    "address": "DhmedYCzs57hspLjP3SKd3NRcsvDbuPSQdooSQof4vek",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BOKU/USDC",
+    "address": "Dvm8jjdAy8uyXn9WXjS2p1mcPeFTuYS6yW2eUL9SJE8p",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SWERVE/USDC",
+    "address": "5PqLnysygwZt6i6Quf1aNC2J4676DSbDroff94W7oYod",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PANDA/USDC",
+    "address": "GdmQtZpXZiasZi6TVsDHVLeNvPZY1dmuQ82KXDcKEJPy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLFI/USDC",
+    "address": "EqimahPtpP3q9XNyJMWeqQLyXXdiGXU42X7KJr4WGaqm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SONAR/USDC",
+    "address": "9YdVSNrDsKDaGyhKL2nqEFKvxe3MSqMjmAvcjndVg1kj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "APT/USDC",
+    "address": "ATjWoJDChATL7E5WVeSk9EsoJAhZrHjzCZABNx3Miu8B",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FRKT/SOL",
+    "address": "FE5nRChviHFXnUDPRpPwHcPoQSxXwjAB5gdPFJLweEYK",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DSOL/USDC",
+    "address": "5TL64aPK46am9PtwcRcNsXjNF9d2pUHPU8N44qh8BDJh",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PAWS/USDC",
+    "address": "FDvJeLH6tT1sFJWVtP9y8ygu5CqbiLGQgcRWbVTMpzs3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MOF/USDC",
+    "address": "6HKDynRqoLrt2rbFNKPt1arVtFZJqTQZT8odYnGwoeYD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DSC/USDC",
+    "address": "36wb7iVPv5Rn5Q1ppqVmtJaxLdwgUYkr6U3SGa9iL3W1",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DAWG/USDC",
+    "address": "GEHUWno1Kh3Wu8VKCy2dLR2Kxo5YTZUJkA33NG1bCR1j",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "APEC/USDC",
+    "address": "EpY7L87BquhH8fYdYVVQJdNrrs3RYPsETbtLsPR37oeM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DFL/USDC",
+    "address": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "UXP/USDC",
+    "address": "7KQpsp914VYnh62yV6AGfoG9hprfA14SgzEyqr6u9NY1",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FLUFFY/USDC",
+    "address": "GEWVZSLpdMNM7X3U7pRLG6qWNjkr64heXSoTycCADxFc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RLB/USDC",
+    "address": "DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MORN/USDC",
+    "address": "4pGhmFUSaRm9sVTRA9H9vAJJFBs81jQkieM9D8juAjhR",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NEKI/USDC",
+    "address": "13SiVjqfxqfWZ3i2AbDZpiDmL7oxuf1wWfbqNcWBJ52S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NPC/USDC",
+    "address": "9YLPp9myNyurQiegpaxj8eYNvdGkfDCNcuaZMxhccZfx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FRKT/USDC",
+    "address": "8inqBe7D12XJ6tMAzpLCGYpjazWFXG1Ue5q3UZ6X1FM3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MUTANT/USDC",
+    "address": "D7bt1R14wc3BTXybrnFGyrwvucM5AVEzoteR4gqfk2YH",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TRTLS/USDC",
+    "address": "2dKHkfJGKNxmtwdLcsqXFGcb8Xppw5RP6YVWEWjSfAHm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "POLE/USDC",
+    "address": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RDPART/USDC",
+    "address": "DNiHvtcR7VBAFGZtW2QjMYbSMqKGzbv1ej6ykVQj8u7u",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RDPART/USDT",
+    "address": "58kK4JTBQMoxDnTpXUWCiPMLGk1VuTK5ajxsCsibyzHW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PIXL/USDC",
+    "address": "ESd3PskTov69tkW5MmfdV8K7hXR35EXRYorWMNn61dD3",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FUM/USDT",
+    "address": "2HPLwshKLtj32rhhKpYhsmfBkSomipV1j9dBnQ4Aexv9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "UPS/USDC",
+    "address": "DByPstQRx18RU2A8DH6S9mT7bpT6xuLgD2TTFiZJTKZP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FLOW/USDC",
+    "address": "FX3cdTXUqcsxbTEEahZLtCzbxvy9WQViCrDWH6Wsq7eP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "Jungle/USDC",
+    "address": "3tc776fxiBNuEzr2JwrimMdUdayJx2qZ6BhEpJUB2Vf8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TTT/USDC",
+    "address": "2sdQQDyBsHwQBRJFsYAGpLZcxzGscMUd5uxr8jowyYHs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "VINU/RAY",
+    "address": "7W9pEftZmMvq9wm9tf5fLfMGMAY3bSa362ve1LzGDZq9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MONGOOSE/USDC",
+    "address": "9d2NsCGUidYc4b4JD8vc9hbhm1HdTfGpCByUAUakGHCB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CRYY/USDC",
+    "address": "GN7GEoxeg9yKMWt5KbvQXbjEtcCPjyPicd9AW16NjK6a",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NAXAR/USDC",
+    "address": "AAQR6j1ftW2g6ubAkTjrYvkg3H5aPud7i1GXViHLvRVU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BASIS/USDC",
+    "address": "HCWgghHfDefcGZsPsLAdMP3NigJwBrptZnXemeQchZ69",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CRWNY/USDC",
+    "address": "H8GSFzSZmPNs4ANW9dPd5XTgrzWkta3CaT57TgWYs7SV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SAFU/USDC",
+    "address": "H8sjxDJWVxC3kP5uZ3p9eZncc4Czn9pTWEA6bH2XX7rM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PUFF/USDC",
+    "address": "FjkwTi1nxCa1S2LtgDwCU8QjrbGuiqpJvYWu3SWUHdrV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NOVA/USDT",
+    "address": "2JYtpRB51ShaB7i4eaQyx6QYqWFmm38CAakFSMP8xush",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ALTAR/USDC",
+    "address": "3cN1aMUUCyDC8VVcSyoC9ejAaYFkBKp65deCKJfbH7pL",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RAC/USDC",
+    "address": "21eq7jsx59jPFo2gt4npreKu1voURzcjyPniBdgupuQC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PSK/USDC",
+    "address": "3XRsg7YRVcvZme9rHpATL55WPHrnGXvVL8E7ycNNFu4f",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DAPE/USDC",
+    "address": "CQQAHgfsu5uFTPzwewZ7QrLLSPk1K9MmqnuxiwmPDBzN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SMBD/USDC",
+    "address": "6KtErANtAw4oXGhF1LJhKk2f8xomCwo4bwLcntZYJBVt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PRISM/USDC",
+    "address": "2MvXnxngd1gKp6gE8Q63wiPHSpveWcx8x4wf43VpyiA6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOULO/USDC",
+    "address": "EmKW38yeXHetYYGVnfnuHJB7WEv11dcrofD4sdqZ2SSV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHIBT/USDC",
+    "address": "3muYjVPCnunGhXAq87oYBWWdAPWJvEKbbg1fqKZLLkni",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "THECA/USDC",
+    "address": "6uH2rvVUySwnVFw7CMNV4HTzuxHTUNC7pK22pXcqgSey",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SPZ/USDC",
+    "address": "DYGLKjaY2hknHJkGWPvNCWMNhaHjKYWxDPiNwyeNwVXE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHDW/USDC",
+    "address": "CVJVpXU9xksCt2uSduVDrrqVw6fLZCAtNusuqLKc5DhW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHDW/SOL",
+    "address": "CiDPLzvb5Ua8XwuRJJPjj2cPWsUeAicKVP4a6vCJsBib",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TICKET/USDC",
+    "address": "HBfdGEMeQQpGogC3Li4uhRqZxGZAVLM9zimt31vdtSdA",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MEAN/USDC",
+    "address": "3WXrxhrj4PXYUwW4ozBjxdSxwEp9ELKf3vETxXTqdiQJ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MEAN/mSOL",
+    "address": "EpdV4kLk8szmnqkuGCzFJzbMDjMswNxYQ2mhS2GixnW8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MEAN/RAY",
+    "address": "2zJKJgDb8M57J8K5JHZqJyU5ZWZHsxyFtCPi6GdRCi91",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "HIPPO/USDC",
+    "address": "HnLKrfMN64ccSbYCj4DxjgPYveSkFujYrnMr4cvPfL8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GGSG/USDC",
+    "address": "2x6dmFevT3MGCZYPE2eagautjyQFVq4YwHsKow5bCVCs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "stSOL/USDT",
+    "address": "EiTq4pPY33MBGiV6kdgGCeyJv6NVACVE9MSdB9rUDX2Q",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "stSOL/USDC",
+    "address": "8sSrcqpFqASrMfRpjkq6qfG3AR4xCZp7L2RirjUBxX9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "stSOL/SOL",
+    "address": "ExfPnrhpoB4BjK7KjhcKPaK8GWwVssTNDx19ctnmsjmT",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLID/USDC",
+    "address": "Bd2kNuq1tCiRNCMFRRcWt5EdeUK4Lvf8ufjSdzjyqegq",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SYX/USDC",
+    "address": "FKbD1GvqXWf8PRfgZo1S6U2gvpjmzF9drNFRzBusBdeA",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MILLI/USDC",
+    "address": "6Ncr1AW66ttss8fM8uHCt9vdqVgD1sGz83MrEBbhKeZM",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TRUESIGHT/USDT",
+    "address": "DFa5HoR8poD6VqXVeUjQHRF8qjv3VHQ8KDeGswFUfo6N",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHIBA/USDC",
+    "address": "3M8uZhLZMxFUedsEgPzywZr9qbGTv3kKNMCEfAmg8iyK",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CONDOMS/USDC",
+    "address": "FitnUARvYB9LRXJtECe2YjLzPgLD88fDRGQgqKwLDqtV",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SVT/USDC",
+    "address": "HuFKVQNyB177c9DiocQksYzBCtHMRUP5bBXZJzuLvYQm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BAPE/USDC",
+    "address": "5ygcSjBuorC12JEzf5mvDzcWpdSLPDGgbDU4LompEFA",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CWM/USDC",
+    "address": "E8CLGjBzJD7TPgjfcWm8dvpXhz5pvdjcPxhG7qi7Y5un",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "USDC/NXDF",
+    "address": "AjPZqEtshUpjFRuSUEzWa9JNX8rrkn5v5ZGHJWVCK1gY",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "VITAL/USDC",
+    "address": "ESqvPXG6QYQxjk391WiFf2DVZCC6o9H5yiBiZWQpvN6S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "Seagrass/USDC",
+    "address": "HY8f1hFK1EvhDymSNhtogVxHy5oMyxy5d5CGwpuYuV5S",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "Fossil/USDC",
+    "address": "NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SWOLE/USDC",
+    "address": "3SGeuz8EXsyFo4HHWXQsoo8r4r5RdZkt7TuuTZiVbKc8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SIM/USDC",
+    "address": "F8E2ap49XFoQU82hFmeMWNSpaYkq7ea8wMWxHjV4ewp8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ISS/USDC",
+    "address": "VEwPVH2AzoqQb35DP8gvY3B6hj5mwRzGhfee977b27Z",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WVIP/USDC",
+    "address": "8Kw7mLsaaMHqz19AKcANov3SismfrvmduZfGQeRj1XjB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "AART/USDC",
+    "address": "HubRne1PhTa8ufcGRmS6sMJpbB5yY3BEykUuw8xXoAyy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOB2/USDC",
+    "address": "AP6rUgcv8k2kkLrbyAUnY8z1q4hUvjnrcmewuQbMX7Wo",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BITXBIT/USDC",
+    "address": "ABydcz3WA6JH4mMkuTLQwdqrRFuvrNrQd3J83uFM5oB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "daoSOL/USDC",
+    "address": "8mGtAoxqxJGZQGFgUWZrzxvRrB6rQU6J6NQLjCBiiVmg",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BUNNY/USDC",
+    "address": "AvVJcsk26dYHXS9Uya2tkDdSD3i59ubvo1qYKB2w2j5C",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SLCAT/USDC",
+    "address": "7tBTNaUM38y1mn1oozbL4TzNeb33ySg8W5eBer9HBPZ5",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BMA/USDC",
+    "address": "6Yxgcfs3oyZcGSxAemHscLJSZ9YWHymH7MummtiTQadc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "USDC/ODOP",
+    "address": "3fgxs2LcqmHTvPCpuzkfrMgXMHhq7aBSX61gSQCXf75n",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ULA/USDC",
+    "address": "3fxSHmDZx9zFdRucnAtTLAdFtqx2cvo4VaTix2iTgF7k",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CMFI/USDC",
+    "address": "3Mf3bxVS2zLW3bbr9BNbqdiizaUwCGwoi3xhrAXfbFnW",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GOON/USDC",
+    "address": "B8L7mjHL3xm6iYo8n7r7SigvFYqg6pwQdJdeGSuPQTfD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FREN/USDC",
+    "address": "GmaUDJpPgmLq67VqQbwqhdFo6qFZ28YWJZZDumb2gtFD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DLN/SOL",
+    "address": "1DeDcStP8yLorneK4wnaLokRCmGxFiSUSgUwT9V2tgj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KITTY2/USDT",
+    "address": "H8VLs7VYaBg3rg1NvVNJKb1QWMf3kzieTPkgPmVffXTx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SOLACE/USDC",
+    "address": "jipGB24Hmkr1iHWL1gt5xcDCzNd3WcCHopt9wcmeiQE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "EPOCH/USDC",
+    "address": "D8T1HHdfDYLtNThBQigPy52YPDjR1mCFp6yUxyCqprSh",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "KASHI/SOL",
+    "address": "Gu8Uuy5un8THFCGKJ9eXroXDGr6nxyYbAUF2JQBCzf5x",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NARWHAL/USDT",
+    "address": "3qXkLj4vAT4B2dMJQgtKSrNxLfrSQawMZtAzKVEsMyYT",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PRMD/USDC",
+    "address": "9wmsybKvBWKatj7FxkYhauna6z4mcMDXQrjNvdy2kdgE",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LRA/USDC",
+    "address": "6gajxtdWsm46yy8Btedr8DHmrr78cg554eQWp4WHBbgo",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NXDF/USDC",
+    "address": "4RnYHByMqmrmwu5M4aArX16nAKDg9RWh9Qo3yoRfd3Py",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FRTN/USDC",
+    "address": "Fp3v2yBS216zbucTrSVACeEWVVMo1V7GdSLePKcKBzSj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CRB/SOL",
+    "address": "AbwkCDCzME92xa8bJu9fGbJkDS7awyDqUa7HGtBreScQ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "METAIN/USDC",
+    "address": "4Mv2Bc8o32i6pPdWQNuU7Ciw9FSqqtd4pDi52PmMgZJ4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ENC/USDC",
+    "address": "AiKDoMjEjhso6hmwKkSm9D4LD98PUcS5TpPknidd4hoy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MHC/USDC",
+    "address": "D8hdjnx7KGKWDuJ3mmasWMbg1dVyf1sBR8zPnejqqz2s",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BND/USDC",
+    "address": "83HNSujfkWKdXrBaFUeG28eqykksyQNaCAMYXoWJpZN7",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NAGA/USDC",
+    "address": "huVJXwRntbeSi6cZpEkane7wvCZo4gcmN3WNxr6gw89",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ASDEX/USDC",
+    "address": "D59KvDWY6JYZ8bc9sACMPyGQh4MFT2zStTZqV1LMxYZd",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GEAR/USDC",
+    "address": "HzFs14Ua3opDJAg1nmonwJWGuLspnqafdv8wxWxQXrNa",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "cMETA/USDC",
+    "address": "4jk9cxxGKNuBGv8ENdgDCWFHy9SzH3hf6e29TVWtFAyc",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "vMETA/USDC",
+    "address": "HCYfrJr82havVjQ4jj7WGRCSYVwGbqh8Fjc1opZpUihL",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ZBC/USDC",
+    "address": "C3c2NZurMhwrgMAaUXewjDGTy5f93MvYbhYCYfXXmnZN",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DUST/USDC",
+    "address": "6uCCYVogMFvTjnSk3itNEAsVUmpJxj9F6kyTJwRTJy63",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DUST/SOL",
+    "address": "8WCzJpSNcLUYXPYeUDAXpH4hgqxFJpkYkVT6GJDSpcGx",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ALL/SOL",
+    "address": "C58DcdQAkqKwk9ZrnE5Mocgp1Fz6yJVTrttCgHKYGK8T",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RATIO/USDC",
+    "address": "HtcFhAWSJnuvbJvGLoRFr36zC5y1M1RPtBCgGQfdLFw5",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ARTE/USDC",
+    "address": "4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "AUR/USDC",
+    "address": "Hd5uEsj4fnEYsdPdY8ReptKoXGkUZYM9ZC5GHZcHkCBY",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "BV/USDC",
+    "address": "5tVUY9id5G6tPBu5C6hFZ9f6As3A4eopf7QTApt5owAy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "DGOD/USDC",
+    "address": "FFmE1patBuqcjRZ1TMrokrefnpMqzmLZMecLGhvnWb3b",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "LIFL/USDC",
+    "address": "AYbybZJN533vgPdZrJga6Zw7WtZCnUofNLiMjneWUP6V",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PLWAV/USDC",
+    "address": "Ccgq4UV9sFtXp9yMGXwJRcJz9UsgQFEjF3Fmui2Z6Xhm",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "THUGZ/USDC",
+    "address": "5Rcqv6qXRFFnK3dzYu96sKqf6wtC8hEA1ivRdMwFHEH2",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ODYSSEUS/SOL",
+    "address": "EVMYGduB23RgbnCEx7i7xKMvGCXM8P3BKS4iF67gQwc1",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "MMA/USDC",
+    "address": "CbWz5gn5gUyUhjjYpCNZq78dA7zjx6q3eCnQfURcmCUD",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "CODE/USDC",
+    "address": "E6VQHawoPZXNWJsyZNM4BYCycpgBE75jBafy81DmNd4r",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "HONEY/USDC",
+    "address": "4bhcTWnsVV6LSUJMQu4FqGL13DQmgkvj21MrFAhhSdPq",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "TRPY/USDC",
+    "address": "3N4UgbUHUkwMU5DKFYRvz3HASbFjs3q9JLAYVRdEQvbp",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "NOCH/USDT",
+    "address": "9GgM6YwhdzmoY4VtVsrS3jcCx2NSRraCX1EPGvezukAz",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PLD/USDC",
+    "address": "5ocAKeiikP1y9wZhgNQDKu3UXxrYusxmDVnp44z4jner",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "RPC/USDC",
+    "address": "vfARqzk9ZtFpK7etvUq23QzWidopgwBzJx29je7JER8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PU238/RPC",
+    "address": "Be5wEZRFq1ps5TntHviRsZLYuS3yeYtyXbm5BjhgR5wP",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FORGE/SOL",
+    "address": "BNtNYTU19s8N8f7trL81MezZ5RiZFp7YqKLC3TAzdibR",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FORGE/USDC",
+    "address": "2ReqwRRdKoXszAMhrWatSf648SV7gtoYw79yY2bz7pw4",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GST/USDC",
+    "address": "2JiQd14xAjmcNEJicyU1m3TVbzQDktTvY285gkozD46J",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ACA/USDC",
+    "address": "FigeTPjS352wNWoxdPyyDGmbGydCDf2igq4meLYP7mX",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "$EGG/USDC",
+    "address": "5AxX3Geo6YKvAt5FyVJJhjX8zBK7b11886ZCL3su8QXF",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "GMT/USDC",
+    "address": "9KLmeRBpT4chsxkJatfDdzrtTBvBastYp9wMe712ASCg",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FINE/USDC",
+    "address": "4zexVxEB795qpRJVFVAqWV9UnF5gjEcxK4RTDHxeEprQ",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SCP/USDC",
+    "address": "Ayar4iapfn6LUvo5rWq4ndZ7rwT9HGRge94H9wYZymk5",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SHOIT/SOL",
+    "address": "EcVUMb4u2sggUFJGbzCX7pPdKKhg8UG6cjLdRCheT83d",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FERO/USDT",
+    "address": "7Z9mCdS7gsSUAeikMb2LHQXzeukhurXmgjJU8xNy9gU8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FUEL/USDC",
+    "address": "Fcy2padmruFoaQzwC6hMLSXWJ4Loq46Y4EuD5wnPH2fe",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "WNDO/USDC",
+    "address": "FZF1gAKqZJgMAuWSsvxxQCHUeiyMfTxtpgnza4t1Ze3R",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "ARB/USDC",
+    "address": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false,
+    "delisted": true
+  },
+  {
+    "name": "FBZ/USDC",
+    "address": "AeTCFsNppdq1d5kgu489tkamCzkbsXKTcS8hRQ8qhz7m",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "SSURF/SOL",
+    "address": "9EohzYYJ8bkWFu1xhTcbLA5gLHh7qaTH8KGDnT5phYnU",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtGENE/SOL",
+    "address": "ArFSjGZX5YxCQ1EnMWx3fDP2WH6gGHK21gPzFDtzF71e",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtGGSG/SOL",
+    "address": "FR8Z6nCCFr7ZV8b5uddBYftCVsPwgU2vabp7YWMkKXYY",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtFFF/SOL",
+    "address": "E3fxHCkCf2Jw4zu4HhaaWH2EfGQCov2gxWZjHPscwRMi",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtDAPE/SOL",
+    "address": "E8fRXrxSWotPbP7iQatXLmnDj4efp1q7cSZ4zkhYpVS6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtBV/SOL",
+    "address": "LwF356ST2od3Bx4Xpwh8LBtZC4yeaKeCEQ8174XXhQy",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "svtAURY/SOL",
+    "address": "AEhy4nHsJvFJD4dbHT5oBfTnkNk1o9RH3nqfb6RgikNu",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "FAB/USDC",
+    "address": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": true
+  },
+  {
+    "name": "RIN/USDC",
+    "address": "BB3YdFM34vvLZpUHSRK8defoJRwF3rtXoom7rtT8aUMk",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  },
+  {
+    "name": "SOL/USDC",
+    "address": "HHcNLmBc9ngB34r376AnS7XTCYfgd9Anu4qvhy7mv3Qy",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  }
+]
