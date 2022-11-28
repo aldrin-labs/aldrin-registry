@@ -5,7 +5,7 @@ Each entry should have (in src/tokens.json)
 1. Token Address
 2. Token Name
 3. Token Symbol
-4. Link to the twitter page of token if available
+4. Link to the twitter page of token
 5. Link to Coingecko or CoinMarketCap or Nomics if available
 
 > **Note**
