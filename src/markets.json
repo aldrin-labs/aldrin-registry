@@ -2921,5 +2921,11 @@
     "address": "3PB2WZB7kiT9fi8NyiSN3gorkC9Ro5pRCPzr9VqWgJSZ",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
+  },
+  {
+  "name": "FTR/USDC",
+  "address": "61bfKBdWdG3wKWpTzLM4BA4PqaSPNTWK6KDEh1Hny3yk",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
   }
 ]
