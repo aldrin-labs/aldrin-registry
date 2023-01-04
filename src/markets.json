@@ -2921,5 +2921,11 @@
     "address": "3PB2WZB7kiT9fi8NyiSN3gorkC9Ro5pRCPzr9VqWgJSZ",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
+  },
+  {
+    "name": "CKU...qKa/USDT",
+    "address": "8FTnQL2ygzHN3UGte2H8Cg5tZzMGJER2fpi2J9Z7g2ML",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
   }
 ]
