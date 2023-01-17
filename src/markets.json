@@ -2921,5 +2921,11 @@
     "address": "3PB2WZB7kiT9fi8NyiSN3gorkC9Ro5pRCPzr9VqWgJSZ",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
-  }
+  },
+  {
+  "name": "VOLT/USDC",
+  "address": "FxHvReo3u2Lcu1ovqpe5KehHDJ4cWTVUvEYRjX58YepR",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
+}
 ]
