@@ -1,10 +1,4 @@
 [
-{
-   "name": "FoM...pwK/USDC",
-   "address": "D8zN6zQuQEyuNdmmEHfb3i2BnsrPg6fT9g5HmySxEzQw",
-   "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
-   "deprecated": false
-  },
   {
     "name": "ARB/USDC",
     "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
@@ -2925,6 +2919,12 @@
   {
     "name": "YAKU/SOL",
     "address": "3PB2WZB7kiT9fi8NyiSN3gorkC9Ro5pRCPzr9VqWgJSZ",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  },
+  {
+    "name": "B4C3/USDC",
+    "address": "FoMNYEhKUMfcRdU8TswjoABD5CroEriTat4EhFayGpwK",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
   }
