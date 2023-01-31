@@ -2921,6 +2921,18 @@
     "address": "3PB2WZB7kiT9fi8NyiSN3gorkC9Ro5pRCPzr9VqWgJSZ",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
+  },
+  {
+  "name": "SKP/USDC",
+  "address": "zWj2S45ydH6onBUrAtLWBD8nrM3R95V6rSw8n7sGx62",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
+  },
+  {
+    "name": "B4C3/USDC",
+    "address": "D8zN6zQuQEyuNdmmEHfb3i2BnsrPg6fT9g5HmySxEzQw",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
   }
 {
   "name": "FIRE/USDC",
