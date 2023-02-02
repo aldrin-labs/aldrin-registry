@@ -2933,5 +2933,11 @@
     "address": "D8zN6zQuQEyuNdmmEHfb3i2BnsrPg6fT9g5HmySxEzQw",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
+  },
+  {
+    "name": "FLONK/USDC",
+    "address": "HGtEzTX4PSGsDai2KqFVW4rAmrFvssU5UowvAyLMscBp",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
   }
 ]
