@@ -6,6 +6,12 @@
     "deprecated": false
   },
   {
+  "name": "COPE/SOL",
+  "address": "JDgRz11xboL2buSoayEXYUxkyMn8WP4QhXZpK82pBDSB",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
+  },
+  {
     "name": "SHDW/USDC",
     "address": "77a32S2KQhJ4rUMKuZmoG4WrKDBiN6VXB6CzhUd7BsnH",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
