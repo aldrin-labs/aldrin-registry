@@ -3,6 +3,13 @@
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
     "deprecated": false
   {
+  "name": "Wildfire/SOL",
+  "address": "8Go9Y3hUXhr91YyDTSUFV2dckipGkC2LcY62NtvFXPCU",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "twitterLink": "https://twitter.com/WildfireToken",
+  "deprecated": false
+},
+  {
     "name": "ARB/USDC",
     "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
