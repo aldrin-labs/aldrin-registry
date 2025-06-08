@@ -1,4 +1,7 @@
-[
+[  "name": "TPX/USDC",
+    "address": "2DZP4LWdLRUDhLD6ocQyRsDebM1667XvoRUqk5BuoKTG",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
   {
     "name": "ARB/USDC",
     "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
