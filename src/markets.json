@@ -2500,6 +2500,12 @@
     "deprecated": false
   },
   {
+    "name": "BMA/USDC",
+    "address": "9RVjo9Hpwtwn36WexjyhPn69DRvFfzyormRDstR67rbC",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+    "deprecated": false
+  },
+  {
     "name": "USDC/ODOP",
     "address": "3fgxs2LcqmHTvPCpuzkfrMgXMHhq7aBSX61gSQCXf75n",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
