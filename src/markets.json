@@ -2921,6 +2921,12 @@
     "deprecated": false
   },
   {
+    "name": "CHOW/USDC",
+    "address": "2JqT2eZts2NZxK3nPn3FjuVvbVayt1tcKcsjBJG8aCDN",
+    "programId": "8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6",
+    "deprecated": false
+  },
+  {
     "name": "YAKU/USDC",
     "address": "BhuYxJo57s3WrZ3kXYV4ZfmDH1fRoBQrGECZYMR55yiS",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
