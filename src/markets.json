@@ -10,6 +10,12 @@
   "deprecated": false
 },
   {
+  "name": "HzA...8kr/USDC",
+  "address": "9P3h93rmNr8gFUe49wytuC9AVPeUcA5uLBHk1cSqUfM3",
+  "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
+  "deprecated": false
+}
+  {
     "name": "ARB/USDC",
     "address": "DKaHUPxXwtgNTWZRMg8UDM9r6J6H6FYc8WenTwjgMpVe",
     "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH",
